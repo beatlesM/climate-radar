@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: '0 13 * * 0'   # 每周日 13:00 UTC（美西周一 05:00）
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'data/stores.json'
+      - 'data/site.json'
+      - '.github/workflows/weekly.yml'
 
 permissions:
   contents: write
