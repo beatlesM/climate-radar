@@ -319,38 +319,5 @@
    "unitCount": 1,
    "discount": null
   }
- },
- {
-  "handle": "dehumidifier-drain-hose",
-  "title": "5 ¾” Dehumidifier Drain Hose – Universal Fit",
-  "type": "Home appliance",
-  "vendor": "hOmeLabs",
-  "cat": "dehumidifier",
-  "url": "https://homelabs.com/products/dehumidifier-drain-hose",
-  "price": 14.99,
-  "compare": null,
-  "available": true,
-  "created": "2024-09-09",
-  "updated": "2026-10-23",
-  "sku": "HME021008N",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [],
-   "standard": null,
-   "flags": [],
-   "excerpt": "5 ¾” Dehumidifier Drain Hose – Universal Fit Home appliance commercial dehumidifier dehumidifier || Effortless Humidity Control – Eliminates the need for manual emptying by providing continuous drainage, so your dehumidifier runs uninterrupted. Universal Compatibility – Designed to fit hOmeLabs 22-Pint, 35-Pint, 40-Pint, and 50-Pint dehumidifiers, perfect for basements, bedrooms, and bathrooms. Leak-Free Performance – 3/4-inch threaded connector with rubber gasket ensures no leaks or spills. Easy Installation – Simply connect the brass fitting to the dehumidifier outlet, and place the hose end into a drain—quick and hassle-free. Durable & Flexible Design – Features a solid brass fitting, ste",
-   "unitCount": 1,
-   "discount": null
-  }
  }
 ]
