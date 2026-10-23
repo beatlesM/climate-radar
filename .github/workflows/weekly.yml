@@ -1,0 +1,71 @@
+name: weekly-report
+
+on:
+  schedule:
+    - cron: '0 13 * * 0'   # 每周日 13:00 UTC（美西周一 05:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: weekly-report
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Detect site URL
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          REPO="${GITHUB_REPOSITORY#*/}"
+          if [ "$REPO" = "$OWNER.github.io" ]; then
+            echo "SITE_URL=https://$OWNER.github.io/" >> "$GITHUB_ENV"
+          else
+            echo "SITE_URL=https://$OWNER.github.io/$REPO/" >> "$GITHUB_ENV"
+          fi
+
+      - name: Fetch, normalize, render
+        run: node src/pipeline.mjs
+
+      - name: Compose and send email
+        continue-on-error: true
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+        run: node src/send-email.mjs
+
+      - name: Commit history
+        run: |
+          git config user.name "climate-radar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "weekly: $(date -u +%F)"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

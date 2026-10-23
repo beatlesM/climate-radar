@@ -1,0 +1,21 @@
+[
+  { "domain": "afloia.com", "brand": "Afloia", "active": true },
+  { "domain": "moiswell.com", "brand": "Moiswell", "active": true },
+  { "domain": "kesnos.com", "brand": "KESNOS", "active": true },
+  { "domain": "abestorm.com", "brand": "Abestorm", "active": true },
+  { "domain": "whynter.com", "brand": "Whynter", "platform": "woo", "currency": "USD", "active": true },
+  { "domain": "levoit.com", "brand": "Levoit", "active": true },
+  { "domain": "dreo.com", "brand": "Dreo", "active": true },
+  { "domain": "vornado.com", "brand": "Vornado", "active": true },
+  { "domain": "airdoctor.com", "brand": "AirDoctor", "active": true },
+  { "domain": "oransi.com", "brand": "Oransi", "active": true },
+  { "domain": "alen.com", "brand": "Alen", "active": true },
+  { "domain": "lasko.com", "brand": "Lasko", "active": true },
+  { "domain": "newair.com", "brand": "NewAir", "active": true },
+  { "domain": "homelabs.com", "brand": "hOmeLabs", "active": true },
+  { "domain": "waykar.com", "brand": "Waykar", "active": true },
+  { "domain": "baseaire.com", "brand": "BaseAire", "active": true },
+  { "domain": "airoasis.com", "brand": "Air Oasis", "active": true },
+  { "domain": "pureenrichment.com", "brand": "Pure Enrichment", "active": true },
+  { "domain": "probreeze.com", "brand": "Pro Breeze", "active": false, "note": "GBP 标价，非美国市场" }
+]

@@ -1,0 +1,2286 @@
+[
+ {
+  "handle": "whynter-nex-inverter-14000-btu-ashrae-12000-btu-sacc-smart-control-dual-hose-portable-air-conditioner-arc-1230wn2",
+  "title": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1230WN2",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-nex-inverter-14000-btu-ashrae-12000-btu-sacc-smart-control-dual-hose-portable-air-conditioner-arc-1230wn2/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1230WN2",
+  "barcode": "",
+  "spec": {
+   "btu": 12000,
+   "btuAshrae": 14000,
+   "btuSacc": 12000,
+   "btuAll": [
+    14000,
+    12000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 600,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 14,000 / SACC 12,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1230WN2 Air Comfort || Elevate your comfort to new heights with the Award Winning Whynter ARC-1230WN2 14,000 BTU (12,000 BTU SACC) NEX Inverter Dual Hose Portable Air Conditioner. Engineered to perfection, this powerhouse not only cools, dehumidifies, and circulates air in spaces up to 600 sq ft but does so with unmatched efficiency and reliability. Recognized as one of the Best Portable Air Conditioners of 2024 by Forbes and U.S. News & World Report. The innovative “hose-in-hose” configuration ensures optimal performance, while smart Wi-Fi connectivity puts control at your finge",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1280wx-12000-btu-dual-hose-portable-air-conditioner",
+  "title": "Whynter Smart Portable Air Conditioner NEX Inverter 13,000 BTU (10,000 BTU SACC) Dual Hose Cooling | ARC-1280WX",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1280wx-12000-btu-dual-hose-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1280WX",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": null,
+   "btuSacc": 10000,
+   "btuAll": [
+    13000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter Smart Portable Air Conditioner NEX Inverter 13,000 BTU (10,000 BTU SACC) Dual Hose Cooling | ARC-1280WX Air Comfort || Take your home comfort to the next level with the Whynter ARC-1280WX Smart Portable Air Conditioner equipped with NEX Inverter technology, 13,000 BTU (10,000 BTU SACC) dual-hose cooling, and a sleek white design. Precision engineered for peak performance, this powerful unit cools, dehumidifies, and circulates air in spaces up to 500 sq. ft., delivering unbeatable efficiency and reliable comfort you can count on. Designed for convenience, this innovative model boasts smart app connectivity that puts control right at your fingertips whether you’re at home or away. Seam",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-14sh-14000-btu-dual-hose-portable-ac-heater",
+  "title": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner with Heat | ARC-14SH",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-14sh-14000-btu-dual-hose-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-14SH",
+  "barcode": "",
+  "spec": {
+   "btu": 9200,
+   "btuAshrae": null,
+   "btuSacc": 9200,
+   "btuAll": [
+    14000,
+    9200
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner with Heat | ARC-14SH Air Comfort || Enjoy versatile and efficient climate control with the Award Winning Whynter ARC-14SH 14,000 BTU (9,200 BTU SACC) Dual Hose Portable Air Conditioner and Heater. This powerful unit cools, heats, dehumidifies, and functions as a fan, delivering comprehensive comfort in spaces up to 500 sq. ft. Equipped with an Activated Carbon filter and washable pre-filter, it ensures clean air quality, while the sleek platinum/black design enhances any space. Highly ranked by sources like Good Housekeeping, Business Insider, and GearLab.com, the ARC-14SH is your solution for comprehensive climate control. Choose Whynter",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-14s-14000-btu-dual-hose-portable-ac",
+  "title": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner | ARC-14S",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-14s-14000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-14S",
+  "barcode": "",
+  "spec": {
+   "btu": 9500,
+   "btuAshrae": null,
+   "btuSacc": 9500,
+   "btuAll": [
+    14000,
+    9500
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner | ARC-14S Air Comfort || Achieve optimal comfort with the multi Award Winning Whynter ARC-14S 14,000 BTU (9,500 BTU SACC) Dual Hose Portable Air Conditioner. This versatile unit cools, dehumidifies, and circulates air effectively in spaces up to 500 sq. ft. Its Activated Carbon filter and washable pre-filter, ensure superior air quality. The sleek platinum/black design and dual-hose system maximize cooling power while blending seamlessly into any space. Crowned the 2025 Best Overall by Good Housekeeping, the 2024 TIME Stamped: Best Technological Portable Air Conditioner, and awarded by trusted sources like USA Today and The New York Post.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1280mx-13000-btu-dual-hose-portable-smart-air-conditioner",
+  "title": "Whynter Smart Portable Air Conditioner NEX Inverter 13,000 BTU (10,000 BTU SACC) Dual Hose Cooling | ARC-1280MX",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1280mx-13000-btu-dual-hose-portable-smart-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1280MX",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": null,
+   "btuSacc": 10000,
+   "btuAll": [
+    13000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter Smart Portable Air Conditioner NEX Inverter 13,000 BTU (10,000 BTU SACC) Dual Hose Cooling | ARC-1280MX Air Comfort || Take your home comfort to the next level with the Whynter ARC-1280MX Smart Portable Air Conditioner equipped with NEX Inverter technology, 13,000 BTU (10,000 BTU SACC) dual-hose cooling, and a sleek black design. Precision engineered for peak performance, this powerful unit cools, dehumidifies, and circulates air in spaces up to 500 sq. ft., delivering unbeatable efficiency and reliable comfort you can count on. Designed for convenience, this innovative model boasts smart app connectivity that puts control right at your fingertips whether you’re at home or away. Seam",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1050xph-12000-btu-portable-ac-heater",
+  "title": "Whynter 13,500 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Wifi enabled Portable Air Conditioner and Heating Function with Built-in Dehumidifier | ARC-1050XPH",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1050xph-12000-btu-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1050XPH",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": 13500,
+   "btuSacc": 10000,
+   "btuAll": [
+    13500,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 13,500 / SACC 10,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 13,500 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Wifi enabled Portable Air Conditioner and Heating Function with Built-in Dehumidifier | ARC-1050XPH Air Comfort || Enhance your home’s climate control with the Whynter ARC-1050XPH MultiCool Smart Control Portable Air Conditioner and Heating Function. This advanced unit combines cooling, dehumidifying, heating, and fan functions, efficiently regulating temperatures in spaces up to 500 sq ft. With WiFi-enabled smart control, adjust settings remotely for unparalleled convenience. Its sleek white design blends seamlessly with any decor to keep your environment comfortably cool. Smart Control Manage your portable AC unit effortlessly fro",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1050xp-13500-btu-portable-air-conditioner",
+  "title": "Whynter 13,500 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Wifi enabled Portable Air Conditioner with Built-in Dehumidifier | ARC-1050XP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1050xp-13500-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1050XP",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": 13500,
+   "btuSacc": 10000,
+   "btuAll": [
+    13500,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 13,500 / SACC 10,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 13,500 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Wifi enabled Portable Air Conditioner with Built-in Dehumidifier | ARC-1050XP Air Comfort || Enhance your home’s climate control with the Whynter ARC-1050XP MultiCool Smart Control Portable Air Conditioner. This advanced unit combines cooling, dehumidifying, and fan functions, efficiently regulating temperatures in spaces up to 500 sq ft. With WiFi enabled smart control, adjust settings remotely for unparalleled convenience. Its sleek white design blends seamlessly with any decor to keep your environment comfortably cool. Smart Control Manage your portable AC unit effortlessly from anywhere using the NetHome Plus app for Android and",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-0850xp-portable-air-conditioner",
+  "title": "Whynter 12,000 BTU (ASHRAE) 8,000 BTU (SACC) Smart Control Wifi Enabled Portable Air Conditioner with Built-in Dehumidifier | ARC-0850XP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-0850xp-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-0850XP",
+  "barcode": "",
+  "spec": {
+   "btu": 8000,
+   "btuAshrae": 12000,
+   "btuSacc": 8000,
+   "btuAll": [
+    12000,
+    8000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 450,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 12,000 / SACC 8,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU (ASHRAE) 8,000 BTU (SACC) Smart Control Wifi Enabled Portable Air Conditioner with Built-in Dehumidifier | ARC-0850XP Air Comfort || Enhance your home’s climate control with the Whynter ARC-0850XP MultiCool Smart Control Portable Air Conditioner. This advanced unit combines cooling, dehumidifying, and fan functions, efficiently regulating temperatures in spaces up to 450 sq ft. With WiFi enabled smart control, adjust settings remotely for unparalleled convenience. Its sleek white design blends seamlessly with any decor to keep your environment comfortably cool. Smart Control Manage your portable AC unit effortlessly from anywhere using the NetHome Plus app for Android and ",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1230wnh-14000-btu-dual-hose-inverter-portable-ac-heater",
+  "title": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner with Heat | ARC-1230WNH",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1230wnh-14000-btu-dual-hose-inverter-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1230WNH",
+  "barcode": "",
+  "spec": {
+   "btu": 12000,
+   "btuAshrae": 14000,
+   "btuSacc": 12000,
+   "btuAll": [
+    14000,
+    12000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 600,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 14,000 / SACC 12,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner with Heat | ARC-1230WNH Air Comfort || Elevate your comfort to new heights with the Award Winning Whynter ARC-1230WNH 14,000 BTU (12,000 BTU SACC) NEX Inverter Dual Hose Portable Air Conditioner with Heat. Engineered to perfection, this powerhouse not only cools, dehumidifies, and circulates air in spaces up to 600 sq ft but does so with unmatched efficiency and reliability. Recognized as one of the Best Portable Air Conditioners of 2024 by Forbes and U.S. News & World Report. The innovative “hose-in-hose” configuration ensures optimal performance, while smart Wi-Fi connectivity puts c",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1230wn-14000-btu-dual-hose-inverter-portable-ac",
+  "title": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1230WN",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1230wn-14000-btu-dual-hose-inverter-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1230WN",
+  "barcode": "",
+  "spec": {
+   "btu": 12000,
+   "btuAshrae": 14000,
+   "btuSacc": 12000,
+   "btuAll": [
+    14000,
+    12000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 600,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 14,000 / SACC 12,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter NEX Inverter 14,000 BTU (ASHRAE) 12,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1230WN Air Comfort || Elevate your comfort to new heights with the Award Winning Whynter ARC-1230WN 14,000 BTU (12,000 BTU SACC) NEX Inverter Dual Hose Portable Air Conditioner. Engineered to perfection, this powerhouse not only cools, dehumidifies, and circulates air in spaces up to 600 sq ft but does so with unmatched efficiency and reliability. Recognized as one of the Best Portable Air Conditioners of 2024 by Forbes and U.S. News & World Report. The innovative “hose-in-hose” configuration ensures optimal performance, while smart Wi-Fi connectivity puts control at your fingert",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-1030wn-12000-btu-dual-hose-portable-ac",
+  "title": "Whynter NEX Inverter 12,000 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1030WN",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-1030wn-12000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-1030WN",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": 12000,
+   "btuSacc": 10000,
+   "btuAll": [
+    12000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 12,000 / SACC 10,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter NEX Inverter 12,000 BTU (ASHRAE) 10,000 BTU (SACC) Smart Control Dual Hose Portable Air Conditioner | ARC-1030WN Air Comfort || Elevate your home climate control with the Whynter ARC-1030WN 12,000 BTU (10,000 BTU SACC) NEX Inverter Dual Hose Portable Air Conditioner. This advanced unit integrates air conditioning, dehumidifying, and fan functionalities to effectively cool spaces up to 500 sq ft. Equipped with smart Wi-Fi technology, it allows you to adjust settings remotely for ultimate convenience. The sleek white design fits seamlessly into any décor, offering efficient and powerful cooling while maintaining a quiet operation. Trust Whynter to keep your environment comfortably cool",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-147wfh-14000-btu-dual-hose-portable-ac-heater",
+  "title": "Whynter 14,000 BTU (ASHRAE) 10,000 BTU (SACC) Dual Hose Portable Air Conditioner with Heat | ARC-147WFH",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-147wfh-14000-btu-dual-hose-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-147WFH",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": 14000,
+   "btuSacc": 10000,
+   "btuAll": [
+    14000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 14,000 / SACC 10,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU (ASHRAE) 10,000 BTU (SACC) Dual Hose Portable Air Conditioner with Heat | ARC-147WFH Air Comfort || Achieve year-round comfort with the Whynter ARC-147WFH 14,000 BTU (10,000 BTU SACC) Dual Hose Portable Air Conditioner. Designed with heater, dehumidifier, and fan functions, this unit provides tailored climate control for up to 500 sq. ft. A HEPA and Activated Carbon filter ensures clean air quality, while the remote control offers convenient operation. The efficient dual-hose system maintains optimal temperature quickly, and its sleek white design complements any space. Trust Whynter for high-efficiency portable air conditioning and heating solutions.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-147wf-14000-btu-dual-hose-portable-ac",
+  "title": "Whynter 14,000 BTU (ASHRAE) 10,000 BTU (SACC) Dual Hose Portable Air Conditioner | ARC-147WF",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-147wf-14000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-147WF",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": 14000,
+   "btuSacc": 10000,
+   "btuAll": [
+    14000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 14,000 / SACC 10,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU (ASHRAE) 10,000 BTU (SACC) Dual Hose Portable Air Conditioner | ARC-147WF Air Comfort || Elevate your cooling experience with the Whynter ARC-147WF 14,000 BTU (10,000 BTU SACC) Dual Hose Portable Air Conditioner. This powerful unit cools, dehumidifies, and circulates air efficiently in spaces up to 500 sq. ft. With it’s HEPA and Activated Carbon filter, it ensures clean, fresh air. The remote control allows seamless operation, while the sleek white design complements any room. Additionally, the dual-hose system delivers high-efficiency cooling for faster temperature regulation. Choose Whynter for tailored, reliable portable air conditioning solutions.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-115wg-11500-btu-dual-hose-portable-ac",
+  "title": "Whynter 11,000 BTU (ASHRAE) 6,800 BTU (SACC) Portable Air Conditioner | ARC-115WG",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-115wg-11500-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-115WG",
+  "barcode": "",
+  "spec": {
+   "btu": 6800,
+   "btuAshrae": 11000,
+   "btuSacc": 6800,
+   "btuAll": [
+    11000,
+    6800
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 11,000 / SACC 6,800，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 11,000 BTU (ASHRAE) 6,800 BTU (SACC) Portable Air Conditioner | ARC-115WG Air Comfort || Experience compact and effective cooling with the Whynter ARC-115WG 11,000 BTU (6,800 BTU SACC) Portable Air Conditioner. This unit cools, dehumidifies, and circulates air efficiently in spaces up to 400 sq. ft. With an 87-pint dehumidifying capacity, it effectively removes excess moisture to improve air quality in an eco-friendly way. The caster wheels provide easy mobility to move the unit wherever cooling is needed. The remote control allows seamless operation, and the white/grey finish complements any room aesthetic. Trust Whynter for reliable, high-efficiency portable air conditioning soluti",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-energy-star-2023-most-efficient-rpd-506ewp",
+  "title": "Whynter ENERGY STAR Most Efficient 2023 50 Pint High Capacity Portable Dehumidifier with Pump for up to 4000 sq ft | RPD-506EWP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-energy-star-2023-most-efficient-rpd-506ewp/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-506EWP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 50,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 4000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": "DOE-2019",
+   "flags": [
+    {
+     "code": "ok-doe",
+     "text": "标注 DOE-2019，可直接比"
+    }
+   ],
+   "excerpt": "Whynter ENERGY STAR Most Efficient 2023 50 Pint High Capacity Portable Dehumidifier with Pump for up to 4000 sq ft | RPD-506EWP Air Comfort || The stylish and powerful Whynter RPD-506EWP Energy Star 50 Pint Portable Dehumidifier with Built-in Pump is a high-capacity unit with an impressive capability of removing up to 50 pints of moisture from the air per day. Featuring an internal condensate pump, this unit is specifically designed for high-volume usage without having to worry about the interrupted operation. Energy Star© Rated This unit is recognized as ENERGY STAR® Most Efficient 2023, demonstrating specifications for lower energy consumption during use. This is especially important if yo",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-in-gray-energy-star-rpd-561egp",
+  "title": "Whynter Energy Star 50 Pint High Capacity Portable Dehumidifier with Pump – Gray for up to 4000 sq ft | RPD-561EGP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-in-gray-energy-star-rpd-561egp/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-561EGP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 50,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 4000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": "DOE-2019",
+   "flags": [
+    {
+     "code": "ok-doe",
+     "text": "标注 DOE-2019，可直接比"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 50 Pint High Capacity Portable Dehumidifier with Pump – Gray for up to 4000 sq ft | RPD-561EGP Air Comfort || The stylish and powerful Whynter RPD-561EGP Energy Star 50 Pint Portable Dehumidifier with Built-in Pump is a high capacity unit with an impressive capability of removing up to 50 pints of moisture from the air per day. Featuring an internal condensate pump, this unit is specifically designed for high volume usage without having to worry about interrupted operation. ENERGY STAR rated This unit is ENERGY STAR rated, demonstrating specifications for lower energy consumption during use. This is especially important if you plan on operating the unit on a frequent basi",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-in-white-energy-star-rpd-551ewp",
+  "title": "Whynter Energy Star 50 Pint High Capacity Portable Dehumidifier with Pump for up to 4000 sq ft | RPD-551EWP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/50-pt-dehumidifier-with-pump-high-capacity-for-basement-large-rooms-4000-sq-ft-in-white-energy-star-rpd-551ewp/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-551EWP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 50,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 4000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": "DOE-2019",
+   "flags": [
+    {
+     "code": "ok-doe",
+     "text": "标注 DOE-2019，可直接比"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 50 Pint High Capacity Portable Dehumidifier with Pump for up to 4000 sq ft | RPD-551EWP Air Comfort || The stylish and powerful Whynter RPD-551EWP Energy Star 50 Pint Portable Dehumidifier with Built-in Pump is a high capacity unit with an impressive capability of removing up to 50 pints of moisture from the air per day. Featuring an internal condensate pump, this unit is specifically designed for high volume usage without having to worry about interrupted operation. ENERGY STAR rated This unit is ENERGY STAR rated, demonstrating specifications for lower energy consumption during use. This is especially important if you plan on operating the unit on a frequent basis. Drai",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "arc-hcset-110-131v2-whynter-portable-air-conditioner-two-hose-extender-set-for-version-2-models-arc-110wd-arc-131gd-arc-122ds-and-arc-122dhp-5-9-and-5-0-diameter-hoses",
+  "title": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 2 Models | ARC-HCSET-110-131V2",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/arc-hcset-110-131v2-whynter-portable-air-conditioner-two-hose-extender-set-for-version-2-models-arc-110wd-arc-131gd-arc-122ds-and-arc-122dhp-5-9-and-5-0-diameter-hoses/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-HCSET-110-131V2",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 2 Models | ARC-HCSET-110-131V2 Air Comfort || ARC-HCSET-110-131V2 Whynter Portable Air Conditioner Two-Hose Extender Set for Version 2 Models: ARC-110WD, ARC-131GD, ARC-122DS and ARC-122DHP (5.9″ and 5.0″ diameter hoses)",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "arc-hcset1-v2-whynter-portable-air-conditioner-one-hose-extender-set-for-version-2-models-arc-12s-arc-12sd-arc-12sdh-arc-14s-arc-14sh-arc-143mx-arc-141bg-5-9-diameter-hoses",
+  "title": "Whynter Portable Air Conditioner One-Hose Extender Set for Version 2 Models | ARC-HCSET1-V2",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/arc-hcset1-v2-whynter-portable-air-conditioner-one-hose-extender-set-for-version-2-models-arc-12s-arc-12sd-arc-12sdh-arc-14s-arc-14sh-arc-143mx-arc-141bg-5-9-diameter-hoses/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-HCSET1-V2",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner One-Hose Extender Set for Version 2 Models | ARC-HCSET1-V2 Air Comfort || ARC-HCSET1-V2 Whynter Portable Air Conditioner One-Hose Extender Set for Version 2 Models: ARC-12S, ARC-12SD, ARC-12SDH, ARC-14S, ARC-14SH, ARC-143MX, ARC-141BG (5.9″ diameter hoses)",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "arc-hcset2-v1-whynter-portable-air-conditioner-two-hose-extender-set-for-version-1-models-arc-12sd-arc-12sdh-arc-14s-arc-14sh-arc-143mx-arc-141bg-5-0-diameter-hoses",
+  "title": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models | ARC-HCSET2-V1",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/arc-hcset2-v1-whynter-portable-air-conditioner-two-hose-extender-set-for-version-1-models-arc-12sd-arc-12sdh-arc-14s-arc-14sh-arc-143mx-arc-141bg-5-0-diameter-hoses/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-HCSET2-V1",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models | ARC-HCSET2-V1 Air Comfort || ARC-HCSET2-V1 Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models: ARC-12SD, ARC-12SDH, ARC-14S, ARC-14SH, ARC-143MX, ARC-141BG (5.0″ diameter hoses)",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-102cs-portable-air-conditioner",
+  "title": "Whynter 10,000 BTU(ASHARE) 7,000 BTU (SACC) Compact Portable Air Conditioner | ARC-102CS",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-102cs-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-102CS",
+  "barcode": "",
+  "spec": {
+   "btu": 7000,
+   "btuAshrae": null,
+   "btuSacc": 7000,
+   "btuAll": [
+    10000,
+    7000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 300,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 10,000 BTU(ASHARE) 7,000 BTU (SACC) Compact Portable Air Conditioner | ARC-102CS Air Comfort || Optimize your space with the Whynter ARC-102CS 10,000 BTU (7,000 BTU SACC) Compact Portable Air Conditioner. Its versatile design seamlessly transitions between air conditioning, dehumidifying, and fan functions for comfort in areas up to 300 sq. ft. An incredibly compact structure makes it perfect for spaces with limited floor room. The washable pre-filter with an Activated Carbon filter reduce allergens and minute particles. With a convenient remote control and sleek white design, rely on Whynter for high-efficiency, portable climate control solutions.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-12000-btu-dual-hose-portable-air-conditioner-3m-silvershield-filter-2",
+  "title": "Whynter 12,000 BTU (7,700 BTU SACC) Dual Hose Cooling Portable Air Conditioner, Dehumidifier, and Fan with 3M and SilverShield Filter plus Storage bag, up to 450 sq ft in White | ARC-126MD",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-12000-btu-dual-hose-portable-air-conditioner-3m-silvershield-filter-2/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-126MD",
+  "barcode": "",
+  "spec": {
+   "btu": 7700,
+   "btuAshrae": null,
+   "btuSacc": 7700,
+   "btuAll": [
+    12000,
+    7700
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 450,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU (7,700 BTU SACC) Dual Hose Cooling Portable Air Conditioner, Dehumidifier, and Fan with 3M and SilverShield Filter plus Storage bag, up to 450 sq ft in White | ARC-126MD Air Comfort || A key feature of this portable air conditioner is its compact size and dual-hose system which facilitates better space utilization and more efficient cooling. The Whynter ARC-126MD portable air conditioner is the ideal solution for the warm spots in your home, office, server room and other space constrained areas. Portable and easy to set up, this portable air conditioner offers cooling relief for any area where excess humidity and heat cannot be remedied by traditional air conditioning. Eco",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-18-misting-fan-2",
+  "title": "Whynter 18” Misting Fan | MF -1800",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "fan",
+  "url": "https://whynter.com/product/whynter-18-misting-fan-2/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "MF -1800",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter 18” Misting Fan | MF -1800 Air Comfort || The Whynter misting fan is a must-have for summer outdoor activities, backyards or patios. It is not only affordable but can dramatically reduce the surrounding temperature by as much as 25 Degrees F! It delivers fine cool fan propelled mist that flash-evaporates. 5 misting nozzles evenly spray water to the air. With 3 various high fan velocities, the misting fan is just the solution to beat the unbearable summer heat. It is also a great application in the warehouse, manufacturing facilities, food processing centers or any high heat industrial environment.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-122ds-12000-btu-dual-hose-portable-ac",
+  "title": "Whynter 12,000 BTU (ASHRAE) 7,000 BTU (SACC) Elite Dual Hose Portable Air Conditioner | ARC-122DS",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-122ds-12000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-122DS",
+  "barcode": "",
+  "spec": {
+   "btu": 7000,
+   "btuAshrae": 12000,
+   "btuSacc": 7000,
+   "btuAll": [
+    12000,
+    7000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 12,000 / SACC 7,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU (ASHRAE) 7,000 BTU (SACC) Elite Dual Hose Portable Air Conditioner | ARC-122DS Air Comfort || Achieve powerful cooling and efficient climate control with the Award Winning Whynter ARC-122DS 12,000 BTU (7,000 BTU SACC) Elite Dual Hose Portable Air Conditioner. Rated one of the best portable air conditioners of 2024 by USA Today and recognized by Forbes. This versatile unit also functions as a dehumidifier and fan, providing consistent comfort for spaces up to 400 sq. ft. Its Activated Carbon filter ensures cleaner air quality, while the dual-hose system optimizes cooling efficiency. The sleek gray design seamlessly complements any room, and the caster wheels offer convenien",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-101cw-10000-btu-portable-air-conditioner",
+  "title": "Whynter 10,000 BTU Compact Portable Air Conditioner | ARC-101CW",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-101cw-10000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-101CW",
+  "barcode": "",
+  "spec": {
+   "btu": 5200,
+   "btuAshrae": null,
+   "btuSacc": 5200,
+   "btuAll": [
+    10000,
+    5200
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 300,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 10,000 BTU Compact Portable Air Conditioner | ARC-101CW Air Comfort || Discover versatile climate control with the Whynter ARC-101CW 10,000 BTU (5,200 BTU SACC) CoolSize Compact Portable Air Conditioner. It cools, dehumidifies, and circulates air in spaces up to 300 sq. ft. with its powerful 70-pint dehumidifying capacity and Auto Drain functionality. The Activated Carbon filter improves air quality, while the compact, rounded design seamlessly fits into any room. Its intuitive controls make adjusting settings quick and hassle-free. Stay eco-friendly and energy-efficient with this portable AC, ideal for kid’s rooms, small offices or any space-constrained area. Trust Whynter for relia",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-122dhp-12000-btu-dual-hose-portable-ac-heater",
+  "title": "Whynter 12,000 BTU (ASHRAE) 7,000 BTU (SACC) Elite Dual Hose Portable Air Conditioner with Heat | ARC-122DHP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-122dhp-12000-btu-dual-hose-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-122DHP",
+  "barcode": "",
+  "spec": {
+   "btu": 7000,
+   "btuAshrae": 12000,
+   "btuSacc": 7000,
+   "btuAll": [
+    12000,
+    7000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-both",
+     "text": "双标：ASHRAE 12,000 / SACC 7,000，可直接比"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU (ASHRAE) 7,000 BTU (SACC) Elite Dual Hose Portable Air Conditioner with Heat | ARC-122DHP Air Comfort || Upgrade your home climate control with the Whynter ARC-122DHP 12,000 BTU (7,000 BTU SACC) Elite Dual Hose Portable Air Conditioner. This unit also serves as a heater, dehumidifier, and fan, offering year-round comfort in spaces up to 400 sq. ft. The dual-hose system, Auto Pump, and Activated Carbon filter ensure clean, fresh air with convenient and efficient performance. The elegant gray color adds sophistication, making it suitable for any room’s aesthetic. Rely on Whynter for practical, portable climate solutions that combine performance and style.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-148mhp-14000-btu-dual-hose-portable-ac-heater",
+  "title": "Whynter 14,000 BTU Portable Air Conditioner with Heat | ARC-148MHP",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-148mhp-14000-btu-dual-hose-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-148MHP",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": null,
+   "btuSacc": 10000,
+   "btuAll": [
+    14000,
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Portable Air Conditioner with Heat | ARC-148MHP Air Comfort || Harness the power of versatile climate control with the Whynter ARC-148MHP 14,000 BTU (10,000 BTU SACC) Portable Air Conditioner. This advanced unit delivers cooling, heating, dehumidifying, and fan functions to maintain optimal comfort in spaces up to 500 sq. ft. The Activated Carbon and washable SilverShield Filter, paired with the Auto Drain Pump (heating mode only), ensures fresh, clean air while efficiently managing humidity levels. Choose Whynter, a trusted US-based brand since 2006, for high-performance, portable air conditioning and heating that delivers year-round climate control.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-elite-d-series-energy-star-95-pint-portable-dehumidifier-pump",
+  "title": "Whynter Elite D-Series Energy Star 95 Pint Portable Dehumidifier with Pump | RPD-951DXP (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-elite-d-series-energy-star-95-pint-portable-dehumidifier-pump/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-951DXP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 95,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Elite D-Series Energy Star 95 Pint Portable Dehumidifier with Pump | RPD-951DXP (Discontinued) Air Comfort || The Whynter Elite D-Series ENERGY STAR 95 Pint Portable Dehumidifier with Condensate Pump is a powerful solution to alleviate excessive moisture in your basement or other large enclosed spaces. This high-powered energy efficient portable dehumidifier removes 95 pints of excess moisture per day for areas up to 4,000 sq. ft. This portable dehumidifier provides more capacity and more efficiency than your typical portable dehumidifier. The Whynter RPD-951DXP does not involve any installation and can be easily redeployed to another location as required. Drainage options This high-",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-elite-d-series-energy-star-70-pint-portable-dehumidifier-pump",
+  "title": "Whynter Elite D-Series Energy Star 70 Pint Portable Dehumidifier with Pump | RPD-711DWP (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-elite-d-series-energy-star-70-pint-portable-dehumidifier-pump/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-711DWP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 70,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 3800,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Elite D-Series Energy Star 70 Pint Portable Dehumidifier with Pump | RPD-711DWP (Discontinued) Air Comfort || The stylish and powerful Whynter Elite D-Series Energy Star© RPD-711DWP portable dehumidifier is a high capacity unit with an impressive capability of removing up to 70 pints of moisture from the air per day. Featuring an internal condensate pump, this unit is specifically designed for high volume usage without having to worry about interrupted operation. Drainage options This portable dehumidifier can be continuously operated with 3 drainage options; manual drain, gravity drain, and condensate pump drain. The Whynter Elite D-Series Energy Star© RPD-711DWP portable dehumidifi",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-arc-143mx-14000-btu-dual-hose-portable-ac",
+  "title": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner | ARC-143MX",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-143mx-14000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-143MX",
+  "barcode": "",
+  "spec": {
+   "btu": 9456,
+   "btuAshrae": null,
+   "btuSacc": 9456,
+   "btuAll": [
+    14000,
+    9456
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Dual Hose Portable Air Conditioner | ARC-143MX Air Comfort || Experience efficient climate control with the Whynter ARC-143MX 14,000 BTU (9,456 BTU SACC) Dual Hose Cooling Portable Air Conditioner. This powerful AC unit is designed for up to 500 sq. ft. and functions as a fan and dehumidifier, making it ideal for server rooms, offices, or homes. The included window venting kit makes for easy setup. Equipped with a 3M antimicrobial filter ensures optimal air quality. Plus, its sleek platinum/black finish complements any space. Choose Whynter, a leading US-based brand since 2006, for high-efficiency portable air conditioning and reliable comfort.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-elite-d-series-energy-star-45-pint-portable-dehumidifier",
+  "title": "Whynter Elite D-Series Energy Star 45 Pint Portable Dehumidifier | RPD-451DW (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-elite-d-series-energy-star-45-pint-portable-dehumidifier/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-451DW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 45,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 2500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Elite D-Series Energy Star 45 Pint Portable Dehumidifier | RPD-451DW (Discontinued) Air Comfort || The stylish and functional Whynter Elite D-Series Energy Star© RPD-451DW portable dehumidifier is a compact unit with an outstanding ability to remove up to 45 pints of moisture from the air per day. This unit makes for a very effective and space-friendly drying solution to any home or workplace dealing with high levels of humidity. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Elite D-Series Energy Star© RPD-451DW portable dehumidifier includes a 6-pint bucket that can be removed and emptied",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-elite-d-series-energy-star-30-pint-portable-dehumidifier",
+  "title": "Whynter Elite D-Series Energy Star 30 Pint Portable Dehumidifier | RPD-311DW (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-elite-d-series-energy-star-30-pint-portable-dehumidifier/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-311DW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 30,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 2500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Elite D-Series Energy Star 30 Pint Portable Dehumidifier | RPD-311DW (Discontinued) Air Comfort || The stylish and functional Whynter Elite D-Series Energy Star© RPD-311DW portable dehumidifier is a compact unit with an outstanding ability to remove up to 30 pints of moisture from the air per day. This unit makes for a very effective and space-friendly drying solution to any home or workplace dealing with high levels of humidity. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Elite D-Series Energy Star© RPD-311DW portable dehumidifier includes a 6-pint bucket that can be removed and emptied",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-arc-148ms-14000-btu-dual-hose-portable-ac",
+  "title": "Whynter 14,000 BTU Portable Air Conditioner | ARC-148MS",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-148ms-14000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-148MS",
+  "barcode": "",
+  "spec": {
+   "btu": 10300,
+   "btuAshrae": null,
+   "btuSacc": 10300,
+   "btuAll": [
+    14000,
+    10300
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Portable Air Conditioner | ARC-148MS Air Comfort || Discover exceptional cooling power with the Whynter ARC-148MS 14,000 BTU (10,300 BTU SACC) Portable Air Conditioner. Designed for spaces up to 500 sq. ft., it seamlessly transitions between air conditioning, dehumidifying, and fan functions, making it perfect for data closets, server rooms, workshops, or any high-cooling demand area. The Activated Carbon and washable SilverShield Filter ensures clean, fresh air, while the self-evaporating system boosts cooling efficiency. Rely on Whynter, a trusted US-based brand since 2006, for reliable, high-performance portable climate control.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-energy-star-40-pint-portable-dehumidifier-2",
+  "title": "Whynter Energy Star 40 Pint Portable Dehumidifier | RPD-411WG (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-40-pint-portable-dehumidifier-2/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-411WG",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 40,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 2500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 40 Pint Portable Dehumidifier | RPD-411WG (Discontinued) Air Comfort || Maintain a comfortable humidity level in your home or office with the Energy Star qualified Whynter Energy Star 40 Pint Portable Dehumidifier. The Whynter RPD-411WG has the capability of removing up to 40 pints of moisture from the air over a 24 hour period. The compact Whynter RPD-411WG is specifically devised for small spaces while retaining an emphasis on designer styling for the most discerning users. Features include a water indicator alert with automatic shut-off which lets you know when the 10 pint tank is full, auto-restart feature which saves your settings during a power outage, and auto-defr",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-arc-12sdh-12000-btu-portable-ac-heater",
+  "title": "Whynter 12,000 BTU Portable Air Conditioner with Heater | ARC-12SDH",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-12sdh-12000-btu-portable-ac-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-12SDH",
+  "barcode": "",
+  "spec": {
+   "btu": 6884,
+   "btuAshrae": null,
+   "btuSacc": 6884,
+   "btuAll": [
+    12000,
+    6884
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU Portable Air Conditioner with Heater | ARC-12SDH Air Comfort || Discover versatile climate control with the Award Winning Whynter ARC-12SDH 12,000 BTU (6,884 BTU SACC) Dual Hose Portable Air Conditioner. This multi-functional unit serves as an air conditioner, heater, dehumidifier, and fan, providing comprehensive comfort for up to 400 sq. ft. Its Activated Carbon filter ensures clean air, while Auto Drain technology efficiently manages condensation. The sleek white design fits seamlessly into any space, and the caster wheels offer convenient portability. Enjoy the quiet operation of this high-efficiency unit and count on Whynter for reliable, year-round climate control.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-126mdb-12000-btu-portable-air-conditioner",
+  "title": "Whynter 12,000 BTU Portable Air Conditioner | ARC-126MDB",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-126mdb-12000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-126MDB",
+  "barcode": "",
+  "spec": {
+   "btu": 12000,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [
+    12000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 450,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "btu-unstated",
+     "text": "BTU 未注明标准，不可直接比"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU Portable Air Conditioner | ARC-126MDB Air Comfort || The Whynter ARC-126MDB portable air conditioner is the ideal solution for the warm spots in your home, office, server room and other space constrained areas. This sleek all black portable air conditioner is compact-sized and features a dual-hose system which facilitates better space utilization and more efficient cooling. Portable and easy to set up, this air conditioner offers cooling relief for any area where excess humidity and heat cannot be remedied by traditional air conditioning. Eco-Friendly and Dual Filtration With this Eco-friendly CFC free, lead free and high energy efficiency portable air conditioner, you can",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-energy-star-30-pint-portable-dehumidifier-2",
+  "title": "Whynter Energy Star 30-Pint Portable Dehumidifier | RPD-321EW (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-30-pint-portable-dehumidifier-2/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-321EW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 30,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 2000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 30-Pint Portable Dehumidifier | RPD-321EW (Discontinued) Air Comfort || The Whynter Energy Star© RPD-321EW portable dehumidifier is a high capacity unit with an outstanding capability of removing up to 30 pints of moisture from the air per day. With its large internal reservoir and environmentally friendly design, this unit creates a very efficient and powerful companion to any home or workplace dealing with high levels of humidity. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Energy Star© RPD-321EW portable dehumidifier includes a 7-pint bucket that can be removed and emptied",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-energy-star-70-pint-portable-dehumidifier-pump",
+  "title": "Whynter Energy Star 70 Pint Portable Dehumidifier with Pump | RPD-702WP (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-70-pint-portable-dehumidifier-pump/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-702WP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 70,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 3800,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 70 Pint Portable Dehumidifier with Pump | RPD-702WP (Discontinued) Air Comfort || The Whynter Energy Star 70 pint portable dehumidifier is a high capacity unit with exceptional low-temperature operability. As an Energy Star-rated dehumidifier, the Whynter RPD-702WP provides cost-effective and energy-efficient operation, without sacrificing design and performance. Featuring an internal condensate pump, this unit is specifically designed for high volume usage without having to worry about interrupted operation. This dehumidifier can be continuously operated with 3 drainage options; manual drain, gravity drain and condensate pump drain. The condensate pump can pump out (and ",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-eco-friendly-14000-btu-portable-air-conditioner",
+  "title": "Whynter 14,000 BTU Portable Air Conditioner, Dehumidifier, and Fan with 2-in-1 Silver-ion Coated Washable Filter and Activated Carbon Filter, up to 500 sq ft in White | ARC-142BX",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-eco-friendly-14000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-142BX",
+  "barcode": "",
+  "spec": {
+   "btu": 14000,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [
+    14000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "btu-unstated",
+     "text": "BTU 未注明标准，不可直接比"
+    }
+   ],
+   "excerpt": "Whynter 14,000 BTU Portable Air Conditioner, Dehumidifier, and Fan with 2-in-1 Silver-ion Coated Washable Filter and Activated Carbon Filter, up to 500 sq ft in White | ARC-142BX Air Comfort || The Whynter compact CFC-free, lead-free, and energy efficient 14,000 BTU portable air conditioner, helps you stay cool while working with better environmental standards and reducing energy consumption. This high output portable air conditioner, specially designed to be mobile, can be easily setup in almost any indoor location and is most commonly used in data closets / server rooms, bedrooms, classrooms and garages / workshops. This ARC-142BX portable air conditioner provides superior 14,000 BTU cooli",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-energy-star-50-pint-portable-dehumidifier-pump",
+  "title": "Whynter Energy Star 50 Pint Portable Dehumidifier with Pump | RPD-501WP (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-50-pint-portable-dehumidifier-pump/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-501WP",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 50,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 3000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 50 Pint Portable Dehumidifier with Pump | RPD-501WP (Discontinued) Air Comfort || The Whynter Energy Star RPD-501WP portable dehumidifier is a high capacity unit with an outstanding capability of removing up to 50 pints of moisture from the air per day. With its water pump drainage option, large internal reservoir and environmentally friendly design, this unit creates a very efficient and powerful companion to any home or workplace dealing with high levels of humidity. This portable dehumidifier can be continuously operated with 3 drainage options; manual drain, gravity drain and condensate pump drain. The condensate pump can pump out (and up) condensation water through t",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-eco-friendly-10000-btu-portable-air-conditioner",
+  "title": "Whynter 10000 BTU Portable Air Conditioner | ARC-10WB (Discontinued)",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-eco-friendly-10000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": false,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-10WB",
+  "barcode": "",
+  "spec": {
+   "btu": 10000,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [
+    10000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 300,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [
+    {
+     "code": "btu-unstated",
+     "text": "BTU 未注明标准，不可直接比"
+    },
+    {
+     "code": "discontinued",
+     "text": "已停产"
+    }
+   ],
+   "excerpt": "Whynter 10000 BTU Portable Air Conditioner | ARC-10WB (Discontinued) Air Comfort || Whynter is going GREEN! With this new Eco-friendly CFC free, lead free and high energy efficiency portable air conditioner, you can stay cool while keeping with better environmental standards and reducing energy consumption. This GREEN portable air conditioner is extremely mobile and can be easily setup in almost any indoor location and are most commonly used in computer / server rooms, bedrooms, classrooms and garages / workshops. This ARC-10WB portable air conditioner is extremely compact, effortlessly portable and can be easily setup in any small space. This unit features advance self-evaporating technolog",
+   "unitCount": 1,
+   "discount": null,
+   "discontinued": true
+  }
+ },
+ {
+  "handle": "whynter-elite-d-series-energy-star-65-pint-portable-dehumidifier-black",
+  "title": "Whynter Elite D-Series Energy Star 65 Pint Portable Dehumidifier, Black | RPD-652DB",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-elite-d-series-energy-star-65-pint-portable-dehumidifier-black/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-652DB",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 65,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 3800,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    }
+   ],
+   "excerpt": "Whynter Elite D-Series Energy Star 65 Pint Portable Dehumidifier, Black | RPD-652DB Air Comfort || The stylish and powerful Whynter Elite D-Series Energy Star© RPD-652DB portable dehumidifier is a high capacity unit with an impressive capability of removing up to 65 pints of moisture from the air per day. Featuring an internal condensate pump, this unit is specifically designed for high volume usage without having to worry about interrupted operation. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Elite D-Series Energy Star© RPD-652DB portable dehumidifier includes a 13-pint bucket that can be remo",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-db-portable-ac-drain-bucket",
+  "title": "Whynter Portable Air Conditioner Drain Bucket | ARC-DB",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-db-portable-ac-drain-bucket/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-DB",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner Drain Bucket | ARC-DB Air Comfort || Whynter portable air conditoner manual drain bucket UPC: 850956003965",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-hose-extender-set-arc-110wd-arc-131gd",
+  "title": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models | ARC-HCSET-110-131V1",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-hose-extender-set-arc-110wd-arc-131gd/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-HCSET-110-131V1",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models | ARC-HCSET-110-131V1 Air Comfort || ARC-HCSET-110-131V1 Whynter Portable Air Conditioner Two-Hose Extender Set for Version 1 Models: ARC-110WD, ARC-131GD, ARC-122DS and ARC-122DHP (5.0″ and 4.3″ diameter hoses)",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-hose-extender-set-arc-12s-arc-12sdh-arc-14sh-arc-143mx",
+  "title": "Whynter Portable Air Conditioner One-Hose Extender Set for Version 1 Models | ARC-HCSET1-V1",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-hose-extender-set-arc-12s-arc-12sdh-arc-14sh-arc-143mx/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-HCSET1-V1",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter Portable Air Conditioner One-Hose Extender Set for Version 1 Models | ARC-HCSET1-V1 Air Comfort || ARC-HCSET1-V1 Whynter Portable Air Conditioner One-Hose Extender Set for Version 1 Models: ARC-12S, ARC-12SD, ARC-12SDH, ARC-14S, ARC-14SH, ARC-143MX, ARC-141BG (5.0″ diameter hoses)",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-12s-12000-btu-portable-air-conditioner",
+  "title": "Whynter 12,000 BTU Portable Air Conditioner | ARC-12S",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-12s-12000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-12S",
+  "barcode": "",
+  "spec": {
+   "btu": 5000,
+   "btuAshrae": null,
+   "btuSacc": 5000,
+   "btuAll": [
+    12000,
+    5000
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU Portable Air Conditioner | ARC-12S Air Comfort || Optimize your space with the Whynter ARC-12S 12,000 BTU (5,000 BTU SACC) Portable Air Conditioner. This sleek platinum unit provides cooling, dehumidifying, and fan functions for spaces up to 400 sq. ft., ensuring reliable comfort. Equipped with an Activated Carbon filter, it guarantees fresh, clean air quality while its compact design makes it ideal for any room. The intuitive controls make operation effortless, allowing you to personalize your climate. Choose Whynter for versatile, portable air conditioning solutions that enhance both functionality and style.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-energy-star-40-pint-portable-dehumidifier",
+  "title": "Whynter Energy Star 40-Pint Portable Dehumidifier | RPD-421EW",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-40-pint-portable-dehumidifier/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-421EW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 40,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 2500,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 40-Pint Portable Dehumidifier | RPD-421EW Air Comfort || The Whynter Energy Star© RPD-421EW portable dehumidifier is compact unit with an outstanding capability of removing up to 40 pints of moisture from the air per day. This unit creates a very efficient and space-friendly drying solution to any home or workplace dealing with high levels of humidity. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Energy Star© RPD-421EW portable dehumidifier includes a 7-pint bucket that can be removed and emptied. A bonus drain hose attachment is included with the unit for your immediate conve",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-energy-star-60-pint-portable-dehumidifier",
+  "title": "Whynter Energy Star 60-Pint Portable Dehumidifier | RPD-621EW",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "dehumidifier",
+  "url": "https://whynter.com/product/whynter-energy-star-60-pint-portable-dehumidifier/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "RPD-621EW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": 60,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 3000,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "ENERGY STAR",
+    "UL"
+   ],
+   "standard": null,
+   "flags": [
+    {
+     "code": "pint-unstated",
+     "text": "除湿量未注明标准，新旧数据不可比"
+    }
+   ],
+   "excerpt": "Whynter Energy Star 60-Pint Portable Dehumidifier | RPD-621EW Air Comfort || The Whynter Energy Star© RPD-621EW portable dehumidifier is a high capacity unit with an outstanding capability of removing up to 60 pints of moisture from the air per day. With its large internal reservoir and environmentally friendly design, this unit creates a very efficient and powerful companion to any home or workplace dealing with high levels of humidity. Drainage options This portable dehumidifier can be continuously operated with 2 drainage options; manual drain and gravity drain. The Whynter Energy Star© RPD-621EW portable dehumidifier includes a 14.5-pint bucket that can be removed and emptied. A bonus dr",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "afr-425-sw",
+  "title": "Whynter EcoPure HEPA System Air Purifier – Silver | AFR-425-SW",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "air-purifier",
+  "url": "https://whynter.com/product/afr-425-sw/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "AFR-425-SW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 550,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter EcoPure HEPA System Air Purifier – Silver | AFR-425-SW Air Comfort || Fill your room with clean fresh air with the Whynter AFR-425-SW EcoPure HEPA System Air Purifier. Designed and engineered specifically to eliminate airborne allergens like pet dander, hair, dust, mold, mildew and pollen, this air purifier is perfect for home, office, and any living area up to 550 sq. ft. This an ideal choice for high quality air purification to provide added relief for allergies, asthma, and other breathing disorders. For ultimate filtration against airborne pollutants, the Whynter AFR-425-SW is equipped with a 5-in-1 HEPA Filtration System that features a washable Pre-Filter, a HEPA Filter and an ",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-ecopure-hepa-system-air-purifier-pearl",
+  "title": "Whynter EcoPure HEPA System Air Purifier – Pearl | AFR-425-PW",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "air-purifier",
+  "url": "https://whynter.com/product/whynter-ecopure-hepa-system-air-purifier-pearl/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "AFR-425-PW",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 550,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter EcoPure HEPA System Air Purifier – Pearl | AFR-425-PW Air Comfort || Fill your room with clean fresh air with the Whynter AFR-425-PW EcoPure HEPA System Air Purifier. Designed and engineered specifically to eliminate airborne allergens like pet dander, hair, dust, mold, mildew and pollen, this air purifier is perfect for home, office, and any living area up to 550 sq. ft. This an ideal choice for high quality air purification to provide added relief for allergies, asthma, and other breathing disorders. For ultimate filtration against airborne pollutants, the Whynter AFR-425-PW is equipped with a 5-in-1 HEPA Filtration System that features a washable Pre-Filter, a HEPA Filter and an A",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-5-1-evaporative-air-cooler-air-purifier-humidifier-heater",
+  "title": "Whynter 5 in 1 Evaporative Air Cooler/Air Purifier/Humidifier/Heater | HAC-100S",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "air-purifier",
+  "url": "https://whynter.com/product/whynter-5-1-evaporative-air-cooler-air-purifier-humidifier-heater/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "HAC-100S",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter 5 in 1 Evaporative Air Cooler/Air Purifier/Humidifier/Heater | HAC-100S Air Comfort || Whynter is going GREEN! With this new eco-friendly CFC free and ultra-low energy consumption portable air cooler, you can stay cool while being kind to the environment. Unlike a fan that blows hot air, this HAC-100S air cooler cools personal air space significantly more than a regular fan, using about the same amount of power as a light bulb. An air cooler is a cost effective alternative to the more expensive portable air conditioners . Great for the home or office, these air coolers are environmentally friendly because they do not use utilize freon and CFC refrigerants. This Whynter air cooler als",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-18-misting-fan",
+  "title": "Whynter 18” Misting Fan | MF-1800",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "fan",
+  "url": "https://whynter.com/product/whynter-18-misting-fan/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "MF-1800",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": null,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [],
+   "standard": null,
+   "flags": [],
+   "excerpt": "Whynter 18” Misting Fan | MF-1800 Air Comfort || The Whynter misting fan is a must-have for summer outdoor activities, backyards or patios. It is not only affordable but can dramatically reduce the surrounding temperature by as much as 25 Degrees F! It delivers fine cool fan propelled mist that flash-evaporates. 5 misting nozzles evenly spray water to the air. With 3 various high fan velocities, the misting fan is just the solution to beat the unbearable summer heat. It is also a great application in the warehouse, manufacturing facilities, food processing centers or any high heat industrial environment.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-12sd-12000-btu-portable-air-conditioner",
+  "title": "Whynter 12,000 BTU Portable Air Conditioner | ARC-12SD",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-12sd-12000-btu-portable-air-conditioner/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-12SD",
+  "barcode": "",
+  "spec": {
+   "btu": 6936,
+   "btuAshrae": null,
+   "btuSacc": 6936,
+   "btuAll": [
+    12000,
+    6936
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 400,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 12,000 BTU Portable Air Conditioner | ARC-12SD Air Comfort || Enjoy versatile cooling with the Award Winning Whynter ARC-12SD 12,000 BTU (6,936 BTU SACC) Dual Hose Portable Air Conditioner. Designed to cool, dehumidify, and circulate air in spaces up to 400 sq. ft., this unit features an Activated Carbon filter and Auto Drain technology that eliminates excess condensation for optimal cooling efficiency. The dual-hose system ensures quick temperature regulation, while the sleek white design fits any room. With a convenient storage bag for portability, this high-efficiency unit by Whynter offers reliable climate control, helping you maintain a cool and comfortable environment.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-110wd-11000-btu-dual-hose-portable-ac",
+  "title": "Whynter 11,000 BTU Dual Hose Portable Air Conditioner | ARC-110WD",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-110wd-11000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-110WD",
+  "barcode": "",
+  "spec": {
+   "btu": 5900,
+   "btuAshrae": null,
+   "btuSacc": 5900,
+   "btuAll": [
+    11000,
+    5900
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 350,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 11,000 BTU Dual Hose Portable Air Conditioner | ARC-110WD Air Comfort || Achieve efficient cooling with the Whynter ARC-110WD 11,000 BTU (5,900 BTU SACC) Dual Hose Portable Air Conditioner. Designed for spaces up to 350 sq. ft., it seamlessly transitions between air conditioning, dehumidifying, and fan functions for comprehensive comfort. The Activated Carbon filter ensures fresh, clean air quality while the dual hose system provides optimized cooling performance. The sleek white design fits any space, delivering reliable, high-efficiency climate control solutions. Trust Whynter for versatile, portable air conditioning tailored to your needs.",
+   "unitCount": 1,
+   "discount": null
+  }
+ },
+ {
+  "handle": "whynter-arc-131gd-13000-btu-dual-hose-portable-ac",
+  "title": "Whynter 13,000 BTU Dual Hose Portable Air Conditioner | ARC-131GD",
+  "type": "Air Comfort",
+  "vendor": "Whynter",
+  "cat": "portable-ac",
+  "url": "https://whynter.com/product/whynter-arc-131gd-13000-btu-dual-hose-portable-ac/",
+  "price": null,
+  "compare": null,
+  "available": true,
+  "created": "",
+  "updated": "",
+  "sku": "ARC-131GD",
+  "barcode": "",
+  "spec": {
+   "btu": 6345,
+   "btuAshrae": null,
+   "btuSacc": 6345,
+   "btuAll": [
+    13000,
+    6345
+   ],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 420,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": "SACC",
+   "flags": [
+    {
+     "code": "ok-sacc",
+     "text": "只标 SACC，口径正确"
+    }
+   ],
+   "excerpt": "Whynter 13,000 BTU Dual Hose Portable Air Conditioner | ARC-131GD Air Comfort || Optimize your cooling needs with the Whynter ARC-131GD 13,000 BTU (6,345 BTU SACC) Dual Hose Portable Air Conditioner. Designed to cool, dehumidify, and circulate air efficiently, it covers up to 420 sq. ft. with its Activated Carbon filter ensuring cleaner air quality. The convenient storage bag and sleek gray design offer a modern touch while maximizing functionality. The premium design fits with any interior design style, typically seen in computer/server rooms, bedrooms, classrooms, and garages/workshops. Trust Whynter for reliable, high-efficiency portable climate control solutions that blend seamlessly int",
+   "unitCount": 1,
+   "discount": null
+  }
+ }
+]

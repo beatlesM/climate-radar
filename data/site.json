@@ -1,0 +1,13 @@
+{
+ "name": "Climate Radar",
+ "baseUrl": "",
+ "paddleCheckoutUrl": "",
+ "paddleYearlyUrl": "",
+ "contactEmail": "",
+ "legalName": "",
+ "address": "",
+ "resendFrom": "",
+ "priceMonthly": 29,
+ "priceYearly": 299,
+ "earlyNote": "早鸟价，限前 20 名"
+}
