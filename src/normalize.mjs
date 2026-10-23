@@ -13,7 +13,7 @@ export const CATS = [
 export const ACCESSORY = /(replacement|filter|filters|hose|window\s*kit|seal\s*kit|remote|cover|bracket|adapter|wick|brush|cleaner|desiccant|refill|pad\b|accessor|part\b|strap|mount|bucket|drain\s*pan|protection\s*plan|warranty|extended\s*coverage|refurbish|renewed|open\s*box|gift\s*card|bundle|sample|spare\b)/i;
 
 const STRONG = /purifier|dehumidifier|humidifier|heater|\bfan\b|air\s*conditioner|circulator/i;
-const HARD_ACCESSORY = /open\s*box|refurbish|renewed|^(remote|replacement|filter|filters|hose|drain\s*hose|kit|cover|bracket|adapter)\b|\bremote\s+(control\s+)?for\b|replacement|filters?\s+for|compatible\s+with|cleaning\s+kit|removal\s+tool|\brefill\b|hanging\s*kit|price\s*difference|purchase\s+the\b|\bsensor\b|drain\s*tube|starter\s*kit|prefilter|filters?\s+\d+\s*pack|\b(intake\/exhaust|venting)\s+hose\b|booster\s+pad|\blifter\b|remote\s+control(ler)?\s*$|\badapter\s+for\b/i;
+const HARD_ACCESSORY = /open\s*box|refurbish|renewed|^(remote|replacement|filter|filters|hose|drain\s*hose|kit|cover|bracket|adapter)\b|\bremote\s+(control\s+)?for\b|replacement|filters?\s+for|compatible\s+with|cleaning\s+kit|removal\s+tool|\brefill\b|hanging\s*kit|price\s*difference|purchase\s+the\b|\bsensor\b|drain\s*tube|starter\s*kit|prefilter|filters?\s+\d+\s*pack|\b(intake\/exhaust|venting)\s+hose\b|booster\s+pad|\blifter\b|remote\s+control(ler)?\s*$|\badapter\s+for\b|drain\s+bucket|pump\s+parts|hose\s+kit|aroma\s+pad|pads?\s+\d+-pack|universal\s+fit/i;
 
 export function isAccessory(title = '') {
   const t = String(title);
