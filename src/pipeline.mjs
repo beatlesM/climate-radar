@@ -201,58 +201,183 @@ function matchRecalls(recalls, catalog, stores) {
 /* ---------------- HTML ---------------- */
 
 const CSS = `
-:root{--bg:#0d1117;--panel:#151b23;--line:#2a3441;--text:#e9eef5;--muted:#9aa7b6;--accent:#5eead4;--warn:#fbbf24;--danger:#f87171;--good:#34d399;}
-html[data-theme="light"]{--bg:#f6f7f9;--panel:#ffffff;--line:#dde3ea;--text:#111827;--muted:#5b6675;--accent:#0f766e;--warn:#b45309;--danger:#b91c1c;--good:#047857;}
+:root{--bg:#0b0e13;--panel:#121821;--line:#2a3442;--rule:#3c4757;--text:#f1f4f8;--muted:#a2adbb;--accent:#e7b25c;--accent-ink:#1a1206;--danger:#f0756c;--warn:#e7b25c;--good:#5ed3a2;}
+html[data-theme="light"]{--bg:#f5f2eb;--panel:#fffdf8;--line:#d8d1c3;--rule:#b4ac9c;--text:#17191e;--muted:#5f6673;--accent:#96590a;--accent-ink:#fffdf8;--danger:#a62a20;--warn:#8a540a;--good:#0b6b4e;}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font:18px/1.7 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
-.wrap{max-width:980px;margin:0 auto;padding:28px 20px 80px}
-header{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:28px}
-.brand{font-weight:700;letter-spacing:.5px;font-size:20px}
+body{margin:0;background:var(--bg);color:var(--text);font:18px/1.68 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1040px;margin:0 auto;padding:28px 22px 80px}
+header{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:30px}
+.brand{font-weight:700;letter-spacing:.09em;font-size:16px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 .brand span{color:var(--accent)}
-button.toggle{background:var(--panel);border:1px solid var(--line);color:var(--text);padding:8px 14px;border-radius:999px;font-size:15px;cursor:pointer}
-h1{font-size:34px;line-height:1.3;margin:0 0 10px}
-h2{font-size:23px;margin:44px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
-h3{font-size:19px;margin:22px 0 8px}
-p{color:var(--text)}
+button.toggle{background:transparent;border:1px solid var(--line);color:var(--muted);padding:7px 13px;border-radius:2px;font-size:13px;cursor:pointer;letter-spacing:.05em}
+button.toggle:hover{color:var(--text);border-color:var(--text)}
+h1,h2,h3{font-family:"Iowan Old Style","Songti SC","Noto Serif SC",Georgia,serif;font-weight:600}
+h1{font-size:40px;line-height:1.22;margin:0 0 12px;letter-spacing:-.01em}
+h2{font-size:24px;margin:46px 0 14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+h3{font-size:20px;margin:24px 0 8px}
+p{margin:0 0 14px}
 .sub{color:var(--muted);font-size:16px}
 .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0}
 @media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr)}}
-.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
-.kpi{font-size:32px;font-weight:700;color:var(--accent);line-height:1.2}
-.kpi-label{color:var(--muted);font-size:15px}
-table{width:100%;border-collapse:collapse;margin:12px 0;font-size:16px}
-th,td{text-align:left;padding:10px 10px;border-bottom:1px solid var(--line);vertical-align:top}
-th{color:var(--muted);font-weight:600;font-size:14px;letter-spacing:.3px}
-td.num{white-space:nowrap;font-variant-numeric:tabular-nums}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:2px;padding:16px}
+.kpi{font:600 34px/1.1 "Iowan Old Style","Songti SC",Georgia,serif;color:var(--text);font-variant-numeric:tabular-nums}
+.kpi-label{color:var(--muted);font-size:14px;margin-top:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0;font-size:15.5px}
+th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;border-bottom:1px solid var(--rule);white-space:nowrap}
+td.num{white-space:nowrap;font-variant-numeric:tabular-nums;font-feature-settings:"tnum"}
 a{color:var(--accent);text-decoration:none}
 a:hover{text-decoration:underline}
-.tag{display:inline-block;font-size:13px;padding:2px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted);margin:2px 4px 2px 0}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:2px;border:1px solid var(--line);color:var(--muted);margin:2px 4px 2px 0;white-space:nowrap;letter-spacing:.02em}
 .tag.warn{color:var(--warn);border-color:var(--warn)}
 .tag.danger{color:var(--danger);border-color:var(--danger)}
 .tag.good{color:var(--good);border-color:var(--good)}
-.note{background:var(--panel);border-left:4px solid var(--accent);padding:14px 16px;border-radius:8px;color:var(--muted);font-size:16px}
-.cta{display:inline-block;background:var(--accent);color:#062a26;font-weight:700;padding:12px 22px;border-radius:10px;margin-top:8px}
-html[data-theme="light"] .cta{color:#fff}
-footer{margin-top:60px;color:var(--muted);font-size:14px;border-top:1px solid var(--line);padding-top:18px}
-nav.crumbs{color:var(--muted);font-size:15px;margin:-10px 0 14px}
+.note{background:var(--panel);border-left:3px solid var(--accent);padding:15px 18px;border-radius:0;color:var(--text);font-size:16px;margin:18px 0}
+.note strong{color:var(--accent)}
+.cta{display:inline-block;background:var(--accent);color:var(--accent-ink);font-weight:700;padding:12px 22px;border-radius:2px;margin-top:8px;letter-spacing:.02em}
+.cta.ghost{background:transparent;border:1px solid var(--line);color:var(--text);margin-left:8px}
+footer{margin-top:64px;color:var(--muted);font-size:13.5px;border-top:1px solid var(--line);padding-top:18px;line-height:1.7}
+nav.crumbs{color:var(--muted);font-size:14px;margin:-8px 0 18px}
 .spark{display:block;margin:6px 0 2px}
 .facts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:16px 0}
 @media(max-width:760px){.facts{grid-template-columns:1fr 1fr}}
-.facts div{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
-.facts b{display:block;font-size:22px;color:var(--accent);line-height:1.3}
+.facts div{background:var(--panel);border:1px solid var(--line);border-radius:2px;padding:12px 14px}
+.facts b{display:block;font-size:24px;color:var(--text);line-height:1.3}
 .facts span{color:var(--muted);font-size:14px}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0}
 @media(max-width:760px){.cards{grid-template-columns:1fr}}
 .cards .card{font-size:16px}
 .cards .card a{font-weight:600;display:block;margin-bottom:4px}
-@media(max-width:600px){h1{font-size:27px}h2{font-size:20px}body{font-size:17px}th,td{padding:8px 6px}}
+
+/* weekly brief */
+.brief-cover{border-top:2px solid var(--text);padding-top:20px}
+.cover-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;font:600 11.5px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.cover-top .sample{border:1px solid var(--accent);color:var(--accent);padding:3px 9px;letter-spacing:.16em}
+.brief-kicker{margin:36px 0 14px;font:600 12.5px/1.5 ui-monospace,Menlo,monospace;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+.brief-cover h1{font-size:clamp(34px,5.1vw,58px);line-height:1.14;margin:0 0 20px;max-width:17em;letter-spacing:-.015em}
+.brief-deck{font-size:20px;line-height:1.75;color:var(--muted);max-width:42em;margin:0}
+.brief-deck strong{color:var(--text);font-weight:600}
+.brief-byline{display:flex;gap:10px 26px;flex-wrap:wrap;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:13px 0;margin:30px 0 0;font-size:13px;color:var(--muted);letter-spacing:.02em}
+.kpi-strip{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:2px solid var(--text);margin:0 0 52px}
+.kpi-strip>div{padding:20px 16px 18px;border-left:1px solid var(--line)}
+.kpi-strip>div:first-child{border-left:0;padding-left:0}
+.kpi-strip b{display:block;font:600 40px/1 "Iowan Old Style","Songti SC",Georgia,serif;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.kpi-strip b em{font-style:normal;font-size:17px;color:var(--accent);margin-left:3px;letter-spacing:0}
+.kpi-strip span{display:block;margin-top:9px;font-size:13px;line-height:1.5;color:var(--muted)}
+.section-head{display:grid;grid-template-columns:58px 1fr;gap:18px;align-items:start;margin:58px 0 18px;padding-top:16px;border-top:2px solid var(--text)}
+.section-head .no{font:600 12px/1 ui-monospace,Menlo,monospace;letter-spacing:.14em;color:var(--accent);padding-top:8px}
+.section-head h2{font-size:30px;line-height:1.25;margin:0;padding:0;border:0}
+.section-head p{margin:9px 0 0;color:var(--muted);font-size:16px;max-width:46em}
+.conclusions{border-top:1px solid var(--line);margin-top:8px}
+.conclusion{display:grid;grid-template-columns:52px 1fr;gap:16px;padding:24px 0;border-bottom:1px solid var(--line)}
+.conclusion .no{font:600 14px/1.5 ui-monospace,Menlo,monospace;color:var(--accent)}
+.conclusion h3{font-size:22px;line-height:1.42;margin:0 0 9px}
+.conclusion p{margin:0 0 10px;font-size:17px}
+.conclusion .act{font-size:15px;line-height:1.65;color:var(--muted);border-left:2px solid var(--accent);padding-left:11px}
+.conclusion .act b{color:var(--accent);font-weight:600;letter-spacing:.06em;font-size:12px;margin-right:6px}
+.chart{background:var(--panel);border:1px solid var(--line);padding:18px 18px 14px;margin:20px 0}
+.chart-head{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.chart-title{font-size:14px;font-weight:600;letter-spacing:.02em}
+.chart-sub{font-size:12.5px;color:var(--muted)}
+.chart-scroll{overflow-x:auto}
+.chart-legend{display:flex;gap:18px;flex-wrap:wrap;margin:6px 0 12px;font-size:12.5px;color:var(--muted)}
+.chart-legend i{display:inline-block;width:10px;height:10px;margin-right:6px;vertical-align:1px}
+.bars{margin:2px 0}
+.bar-row{display:grid;grid-template-columns:122px 1fr 78px;gap:12px;align-items:center;padding:7px 0;border-top:1px solid var(--line)}
+.bar-row:first-child{border-top:0}
+.bar-label{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{display:flex;height:19px;background:var(--line);overflow:hidden}
+.bar-track i{display:block;height:100%;background:var(--accent)}
+.bar-track i.bad{background:var(--danger)}
+.bar-track i.good{background:var(--rule);opacity:.55}
+.bar-val{font:600 12.5px/1.4 ui-monospace,Menlo,monospace;text-align:right;color:var(--text);white-space:nowrap}
+.ratio{margin:2px 0}
+.ratio-axis,.ratio-row{display:grid;grid-template-columns:248px 1fr 48px;gap:12px;align-items:center}
+.ratio-axis{color:var(--muted);font:11px ui-monospace,Menlo,monospace;padding-bottom:5px}
+.ratio-axis .ticks{position:relative;display:block;height:14px}
+.ratio-axis .ticks span{position:absolute;transform:translateX(-50%)}
+.ratio-row{padding:7px 0;border-top:1px solid var(--line)}
+.ratio-label{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ratio-track{position:relative;height:18px}
+.ratio-track::before{content:"";position:absolute;left:0;right:0;top:50%;height:1px;background:var(--line)}
+.ratio-dot{position:absolute;top:50%;width:10px;height:10px;margin:-5px 0 0 -5px;border-radius:50%;background:var(--accent)}
+.ratio-med{position:absolute;top:0;bottom:0;border-left:1px dashed var(--accent);opacity:.65}
+.ratio-val{font:600 12.5px ui-monospace,Menlo,monospace;text-align:right;color:var(--text)}
+.table-wrap{overflow-x:auto}
+.table-wrap table{min-width:620px}
+details{margin:14px 0}
+details summary{cursor:pointer;color:var(--accent);font-size:14px;padding:8px 0;letter-spacing:.02em}
+details summary:hover{text-decoration:underline}
+.mobile-cards{display:none}
+.brief-end{border-top:2px solid var(--text);margin-top:56px;padding-top:22px}
+.brief-end h2{border:0;margin:0 0 8px;padding:0;font-size:26px}
+.brief-end .sub{margin-bottom:18px}
+.method{display:grid;grid-template-columns:1fr 1fr;gap:0 34px;margin:18px 0}
+.method div{padding:12px 0;border-top:1px solid var(--line);font-size:15px;color:var(--muted)}
+.method b{display:block;color:var(--text);font-size:13px;letter-spacing:.05em;margin-bottom:3px;font-weight:600}
+.sample-note{border:1px solid var(--accent);padding:13px 16px;font-size:14px;color:var(--text);margin:24px 0 0;line-height:1.65}
+.sample-note b{color:var(--accent);letter-spacing:.06em;margin-right:6px}
+@media(max-width:760px){
+  .kpi-strip{grid-template-columns:1fr 1fr}
+  .kpi-strip>div:nth-child(3){border-left:0;padding-left:0;border-top:1px solid var(--line)}
+  .kpi-strip>div:nth-child(4){border-top:1px solid var(--line)}
+  .section-head{grid-template-columns:1fr;gap:4px}
+  .section-head .no{padding-top:0}
+  .conclusion{grid-template-columns:1fr;gap:4px}
+  .method{grid-template-columns:1fr}
+  .brief-cover h1{font-size:34px}
+  .brief-deck{font-size:18px}
+}
+@media(max-width:600px){
+  body{font-size:17px}
+  .wrap{padding:20px 16px 60px}
+  h1{font-size:29px}
+  h2{font-size:22px}
+  table{font-size:14px}
+  th,td{padding:8px 6px}
+  .kpi-strip b{font-size:32px}
+  .brief-cover h1{font-size:31px}
+  .brief-kicker{margin-top:26px}
+  .section-head h2{font-size:25px}
+  .conclusion h3{font-size:20px}
+}
+@media(max-width:680px){
+  .hit-table{display:none}
+  .mobile-cards{display:block}
+  .rcard{padding:14px 0;border-bottom:1px solid var(--line)}
+  .rcard .rc-top{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12px;color:var(--muted)}
+  .rcard .rc-title{display:block;margin:7px 0 4px;font-size:16px;line-height:1.5;color:var(--text)}
+  .bar-row{grid-template-columns:1fr auto;gap:3px 10px;padding:9px 0}
+  .bar-track{grid-column:1/-1;order:3;height:16px}
+  .ratio-axis{display:none}
+  .ratio-row{grid-template-columns:1fr auto;gap:4px 10px;padding:9px 0}
+  .ratio-track{grid-column:1/-1;order:3;height:16px}
+  .ratio-label{white-space:normal}
+}
+@media print{
+  html[data-theme],html[data-theme="dark"],html[data-theme="light"]{--bg:#fff;--panel:#fff;--text:#111827;--muted:#4b5563;--line:#d1d5db;--rule:#9ca3af;--accent:#8a4b00;--accent-ink:#fff;--danger:#a3261c;--warn:#8a540b;--good:#065f46}
+  body{background:#fff;color:#111827;font-size:10.5pt}
+  .wrap{max-width:none;padding:0}
+  header,nav.crumbs,button.toggle{display:none}
+  .brief-cover h1{font-size:30pt}
+  .brief-deck{font-size:11pt}
+  .kpi-strip b{font-size:22pt}
+  .section-head h2{font-size:18pt}
+  .chart{break-inside:avoid;border-color:#d1d5db}
+  .chart svg{min-width:0}
+  tr,.conclusion,.sample-note{break-inside:avoid}
+  details>summary{display:none}
+  a{color:inherit;text-decoration:none}
+  footer{margin-top:24px}
+  @page{size:A4;margin:14mm}
+}
 `;
 
 let SITE = { name: 'Climate Radar', baseUrl: '', paddleCheckoutUrl: '', priceMonthly: 29, priceYearly: 299, earlyNote: '早鸟价，限前 20 名' };
 
 function brandMark() {
   const [a, b] = String(SITE.name || 'Climate Radar').toUpperCase().split(' ');
-  return `${esc(a || 'CLIMATE')}<span>${esc(b || 'RADAR')}</span>`;
+  return `${esc(a || 'CLIMATE')} <span>${esc(b || 'RADAR')}</span>`;
 }
 
 function pageHead(title, desc = '') {
@@ -267,143 +392,426 @@ function pageFoot(pre = '') {
   const base = SITE.baseUrl || pre;
   const op = [SITE.legalName, SITE.address].filter(Boolean).join('｜');
   return `<footer>数据来源：各品牌官网公开商品页、美国消费品安全委员会（CPSC）公开召回数据库。仅覆盖公开可访问的独立站商品，不含亚马逊等平台内部数据。本报告不构成法律或合规意见。
+${SITE.paddleCheckoutUrl ? '' : '<div style="margin-top:8px"><strong>样刊阶段：</strong>报告免费公开，尚未开放收款订阅。</div>'}
 ${op ? `<div style="margin-top:10px">运营者：${esc(op)}${SITE.contactEmail ? `｜<a href="mailto:${esc(SITE.contactEmail)}">${esc(SITE.contactEmail)}</a>` : ''}</div>` : ''}
 <div style="margin-top:10px"><a href="${esc(base)}terms.html">服务条款</a> · <a href="${esc(base)}privacy.html">隐私政策</a> · <a href="${esc(base)}refund.html">退款政策</a> · <a href="${esc(base)}about.html">About (EN)</a></div></footer></div>
-<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script></body></html>`;
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}
+addEventListener('beforeprint',function(){document.querySelectorAll('details').forEach(function(d){d.open=true})});</script></body></html>`;
 }
 
 function catLabel(id) { return CATS.find((c) => c.id === id)?.label ?? id; }
 
 const realPrice = (p) => Boolean(p.price) && !p.spec?.preorder && !p.spec?.discontinued;
 
-function renderReport(ctx) {
-  const { catalog, diff, recalls, stats, prevDate } = ctx;
-  const recentRecalls = recalls.filter((r) => r.date >= '2023-01-01').slice(0, 12);
-  const hit = recalls.filter((r) => r.matchedBrands.length || r.matchedSku).slice(0, 8);
-  const incomparable = catalog.filter((p) => (p.spec.flags ?? []).some((f) => f.code.endsWith('unstated') || f.code === 'sacc-gap' || f.code === 'eu-liters'));
-  const promos = catalog.filter((p) => realPrice(p) && p.spec.discount && p.spec.discount >= 0.08).sort((a, b) => b.spec.discount - a.spec.discount).slice(0, 12);
-  const fresh = catalog.filter((p) => p.created && p.created >= new Date(Date.now() - 90 * 864e5).toISOString().slice(0, 10)).sort((a, b) => (a.created < b.created ? 1 : -1)).slice(0, 12);
-  const cheapest = Object.entries(stats.byCat)
-    .map(([id]) => ({ id, med: median(catalog.filter((p) => p.cat === id && realPrice(p)).map((p) => p.price)) }))
-    .filter((x) => x.med && ['dehumidifier','portable-ac','air-purifier','humidifier'].includes(x.id))
-    .sort((a, b) => a.med - b.med)[0];
-  const pairs = catalog.filter((p) => p.cat === 'portable-ac' && p.spec.btuAshrae && p.spec.btuSacc);
-  const ratios = pairs.map((p) => p.spec.btuSacc / p.spec.btuAshrae).sort((a, b) => a - b);
-  const ratioMed = ratios.length ? ratios[Math.floor(ratios.length / 2)] : null;
-  const pairRows = pairs.slice(0, 8).map((p) => `<tr><td><a href="../model/${esc(modelId(p))}.html">${esc(p.title)}</a><div class="sub">${esc(p.vendor)}</div></td><td class="num">${p.spec.btuAshrae.toLocaleString()}</td><td class="num">${p.spec.btuSacc.toLocaleString()}</td><td class="num">${Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100)}%</td></tr>`).join('');
+const isUnstated = (p) => (p.spec.flags ?? []).some((f) => f.code.endsWith('unstated') || f.code === 'sacc-gap' || f.code === 'eu-liters');
 
-  const bandRows = Object.keys(stats.byCat).map((id) => {
+function clip(s, n) {
+  const t = String(s ?? '').replace(/\s+/g, ' ').trim();
+  if (t.length <= n) return t;
+  let cut = t.slice(0, n - 1);
+  const space = cut.lastIndexOf(' ');
+  if (space > n * 0.6) cut = cut.slice(0, space);
+  return `${cut.trim()}…`;
+}
+
+function recallTitle(text = '') {
+  return String(text)
+    .replace(/;\s*Sold\b[\s\S]*$/i, '')
+    .replace(/[;\s]+$/, '')
+    .trim();
+}
+
+function modelCode(title = '') {
+  const m = String(title).match(/\b([A-Z]{2,4}-\d{2,4}[A-Z0-9-]*)\b/);
+  return m ? m[1] : null;
+}
+
+function flagShort(flag) {
+  if (!flag) return '不可比';
+  if (flag.code.includes('unstated')) return '未注明标准';
+  if (flag.code === 'eu-liters') return '按升标，未折 DOE';
+  if (flag.code === 'sacc-gap') return '缺少 SACC';
+  return flag.text;
+}
+
+function fmtUnits(raw) {
+  const m = String(raw || '').match(/([\d,.]+)\s*(million|billion|thousand)?/i);
+  if (!m) return '—';
+  let n = Number(m[1].replace(/,/g, ''));
+  if (!Number.isFinite(n) || !n) return '—';
+  const unit = (m[2] || '').toLowerCase();
+  if (unit === 'million') n *= 1e6;
+  if (unit === 'billion') n *= 1e9;
+  if (unit === 'thousand') n *= 1e3;
+  if (n >= 1e8) return `约 ${(n / 1e8).toFixed(1).replace(/\.0$/, '')} 亿`;
+  if (n >= 1e4) return `约 ${(n / 1e4).toFixed(1).replace(/\.0$/, '')} 万`;
+  return `约 ${n.toLocaleString('en-US')}`;
+}
+
+function hazardLabel(text = '') {
+  const s = String(text).toLowerCase();
+  const out = [];
+  if (/fire|overheat|ignit|melt/.test(s)) out.push('火灾');
+  if (/burn/.test(s)) out.push('烧伤');
+  if (/shock|electric/.test(s)) out.push('触电');
+  if (/mold/.test(s)) out.push('霉菌');
+  if (/death|serious injury|injur|entrap|suffocat|strang|chok/.test(s)) out.push('伤害');
+  if (/laceration|cut/.test(s)) out.push('割伤');
+  if (/tip|fall/.test(s)) out.push('倾倒');
+  if (/leak|water/.test(s)) out.push('漏水');
+  return out.length ? out.slice(0, 2).join(' · ') : '其他';
+}
+
+function recallRank(r) {
+  const year = Number(String(r.date).slice(0, 4)) || 0;
+  const hit = (r.matchedBrands?.length || r.matchedSku) ? 100 : 0;
+  return hit + (year >= 2025 ? 20 : year >= 2023 ? 10 : 0) + (r.cat === '取暖器' ? 2 : 0);
+}
+
+function simpleBars(rows) {
+  const max = Math.max(1, ...rows.map((r) => r.value));
+  return `<div class="bars" role="img" aria-label="按数量排序的条形图">${rows.map((r) => `<div class="bar-row">
+<span class="bar-label">${esc(r.label)}</span>
+<div class="bar-track"><i style="width:${(r.value / max) * 100}%;opacity:${r.opacity ?? 1}"></i></div>
+<span class="bar-val">${esc(r.text ?? r.value)}</span>
+</div>`).join('')}</div>`;
+}
+
+function splitBars(rows) {
+  return `<div class="bars" role="img" aria-label="未注明标准的型号占比">${rows.map((r) => {
+    const pct = Math.round((r.bad / Math.max(1, r.total)) * 100);
+    return `<div class="bar-row">
+<span class="bar-label">${esc(r.label)}</span>
+<div class="bar-track"><i class="good" style="width:${100 - pct}%"></i><i class="bad" style="width:${pct}%"></i></div>
+<span class="bar-val">${r.bad} / ${r.total} · ${pct}%</span>
+</div>`;
+  }).join('')}</div>`;
+}
+
+function ratioBars(pairs, medianPct) {
+  const rows = [...pairs].sort((a, b) => (a.spec.btuSacc / a.spec.btuAshrae) - (b.spec.btuSacc / b.spec.btuAshrae));
+  const med = medianPct == null ? 75 : medianPct;
+  const x = (v) => ((Math.min(100, Math.max(50, v)) - 50) / 50) * 100;
+  const medLeft = x(med);
+  const ticks = [50, 60, 70, 80, 90, 100];
+  return `<div class="ratio" role="img" aria-label="SACC 相对 ASHRAE 的比例">
+<div class="ratio-axis"><span></span><span class="ticks">${ticks.map((t) => `<span style="left:${x(t)}%">${t}%</span>`).join('')}</span><span></span></div>
+${rows.map((p) => {
+    const pct = Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100);
+    const code = modelCode(p.title);
+    const label = code
+      ? `${clip(code, 16)} · ${p.spec.btuAshrae.toLocaleString()}→${p.spec.btuSacc.toLocaleString()}`
+      : `${clip(p.vendor, 16)} · ${p.spec.btuAshrae.toLocaleString()}→${p.spec.btuSacc.toLocaleString()}`;
+    return `<div class="ratio-row">
+<span class="ratio-label">${esc(label)}</span>
+<div class="ratio-track"><i class="ratio-med" style="left:${medLeft}%"></i><i class="ratio-dot" style="left:${x(pct)}%"></i></div>
+<span class="ratio-val">${pct}%</span>
+</div>`;
+  }).join('')}
+<div class="chart-sub" style="margin-top:8px">虚线为中位 ${med}%；横轴 50%–100%，圆点为各机型 SACC/ASHRAE。</div>
+</div>`;
+}
+
+function renderReport(ctx) {
+  const { catalog, recalls, stats, prevDate } = ctx;
+  const sample = !SITE.paddleCheckoutUrl;
+  const deh = catalog.filter((p) => p.cat === 'dehumidifier');
+  const dehBad = deh.filter(isUnstated);
+  const pac = catalog.filter((p) => p.cat === 'portable-ac');
+  const pacBad = pac.filter(isUnstated);
+  const humBad = catalog.filter((p) => p.cat === 'humidifier' && isUnstated(p));
+  const unstated = catalog.filter(isUnstated);
+  const pairs = pac.filter((p) => p.spec.btuAshrae && p.spec.btuSacc);
+  const ratioPct = pairs.map((p) => Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100));
+  const ratioMed = ratioPct.length ? median(ratioPct) : null;
+  const ratioMin = ratioPct.length ? Math.min(...ratioPct) : null;
+  const ratioMax = ratioPct.length ? Math.max(...ratioPct) : null;
+  const pairVendors = uniq(pairs.map((p) => p.vendor));
+  const pairScope = pairVendors.length === 1 ? `${pairVendors[0]} ${pairs.length} 款` : `${pairVendors.length} 个品牌共 ${pairs.length} 款`;
+  const pairNote = pairVendors.length === 1
+    ? `本期可比的 ${pairs.length} 款双标机型全部来自 ${pairVendors[0]}。`
+    : `本期 ${pairs.length} 款双标机型来自 ${pairVendors.join('、')}。`;
+
+  const hit = recalls.filter((r) => r.matchedBrands.length || r.matchedSku);
+  const brandHits = {};
+  for (const r of hit) for (const b of r.matchedBrands) brandHits[b] = (brandHits[b] ?? 0) + 1;
+  const brandTop = Object.entries(brandHits).sort((a, b) => b[1] - a[1]).slice(0, 2)
+    .map(([b, n]) => `${b.replace(/\s*Air$/, '')} ${n}`).join(' · ') || '无';
+  const hitSorted = [...hit].sort((a, b) => (a.date < b.date ? 1 : -1));
+  const allByDate = [...recalls].sort((a, b) => (a.date < b.date ? 1 : -1));
+
+  const catOrder = ['取暖器', '窗式空调', '空气净化器', '除湿机', '加湿器', '风扇'];
+  const catCounts = catOrder
+    .map((label) => ({ label, value: recalls.filter((r) => r.cat === label).length }))
+    .filter((r) => r.value)
+    .sort((a, b) => b.value - a.value);
+  const recallBars = catCounts.map((r, i) => ({ ...r, text: `${r.value} 条`, opacity: i === 0 ? 1 : 0.55 }));
+
+  const splitRows = [
+    { label: '除湿机', total: deh.length, bad: dehBad.length },
+    { label: '移动空调', total: pac.length, bad: pacBad.length },
+    { label: '加湿器', total: catalog.filter((p) => p.cat === 'humidifier').length, bad: humBad.length },
+  ].filter((r) => r.total && r.bad > 0);
+
+  const specShown = (p) => {
+    const s = p.spec;
+    if (p.cat === 'portable-ac') {
+      return s.btuSacc && s.btuAshrae ? `SACC ${s.btuSacc.toLocaleString()} / ASHRAE ${s.btuAshrae.toLocaleString()}`
+        : s.btuSacc ? `SACC ${s.btuSacc.toLocaleString()}`
+        : s.btuAshrae ? `ASHRAE ${s.btuAshrae.toLocaleString()}`
+        : s.btu ? `${s.btu.toLocaleString()} BTU` : '—';
+    }
+    if (s.pints) return `${s.pints} pint/天`;
+    if (s.liters) return `${s.liters} L/天`;
+    if (s.sqft) return `${s.sqft.toLocaleString()} sq ft`;
+    return '—';
+  };
+
+  const incomparableRow = (p) => {
+    const s = p.spec;
+    const flag = (s.flags ?? []).find((f) => f.code !== 'ok-sacc' && f.code !== 'ok-doe' && f.code !== 'ok-both');
+    return `<tr><td><a href="../model/${esc(modelId(p))}.html">${esc(clip(p.title, 62))}</a><div class="sub">${esc(p.vendor)} ｜ <a href="${esc(p.url)}" target="_blank" rel="noopener">官网</a></div></td><td class="num">${esc(specShown(p))}</td><td class="num">${money(p.price)}</td><td><span class="tag warn" title="${esc(flag?.text ?? '')}">${esc(flagShort(flag))}</span></td></tr>`;
+  };
+
+  const pacBadRows = [...pacBad].sort((a, b) => (a.vendor < b.vendor ? -1 : a.vendor > b.vendor ? 1 : b.price - a.price)).map(incomparableRow).join('');
+  const dehPick = [];
+  const seenVendor = new Set();
+  for (const p of [...dehBad].sort((a, b) => (a.vendor < b.vendor ? -1 : 1))) {
+    if (seenVendor.has(p.vendor)) continue;
+    seenVendor.add(p.vendor);
+    dehPick.push(p);
+    if (dehPick.length >= 8) break;
+  }
+  const dehBadRows = dehPick.map(incomparableRow).join('');
+
+  const bandRows = ['dehumidifier', 'portable-ac', 'air-purifier', 'humidifier', 'heater', 'fan'].map((id) => {
     const rows = catalog.filter((p) => p.cat === id && realPrice(p));
     const prices = rows.map((p) => p.price);
     if (!prices.length) return '';
     return `<tr><td>${esc(catLabel(id))}</td><td class="num">${rows.length}</td><td class="num">${money(Math.min(...prices))}</td><td class="num">${money(median(prices))}</td><td class="num">${money(Math.max(...prices))}</td></tr>`;
   }).join('');
 
-  const recallRows = recentRecalls.map((r) => {
-    const m = r.matchedBrands.length ? `<span class="tag danger">命中：${esc(r.matchedBrands.slice(0, 3).join('、'))}</span>` : '';
-    return `<tr><td class="num">${esc(r.date)}</td><td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a><div class="sub">${esc(r.cat)}｜${esc(r.units)}</div>${m}</td></tr>`;
+  const claims = catalog.filter((p) => realPrice(p) && p.spec.discount >= 0.08);
+  const claimRows = [...claims].sort((a, b) => b.spec.discount - a.spec.discount).slice(0, 6).map((p) => {
+    const diffPct = Math.round(p.spec.discount * 100);
+    return `<tr><td><a href="../model/${esc(modelId(p))}.html">${esc(clip(p.title, 64))}</a><div class="sub">${esc(p.vendor)}</div></td><td class="num">${money(p.price)}</td><td class="num">${money(p.compare)}</td><td class="num"><span class="tag warn">-${diffPct}%</span></td></tr>`;
   }).join('');
 
-  const incomparablePick = [];
-  const perVendor = new Map();
-  for (const p of incomparable) {
-    const n = perVendor.get(p.vendor) ?? 0;
-    if (n >= 2) continue;
-    perVendor.set(p.vendor, n + 1);
-    incomparablePick.push(p);
-    if (incomparablePick.length >= 16) break;
-  }
-  const incomparableRows = incomparablePick.map((p) => {
-    const s = p.spec;
-    const shown = p.cat === 'portable-ac'
-      ? (s.btuSacc && s.btuAshrae ? `SACC ${s.btuSacc.toLocaleString()} / ASHRAE ${s.btuAshrae.toLocaleString()}`
-        : s.btuSacc ? `SACC ${s.btuSacc.toLocaleString()}`
-        : s.btuAshrae ? `ASHRAE ${s.btuAshrae.toLocaleString()}` : '—')
-      : (s.pints ? `${s.pints} pint` : s.liters ? `${s.liters} L/天 ≈ ${s.pintsEq} pint` : '—');
-    const flag = (s.flags ?? []).find((f) => f.code !== 'ok-sacc' && f.code !== 'ok-doe');
-    return `<tr><td><a href="../model/${esc(modelId(p))}.html">${esc(p.title)}</a><div class="sub">${esc(p.vendor)} ｜ <a href="${esc(p.url)}" target="_blank" rel="noopener">官网</a></div></td><td class="num">${esc(shown)}</td><td class="num">${money(p.price)}</td><td><span class="tag warn">${esc(flag?.text ?? '不可比')}</span></td></tr>`;
-  }).join('');
+  const hitRows = hitSorted.map((r) => `<tr>
+<td class="num">${esc(r.date)}</td>
+<td>${esc(r.cat)}</td>
+<td><span class="tag danger">${esc(r.matchedBrands.join('、') || '型号精确命中')}</span></td>
+<td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(clip(recallTitle(r.title), 120))}</a><div class="sub">CPSC ${esc(r.number)}</div></td>
+<td class="num">${esc(fmtUnits(r.units))}</td>
+<td><span class="tag">${esc(hazardLabel(r.hazard))}</span></td>
+</tr>`).join('');
 
-  const promoRows = promos.map((p) => `<tr><td><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a><div class="sub">${esc(p.vendor)}</div></td><td class="num">${money(p.price)}</td><td class="num">${money(p.compare)}</td><td class="num">-${Math.round(p.spec.discount * 100)}%</td></tr>`).join('');
+  const hitCards = hitSorted.map((r) => `<div class="rcard">
+<div class="rc-top"><span>${esc(r.date)}</span><span>${esc(r.cat)}</span><span class="tag danger">${esc(r.matchedBrands.join('、') || '型号精确命中')}</span><span class="tag">${esc(hazardLabel(r.hazard))}</span></div>
+<a class="rc-title" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(clip(recallTitle(r.title), 120))}</a>
+<div class="sub">${esc(fmtUnits(r.units))} · CPSC ${esc(r.number)}</div>
+</div>`).join('');
 
-  const freshRows = fresh.map((p) => `<tr><td class="num">${esc(p.created)}</td><td><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a><div class="sub">${esc(p.vendor)}｜${esc(catLabel(p.cat))}</div></td><td class="num">${money(p.price)}</td></tr>`).join('');
+  const allRows = allByDate.map((r) => `<tr>
+<td class="num">${esc(r.date)}</td>
+<td>${esc(r.cat)}</td>
+<td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(clip(recallTitle(r.title), 120))}</a></td>
+<td>${esc(r.matchedBrands.join('、') || r.brands.slice(0, 2).join('、') || '—')}</td>
+<td class="num">${esc(fmtUnits(r.units))}</td>
+</tr>`).join('');
 
-  const moveRows = [...diff.priceDrop.slice(0, 10), ...diff.priceUp.slice(0, 5)].map((p) => {
-    const pct = Math.round(p.delta * 100);
-    return `<tr><td><a href="https://${esc(p.domain)}/products/${esc(p.handle)}" target="_blank" rel="noopener">${esc(p.title)}</a><div class="sub">${esc(p.domain)}</div></td><td class="num">${money(p.oldPrice)} → ${money(p.price)}</td><td class="num"><span class="tag ${pct < 0 ? 'good' : 'danger'}">${pct > 0 ? '+' : ''}${pct}%</span></td></tr>`;
-  }).join('');
+  const dehPct = deh.length ? Math.round((dehBad.length / deh.length) * 100) : 0;
+  const ratioLine = ratioMed == null ? '' : `${pairScope}双标移动空调的 SACC 制冷量中位数仅为 ASHRAE 的 <strong>${ratioMed}%</strong>。`;
+  const headline = dehBad.length
+    ? `${deh.length} 款除湿机<br>${dehBad.length} 款没有写明测试标准`
+    : `${stats.products} 个收录型号的规格、价格与召回基线`;
 
-  return `${pageHead(`选品与合规周报 · ${date}`, `第 ${ctx.issue} 期：${stats.stores} 家美国独立站、${stats.products} 个在售型号的价格、规格口径与 CPSC 召回情报。`)}
-<h1>除湿机 / 移动空调 · 选品与合规周报</h1>
-<p class="sub">第 ${ctx.issue} 期｜${date}｜覆盖 ${stats.stores} 家独立站、${stats.products} 个在售型号${prevDate ? `｜对比基准 ${prevDate}` : '｜本期建立基线'}</p>
+  const sectionHead = (no, title, stand) => `<div class="section-head"><div class="no">${no}</div><div><h2>${title}</h2><p>${stand}</p></div></div>`;
+
+  return `${pageHead(`美国家居气候电器卖家情报 · 第 ${ctx.issue} 期`, `第 ${ctx.issue} 期：${stats.stores} 家美国独立站、${stats.products} 个收录型号的价格、规格口径与 CPSC 召回情报。`)}
 <nav class="crumbs"><a href="${SITE.baseUrl ? esc(SITE.baseUrl) : '../index.html'}">首页</a> › 本期 ｜ <a href="../model/index.html">型号库</a> ｜ <a href="index.html">往期</a></nav>
 
-<div class="grid">
-  <div class="card"><div class="kpi">${stats.byCat.dehumidifier ?? 0}</div><div class="kpi-label">除湿机</div></div>
-  <div class="card"><div class="kpi">${stats.byCat['portable-ac'] ?? 0}</div><div class="kpi-label">移动空调</div></div>
-  <div class="card"><div class="kpi">${stats.incomparable}</div><div class="kpi-label">规格不可直接比</div></div>
-  <div class="card"><div class="kpi">${stats.totalRecalls}</div><div class="kpi-label">相关召回（含历史）</div></div>
+<div class="brief-cover">
+  <div class="cover-top">
+    <div>CLIMATE RADAR · WEEKLY MARKET BRIEF</div>
+    <div>NO. ${String(ctx.issue).padStart(3, '0')} · ${ctx.date}${sample ? ' · <span class="sample">样刊</span>' : ''}</div>
+  </div>
+  <div class="brief-kicker">美国家居气候电器 · 独立站竞品情报</div>
+  <h1>${headline}</h1>
+  <p class="brief-deck">未注明 DOE-2019 口径的除湿量无法跨品牌比较；${ratioLine}本期按同一把尺子重排 ${stats.products} 个型号，并列出 ${hit.length} 条命中监控品牌的 CPSC 召回。</p>
+  <div class="brief-byline">
+    <span>数据日期 ${ctx.date}</span>
+    <span>${stats.stores} 家品牌独立站</span>
+    <span>${stats.products} 个收录型号</span>
+    <span>${prevDate ? `对比基准 ${prevDate}` : '首期基线'}</span>
+  </div>
 </div>
 
-<div class="note"><strong>本周三句话</strong><br>
-1）共 ${stats.totalRecalls} 条相关召回（含历史），${stats.hitRecalls} 条命中你监控的品牌——先查同款工厂。<br>
-2）${stats.incomparable} 个在售型号的 BTU/除湿量没写标准，这些数字不能直接拿来比价。<br>
-3）${promos.length} 个型号在打 8% 以上折扣；中位价最低的是${esc(catLabel(cheapest?.id ?? ''))}（${money(cheapest?.med)}）。</div>
+<div class="kpi-strip">
+  <div><b>${stats.products}</b><span>收录型号<br>覆盖 ${stats.stores} 家独立站</span></div>
+  <div><b>${unstated.length}</b><span>规格不可直接比<br>除湿机 ${stats.dehUnstated}/${stats.dehTotal} 款</span></div>
+  <div><b>${hit.length}</b><span>召回命中监控品牌<br>${esc(brandTop)}</span></div>
+  <div><b>${ratioMed ?? '—'}<em>%</em></b><span>SACC / ASHRAE 中位比<br>${pairs.length} 款双标机型${pairVendors.length === 1 ? ` · ${esc(pairVendors[0])}` : ` · ${pairVendors.length} 个品牌`}</span></div>
+</div>
 
-<h2>一、召回雷达（官方数据，全自动）</h2>
-<table><thead><tr><th style="width:110px">日期</th><th>召回事件</th></tr></thead><tbody>${recallRows || '<tr><td colspan="2" class="sub">本期无新增。</td></tr>'}</tbody></table>
+<div class="section-head"><div class="no">结论</div><div><h2>本期三个判断</h2><p>结论只使用可核对的数据；每条附一条可执行动作。</p></div></div>
+<div class="conclusions">
+  <div class="conclusion">
+    <div class="no">01</div>
+    <div>
+      <h3>召回集中在取暖器，品牌命中集中在 Vornado 与 Lasko</h3>
+      <p>${recalls.length} 条相关召回中，取暖器 ${catCounts.find((c) => c.label === '取暖器')?.value ?? 0} 条。${hit.length} 条命中监控品牌：${Object.entries(brandHits).sort((a, b) => b[1] - a[1]).map(([b, n]) => `${esc(b.replace(/\s*Air$/, ''))} ${n} 条`).join('、')}；其中取暖器 ${hit.filter((r) => r.cat === '取暖器').length} 条、风扇 ${hit.filter((r) => r.cat === '风扇').length} 条。最近一条为 ${esc(hitSorted[0]?.date ?? '—')} 的${esc(hitSorted[0]?.cat ?? '')}召回，涉及${esc(fmtUnits(hitSorted[0]?.units))}。</p>
+      <div class="act"><b>动作</b>上架或采购同款、同厂取暖器与风扇前，按 CPSC 公告的型号、UPC 与销售时间核对；品牌名相同不等于型号被召回。</div>
+    </div>
+  </div>
+  <div class="conclusion">
+    <div class="no">02</div>
+    <div>
+      <h3>${pairVendors.length === 1 ? `${esc(pairVendors[0])} 双标机型：SACC 仅为 ASHRAE 的 ${ratioMed}%` : `双标机型：SACC 中位为 ASHRAE 的 ${ratioMed}%`}</h3>
+      <p>${pairNote}按 SACC/ASHRAE 计算，中位数 ${ratioMed}%，最低 ${ratioMin}%，最高 ${ratioMax}%。标称 12,000 BTU 的机型，SACC 口径约为 ${Math.round(12000 * ratioMin / 100).toLocaleString()}–${Math.round(12000 * ratioMax / 100).toLocaleString()} BTU。</p>
+      <div class="act"><b>动作</b>比价、定价与详情页统一使用 SACC；向工厂索取 SACC 测试值。只有 ASHRAE 数字的型号，不进入同口径排序。</div>
+    </div>
+  </div>
+  <div class="conclusion">
+    <div class="no">03</div>
+    <div>
+      <h3>除湿机的规格透明度最低</h3>
+      <p>${deh.length} 款除湿机中 ${dehBad.length} 款未注明 DOE-2019 口径或未按 DOE 折算，占 ${dehPct}%；可验证口径的仅 ${deh.length - dehBad.length} 款。另有 ${pacBad.length} 款移动空调只写 BTU、不写标准。</p>
+      <div class="act"><b>动作</b>只把标注 DOE-2019 的型号放进单位价排序；其余先向供应商要测试报告，再决定是否跟价。</div>
+    </div>
+  </div>
+</div>
 
-${hit.length ? `<h3>命中你监控品牌的召回</h3><table><thead><tr><th>日期</th><th>品牌</th><th>事件</th></tr></thead><tbody>${hit.map((r) => `<tr><td class="num">${esc(r.date)}</td><td>${esc(r.matchedBrands.join('、') || '型号精确命中')}</td><td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a></td></tr>`).join('')}</tbody></table>` : ''}
+${sectionHead('01', '召回雷达', '美国消费品安全委员会（CPSC）公开数据：2022 年以来气候电器品类召回，并补充品牌历史召回（最早 2004 年）。先列命中监控品牌的记录，再列全部相关召回。')}
+<div class="chart">
+  <div class="chart-head"><div class="chart-title">相关召回按品类分布</div><div class="chart-sub">共 ${recalls.length} 条 · 按事件数</div></div>
+  ${simpleBars(recallBars)}
+</div>
+<h3>命中监控品牌（${hit.length} 条）</h3>
+<div class="table-wrap hit-table"><table><thead><tr><th style="width:96px">日期</th><th style="width:88px">品类</th><th style="width:140px">品牌</th><th>召回事件</th><th style="width:96px">规模</th><th style="width:104px">危害</th></tr></thead><tbody>${hitRows || '<tr><td colspan="6" class="sub">本期无品牌命中。</td></tr>'}</tbody></table></div>
+<div class="mobile-cards">${hitCards || '<p class="sub">本期无品牌命中。</p>'}</div>
+<details>
+  <summary>展开全部 ${recalls.length} 条相关召回</summary>
+  <div class="table-wrap"><table><thead><tr><th style="width:96px">日期</th><th style="width:88px">品类</th><th>召回事件</th><th style="width:150px">品牌 / 厂商</th><th style="width:96px">规模</th></tr></thead><tbody>${allRows}</tbody></table></div>
+</details>
+<div class="note">品牌匹配基于召回标题、产品名与厂商名，属于线索而非结论。采购前须以 CPSC 公告中的型号、UPC 与销售时间核对。</div>
 
-<h2>二、不可比清单（本报告的核心价值）</h2>
-<p class="sub">除湿机 2019 年换过测试标准，移动空调 2017 年从 ASHRAE 改成 SACC。下面这些型号只写了数字、没写尺子，和别家直接比就是错的。</p>
-${pairs.length ? `<h3>实测换算：ASHRAE 到 SACC 到底打几折</h3>
-<p class="sub">官网同时标注两个标准的 ${pairs.length} 台机型里，SACC 中位数是 ASHRAE 的 <strong>${Math.round((ratioMed ?? 0) * 100)}%</strong>（区间 ${Math.round(ratios[0] * 100)}%–${Math.round(ratios[ratios.length - 1] * 100)}%）。每家不一样，不能用一个固定系数去折算。</p>
-<table><thead><tr><th>机型</th><th style="width:110px">ASHRAE</th><th style="width:100px">SACC</th><th style="width:80px">比例</th></tr></thead><tbody>${pairRows}</tbody></table>` : ''}
-<table><thead><tr><th>型号</th><th style="width:150px">标称</th><th style="width:90px">价格</th><th style="width:230px">问题</th></tr></thead><tbody>${incomparableRows || '<tr><td colspan="4" class="sub">本期全部标注了标准。</td></tr>'}</tbody></table>
+${sectionHead('02', '规格口径', '除湿量统一为 DOE-2019 pints/天，制冷量统一为 SACC。未注明标准的数字保留原值，但不参与跨品牌比较。')}
+<div class="chart">
+  <div class="chart-head"><div class="chart-title">未注明标准或未按 DOE 折算的型号占比</div><div class="chart-sub">按品类 · 红色为不可直接比</div></div>
+  <div class="chart-legend"><span><i style="background:var(--danger)"></i>不可比</span><span><i style="background:var(--rule);opacity:.6"></i>口径可验证</span></div>
+  ${splitBars(splitRows)}
+</div>
+${pairs.length ? `<div class="chart">
+  <div class="chart-head"><div class="chart-title">SACC / ASHRAE 实测比例</div><div class="chart-sub">${pairs.length} 款双标机型${pairVendors.length === 1 ? ` · 全部来自 ${esc(pairVendors[0])}` : ''}</div></div>
+  ${ratioBars(pairs, ratioMed)}
+</div>` : ''}
+<h3>移动空调：未注明标准的全部 ${pacBad.length} 款</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:210px">标称</th><th style="width:90px">价格</th><th style="width:230px">问题</th></tr></thead><tbody>${pacBadRows || '<tr><td colspan="4" class="sub">本期全部标注了标准。</td></tr>'}</tbody></table></div>
+<h3>除湿机：按品牌各取 1 款示例</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:130px">标称</th><th style="width:90px">价格</th><th style="width:230px">问题</th></tr></thead><tbody>${dehBadRows || '<tr><td colspan="4" class="sub">本期全部标注了标准。</td></tr>'}</tbody></table></div>
+<div class="note">可验证口径的除湿机 ${deh.length - dehBad.length} 款，占 ${100 - dehPct}%；移动空调 ${pac.length - pacBad.length} 款。完整标记见<a href="../model/index.html">型号库</a>逐页的“规格与合规字段”。</div>
 
-<h2>三、谁在动价</h2>
-<table><thead><tr><th>型号</th><th style="width:170px">价格</th><th style="width:80px">幅度</th></tr></thead><tbody>${moveRows || '<tr><td colspan="3" class="sub">本期建立基线，下周开始出现真实涨跌。</td></tr>'}</tbody></table>
+${sectionHead('03', '价格与供给', prevDate ? `与 ${prevDate} 快照对比。价格均为官网标价，不含优惠券、会员价与运费。` : '首期只有价格基线，不计算环比。价格均为官网标价，不含优惠券、会员价与运费。')}
+<h3>价格带（${ctx.date}）</h3>
+<div class="table-wrap"><table><thead><tr><th>品类</th><th>有标价型号</th><th>最低</th><th>中位</th><th>最高</th></tr></thead><tbody>${bandRows}</tbody></table></div>
+<h3>${claims.length ? `官方划线价差最大（前 ${Math.min(6, claims.length)} 款，共 ${claims.length} 款 ≥8%）` : '官方划线价差'}</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:90px">现价</th><th style="width:90px">划线价</th><th style="width:76px">价差</th></tr></thead><tbody>${claimRows || '<tr><td colspan="4" class="sub">本期无 ≥8% 的划线价差。</td></tr>'}</tbody></table></div>
+<div class="note">划线价为商家自填，可能长期高于实际成交价，本报告不将其计为降价。另有 ${stats.priceHidden} 个型号官网只显示占位价、${stats.priceMissing} 个取不到价格，已从全部价格统计中剔除。</div>
 
-<h2>四、促销与新上架</h2>
-${promoRows ? `<table><thead><tr><th>促销型号</th><th style="width:90px">现价</th><th style="width:90px">原价</th><th style="width:70px">折扣</th></tr></thead><tbody>${promoRows}</tbody></table>` : '<p class="sub">本期无 8% 以上折扣。</p>'}
-${freshRows ? `<h3>近 90 天新上架</h3><table><thead><tr><th style="width:110px">上架</th><th>型号</th><th style="width:90px">价格</th></tr></thead><tbody>${freshRows}</tbody></table>` : ''}
+${sectionHead('04', '方法与边界', '可复现的采集与计算规则；不确定的地方直接标注，不用估算补齐。')}
+<div class="method">
+  <div><b>覆盖范围</b>${stats.stores} 家公开可访问的美国品牌独立站；不含亚马逊、沃尔玛、Home Depot 等平台内部数据。</div>
+  <div><b>品类</b>除湿机、移动空调、空气净化器、加湿器、风扇、取暖器；剔除配件、耗材、翻新、开箱与占位价商品。</div>
+  <div><b>除湿量</b>DOE-2019 pints/天。只写升、未按 DOE 折算的型号标记为不可比。</div>
+  <div><b>制冷量</b>SACC BTU；同时标注 ASHRAE 的机型给出两者比例，不采用固定换算系数。</div>
+  <div><b>召回</b>CPSC 公开接口；2022 年以来气候电器品类召回，并补充更早的品牌历史召回。先做型号/UPC 精确匹配，再做品牌匹配。</div>
+  <div><b>价格</b>官网公开标价；不含优惠券、会员价、运费与平台补贴，不代表最终成交价。</div>
+</div>
 
-<h2>五、价格带</h2>
-<table><thead><tr><th>品类</th><th>在售</th><th>最低</th><th>中位</th><th>最高</th></tr></thead><tbody>${bandRows}</tbody></table>
-
-<h2>六、覆盖说明</h2>
-<p class="sub">本期覆盖 ${stats.stores} 家公开可访问的独立站（${ctx.storeNames}）。召回部分来自 CPSC 官方接口，覆盖全美公开召回，不依赖店铺。价格只反映独立站标价，不含亚马逊、沃尔玛、Home Depot 等平台，也不含优惠券后的真实成交价。另有 ${stats.priceHidden} 个型号官网只给占位价（$1 之类）、${stats.priceMissing} 个给不出价格，这两类已从价格统计中剔除。</p>
-<p style="margin-top:22px">${ctaHtml('订阅，每周一自动收到', '../model/index.html', '按型号查本期全部机型')}</p>
+<div class="brief-end">
+  <h2>${sample ? '样刊说明' : '订阅'}</h2>
+  <p class="sub">${sample
+    ? `本期为样刊，免费公开，暂不收款。开放订阅后每周一邮件交付完整报告与型号库访问；月付 $${SITE.priceMonthly}，年付 $${SITE.priceYearly}，税费由 Paddle 在结账时计算。`
+    : `每周一邮件交付完整报告与型号库访问；月付 $${SITE.priceMonthly}，年付 $${SITE.priceYearly}，税费由 Paddle 在结账时计算。`}</p>
+  ${SITE.paddleCheckoutUrl
+    ? `<a class="cta" href="${esc(SITE.paddleCheckoutUrl)}" rel="noopener">订阅，每周一收到完整报告</a>`
+    : `<a class="cta" href="../model/index.html">查看 ${stats.products} 个型号</a> <a class="cta ghost" href="index.html">往期报告</a>`}
+  <div class="sample-note"><b>状态</b>${sample ? '样刊 · 免费公开 · 未开放收款' : '正式订阅'}。数据来源为品牌官网公开商品页与 CPSC 公开召回库；本报告不构成法律或合规意见。</div>
+</div>
 ${pageFoot('../')}`;
 }
 
 function renderIndex(ctx) {
-  const { stats } = ctx;
-  return `${pageHead('Climate Radar · 美国除湿机与移动空调选品情报')}
-<h1>别人抄得走你的网页，抄不走你三年前存下的价格和型号表。</h1>
-<p class="sub">给做美国市场的中小卖家：每周一份除湿机 / 移动空调 / 空气处理的竞品与召回情报。所有规格换成同一把尺子，所有召回对上具体型号。</p>
-<div class="grid">
-  <div class="card"><div class="kpi">${stats.products}</div><div class="kpi-label">本期追踪型号</div></div>
-  <div class="card"><div class="kpi">${stats.stores}</div><div class="kpi-label">独立站</div></div>
-  <div class="card"><div class="kpi">${stats.recentRecalls}</div><div class="kpi-label">近三年相关召回</div></div>
+  const { stats, recalls } = ctx;
+  const sample = !SITE.paddleCheckoutUrl;
+  const unstated = stats.incomparable;
+  const pairs = ctx.catalog.filter((p) => p.cat === 'portable-ac' && p.spec.btuAshrae && p.spec.btuSacc);
+  const ratioMed = pairs.length ? median(pairs.map((p) => Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100))) : null;
+  const pairVendors = uniq(pairs.map((p) => p.vendor));
+  const brandHits = {};
+  for (const r of recalls.filter((x) => x.matchedBrands.length)) for (const b of r.matchedBrands) brandHits[b] = (brandHits[b] ?? 0) + 1;
+  const brandText = Object.entries(brandHits).sort((a, b) => b[1] - a[1]).slice(0, 2).map(([b, n]) => `${b.replace(/\s*Air$/, '')} ${n}`).join(' · ');
+  const title = `${SITE.name} · 美国家居气候电器卖家情报`;
+
+  return `${pageHead(title, `每周一份美国除湿机、移动空调、空气净化器、加湿器、风扇与取暖器的竞品、规格与 CPSC 召回情报。覆盖 ${stats.stores} 家品牌独立站、${stats.products} 个收录型号。`)}
+<div class="brief-cover">
+  <div class="cover-top">
+    <div>CLIMATE RADAR · WEEKLY MARKET BRIEF</div>
+    <div>NO. ${String(ctx.issue).padStart(3, '0')} · ${ctx.date}${sample ? ' · <span class="sample">样刊</span>' : ''}</div>
+  </div>
+  <div class="brief-kicker">美国家居气候电器 · 独立站竞品情报</div>
+  <h1>美国家居气候电器，<br>每周一份可核对的情报。</h1>
+  <p class="brief-deck">覆盖 ${stats.stores} 家品牌独立站、${stats.products} 个收录型号。规格统一到 DOE-2019 与 SACC，召回匹配到品牌与型号，价格按周记录。每条判断都能回到原始商品页或 CPSC 公告。</p>
+  <div class="brief-byline">
+    <span>第 ${ctx.issue} 期 · ${ctx.date}</span>
+    <span>每周一更新</span>
+    <span>${sample ? '样刊免费公开' : '订阅制'}</span>
+  </div>
 </div>
-<h2>你每周拿到什么</h2>
-<table><tbody>
-<tr><td><strong>召回雷达</strong></td><td>CPSC 一发布就进报告，标注受影响品牌、型号、销量，以及是否命中你正在卖的同款工厂。</td></tr>
-<tr><td><strong>同一把尺子</strong></td><td>除湿量按 DOE-2019、制冷量按 SACC 统一；没写标准的型号单独列出来，告诉你哪些数字不能比。</td></tr>
-<tr><td><strong>谁在动</strong></td><td>谁降价、谁断货、谁上新；价格历史从第一期开始累积，越用越值钱。</td></tr>
-<tr><td><strong>三句话结论</strong></td><td>本周跟不跟、跟谁、别碰什么。表格是原料，结论才是产品。</td></tr>
-</tbody></table>
-<h2>价格</h2>
-<div class="card"><div class="kpi">$${SITE.priceMonthly}<span style="font-size:18px;color:var(--muted)">/月</span></div>
-<p class="sub">${esc(SITE.earlyNote || '早鸟价')}。年付 $${SITE.priceYearly}。</p>
-<p class="sub">付款由 Paddle 处理（名义卖家模式），自动代扣美国销售税与欧洲 VAT，中国大陆个人可直接收款。</p>
-${SITE.paddleYearlyUrl ? `<p><a class="cta" href="${esc(SITE.paddleYearlyUrl)}" rel="noopener" style="background:transparent;border:1px solid var(--accent);color:var(--accent)">改年付 $${SITE.priceYearly}（省 $${SITE.priceMonthly * 12 - SITE.priceYearly}）</a></p>` : ''}</div>
-<p style="margin-top:20px">${SITE.paddleCheckoutUrl ? `<a class="cta" href="${esc(SITE.paddleCheckoutUrl)}" rel="noopener">订阅，收每周情报</a> <a class="cta" style="background:transparent;border:1px solid var(--line);color:var(--text);margin-left:8px" href="report/latest.html">先看本期样板报告</a>` : `<a class="cta" href="report/latest.html">先看本期样板报告</a>`} <a class="cta" style="background:transparent;border:1px solid var(--line);color:var(--text);margin-left:8px" href="model/index.html">按型号查</a></p>
-${SITE.contactEmail && !SITE.paddleCheckoutUrl ? `<p class="sub">想先订：<a href="mailto:${esc(SITE.contactEmail)}?subject=${encodeURIComponent('Climate Radar 早鸟订阅')}">发邮件到 ${esc(SITE.contactEmail)}</a>，写明你的品类和店铺链接，我给你开通。</p>` : ''}
-<h2>怎么运作</h2>
-<p>每周一自动抓取公开商品页与官方召回库，生成报告并发布到这里。人工只做一件事：确认那三句话。</p>
+
+<div class="kpi-strip">
+  <div><b>${stats.products}</b><span>收录型号<br>覆盖 ${stats.stores} 家独立站</span></div>
+  <div><b>${unstated}</b><span>规格不可直接比<br>除湿机 ${stats.dehUnstated}/${stats.dehTotal} 款</span></div>
+  <div><b>${stats.hitRecalls}</b><span>召回命中监控品牌<br>${esc(brandText)}</span></div>
+  <div><b>${ratioMed ?? '—'}<em>%</em></b><span>SACC / ASHRAE 中位比<br>${pairs.length} 款双标机型${pairVendors.length === 1 ? ` · ${esc(pairVendors[0])}` : ''}</span></div>
+</div>
+
+<div class="section-head"><div class="no">内容</div><div><h2>一份报告，四类可核对的信息</h2><p>不做泛行业综述，只覆盖能落到型号、价格与公告上的事实。</p></div></div>
+<div class="conclusions">
+  <div class="conclusion">
+    <div class="no">01</div>
+    <div><h3>召回雷达</h3><p>${recalls.length} 条 CPSC 相关召回，${stats.hitRecalls} 条命中监控品牌。逐条给出日期、品类、型号线索、销量、危害与官方公告链接。</p></div>
+  </div>
+  <div class="conclusion">
+    <div class="no">02</div>
+    <div><h3>规格口径</h3><p>${unstated} 个型号的标称值不可直接比。${pairs.length} 款双标移动空调${pairVendors.length === 1 ? `（全部来自 ${esc(pairVendors[0])}）` : ''}给出 SACC/ASHRAE 实测比例，中位 ${ratioMed}%，不用固定系数折算。</p></div>
+  </div>
+  <div class="conclusion">
+    <div class="no">03</div>
+    <div><h3>价格与供给</h3><p>六个品类的价格带与收录数量。首期建立基线，此后按周记录价格变化；官网划线价单独标注，不当作真实降价。</p></div>
+  </div>
+  <div class="conclusion">
+    <div class="no">04</div>
+    <div><h3>型号库</h3><p>${stats.products} 个型号逐页记录规格字段、单位能力价、同类竞品与品牌召回记录，可长期对照。</p></div>
+  </div>
+</div>
+
+<div class="section-head"><div class="no">定价</div><div><h2>订阅与当前状态</h2><p>${sample ? '当前为样刊阶段：报告免费公开，尚未开放收款。' : '付款与税务由 Paddle 作为名义卖家处理。'}</p></div></div>
+<div class="grid" style="grid-template-columns:repeat(2,1fr);margin-top:0">
+  <div class="card"><div class="kpi">$${SITE.priceMonthly}<span style="font-size:16px;color:var(--muted)">/月</span></div><div class="kpi-label">月付，自动续费，可随时取消</div></div>
+  <div class="card"><div class="kpi">$${SITE.priceYearly}<span style="font-size:16px;color:var(--muted)">/年</span></div><div class="kpi-label">年付，相当于 $${Math.round(SITE.priceYearly / 12)}/月</div></div>
+</div>
+<p class="sub">${sample ? '正式开放订阅前不会收款。届时通过 Paddle 结账，自动计算美国销售税与欧洲 VAT。' : '通过 Paddle 结账，自动计算美国销售税与欧洲 VAT；发票由 Paddle 开具。'}</p>
+<p style="margin-top:18px"><a class="cta" href="report/latest.html">阅读本期报告</a> <a class="cta ghost" href="model/index.html">查 ${stats.products} 个型号</a>${SITE.paddleCheckoutUrl ? ` <a class="cta ghost" href="${esc(SITE.paddleCheckoutUrl)}" rel="noopener">订阅</a>` : ''}</p>
+
+<div class="section-head"><div class="no">交付</div><div><h2>怎么运作</h2><p>每周日 13:00 UTC 自动抓取、比对、生成并发布；数据快照、报告与型号页一并存档。</p></div></div>
+<div class="method">
+  <div><b>采集</b>品牌官网公开商品页；只取公开可访问的价格、规格、库存与上架时间。</div>
+  <div><b>校验</b>规格按 DOE-2019 与 SACC 归一；未注明标准的型号单独标记，不参与排序。</div>
+  <div><b>召回</b>CPSC 公开接口；先做型号/UPC 精确匹配，再做品牌匹配，人工复核后再写入结论。</div>
+  <div><b>交付</b>静态网页 + 每周邮件；历史快照保存在版本库中，不依赖第三方数据库。</div>
+</div>
 ${pageFoot('')}`;
 }
 
@@ -524,7 +932,7 @@ function renderModel(p, ctx) {
       if (loose.length > comps.length) { comps = loose; compTitle = '同品类竞品（放宽能力范围）'; }
     }
   }
-  if (!comps.length) { comps = byPrice(pool).slice(0, 6); compTitle = '同品类在售（按价格接近）'; }
+  if (!comps.length) { comps = byPrice(pool).slice(0, 6); compTitle = '同品类同价位'; }
   const seen = new Set();
   comps = comps.filter((x) => {
     const k = `${x.vendor}|${capacityOf(x) ?? ''}`;
@@ -573,7 +981,7 @@ ${hist.length > 1 ? `<h2>价格历史</h2>${sparkline(hist)}<table><thead><tr><t
 </tbody></table>
 
 <h2>${compTitle}</h2>
-${compRows ? `<table><thead><tr><th>型号</th><th style="width:120px">能力</th><th style="width:90px">价格</th><th style="width:110px">单位价</th></tr></thead><tbody>${compRows}</tbody></table>` : '<p class="sub">本期没有能力接近的其他品牌在售型号。</p>'}
+${compRows ? `<table><thead><tr><th>型号</th><th style="width:120px">能力</th><th style="width:90px">价格</th><th style="width:110px">单位价</th></tr></thead><tbody>${compRows}</tbody></table>` : '<p class="sub">本期没有能力接近的其他品牌型号。</p>'}
 
 <h2>品牌召回记录（CPSC）</h2>
 ${rrows ? `<table><thead><tr><th style="width:110px">日期</th><th>事件</th></tr></thead><tbody>${rrows}</tbody></table><p class="sub">品牌层面的历史召回，不代表此型号已被召回；下单前请对照召回公告里的型号与 UPC。</p>` : '<p class="sub">该品牌自 2022 年以来没有进入本报告过滤范围的相关召回。</p>'}
@@ -593,35 +1001,48 @@ function renderModelIndex(ctx) {
     const delta = last && prev ? Math.round(((last.price - prev.price) / prev.price) * 100) : null;
     return `<div class="card"><a href="${esc(modelId(p))}.html">${esc(p.title)}</a><div class="sub">${esc(p.vendor)}｜${esc(capacityLabel(p))}</div><div class="num">${money(p.price)}${delta != null && delta !== 0 ? ` <span class="tag ${delta < 0 ? 'good' : 'danger'}">${delta > 0 ? '+' : ''}${delta}%</span>` : ''}</div></div>`;
   }).join('')}</div>`).join('');
-  return `${pageHead('型号库 · 全部在售机型', '按品牌与能力整理的除湿机、移动空调、空气净化器等型号库，含价格、规格口径与召回记录。')}
+  return `${pageHead('型号库 · 全部收录机型', '按品牌与能力整理的除湿机、移动空调、空气净化器等型号库，含价格、规格口径与召回记录。')}
 <nav class="crumbs"><a href="${SITE.baseUrl ? esc(SITE.baseUrl) : '../index.html'}">首页</a> › 型号库</nav>
 <h1>型号库</h1>
-<p class="sub">本期 ${ctx.catalog.length} 个在售型号，数据日期 ${esc(ctx.date)}。点开任意型号，看它的口径校验、同类竞品单位价与品牌召回记录。</p>
+<p class="sub">本期 ${ctx.catalog.length} 个收录型号，数据日期 ${esc(ctx.date)}。点开任意型号，看它的口径校验、同类竞品单位价与品牌召回记录。</p>
 ${sections}
 ${pageFoot('../')}`;
 }
 
 function renderEmail(ctx) {
-  const { stats, diff, recalls, date: d, issue } = ctx;
-  const hits = recalls.filter((r) => (r.matchedBrands.length || r.matchedSku) && r.date >= '2025-01-01').slice(0, 4);
-  const drops = diff.priceDrop.slice(0, 4);
-  const dropRows = drops.map((p) => `<tr><td style="padding:8px 0;border-bottom:1px solid #e5e7eb;font-size:15px">${esc(p.title)}<div style="color:#6b7280;font-size:13px">${esc(p.domain)}</div></td><td style="padding:8px 0;border-bottom:1px solid #e5e7eb;text-align:right;font-size:15px;white-space:nowrap"><s style="color:#9ca3af">$${p.oldPrice}</s> <b>$${p.price}</b> <span style="color:#047857">${Math.round(p.delta * 100)}%</span></td></tr>`).join('');
-  const hitRows = hits.map((r) => `<tr><td style="padding:8px 0;border-bottom:1px solid #e5e7eb;font-size:15px"><a href="${esc(r.url)}" style="color:#0f766e">${esc(r.title)}</a><div style="color:#6b7280;font-size:13px">${esc(r.date)}｜命中 ${esc(r.matchedBrands.join('、') || '型号')}</div></td></tr>`).join('');
+  const { stats, diff, recalls, date: d, issue, catalog } = ctx;
+  const sample = !SITE.paddleCheckoutUrl;
+  const hits = recalls.filter((r) => (r.matchedBrands.length || r.matchedSku)).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 3);
+  const drops = diff.priceDrop.slice(0, 3);
+  const dropRows = drops.map((p) => `<tr><td style="padding:9px 0;border-bottom:1px solid #e5e7eb;font-size:15px">${esc(p.title)}<div style="color:#6b7280;font-size:13px">${esc(p.domain)}</div></td><td style="padding:9px 0;border-bottom:1px solid #e5e7eb;text-align:right;font-size:15px;white-space:nowrap"><s style="color:#9ca3af">$${p.oldPrice}</s> <b>$${p.price}</b> <span style="color:#047857">${Math.round(p.delta * 100)}%</span></td></tr>`).join('');
+  const hitRows = hits.map((r) => `<tr><td style="padding:9px 0;border-bottom:1px solid #e5e7eb;font-size:15px"><a href="${esc(r.url)}" style="color:#8a4b00;text-decoration:none">${esc(clip(recallTitle(r.title), 110))}</a><div style="color:#6b7280;font-size:13px;margin-top:3px">${esc(r.date)}｜${esc(r.cat)}｜${esc(r.matchedBrands.join('、') || '型号命中')}｜${esc(fmtUnits(r.units))}</div></td></tr>`).join('');
   const link = SITE.baseUrl ? `${SITE.baseUrl}report/latest.html` : 'report/latest.html';
+  const deh = catalog.filter((p) => p.cat === 'dehumidifier');
+  const dehBad = deh.filter(isUnstated);
+  const pacPairs = catalog.filter((p) => p.cat === 'portable-ac' && p.spec.btuAshrae && p.spec.btuSacc);
+  const pacMed = pacPairs.length ? median(pacPairs.map((p) => Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100))) : null;
+  const pacVendors = uniq(pacPairs.map((p) => p.vendor));
+  const pacNote = pacMed == null
+    ? `${pacPairs.length} 款移动空调同时给出 ASHRAE 与 SACC，可直接换算。`
+    : `${pacVendors.join('、')} ${pacPairs.length} 款双标移动空调的 SACC 中位数为 ASHRAE 的 ${pacMed}%，最低 ${Math.min(...pacPairs.map((p) => Math.round((p.spec.btuSacc / p.spec.btuAshrae) * 100)))}%。`;
   return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第 ${issue} 期｜${esc(d)}</title></head>
-<body style="margin:0;background:#f3f4f6;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#111827">
-<div style="max-width:600px;margin:0 auto;padding:24px 16px">
-<div style="font-size:13px;letter-spacing:1px;color:#0f766e;font-weight:700">${esc(SITE.name.toUpperCase())}</div>
-<h1 style="font-size:22px;margin:8px 0 4px">第 ${issue} 期：本周除湿机/移动空调情报</h1>
-<div style="color:#6b7280;font-size:14px;margin-bottom:18px">${esc(d)}｜${stats.stores} 家独立站｜${stats.products} 个型号</div>
-<div style="background:#fff;border-radius:12px;padding:18px 20px;margin-bottom:16px">
-<p style="margin:0 0 10px;font-size:16px;line-height:1.7"><b>三句话：</b>共 ${stats.totalRecalls} 条相关召回（含历史），${stats.hitRecalls} 条命中你监控的品牌；${stats.incomparable} 个型号 BTU/除湿量未写标准，不能直接比价；本期 ${diff.priceDrop.length} 个型号降价 5% 以上${diff.fresh.length ? `，${diff.fresh.length} 个新上架` : ''}。</p>
+<body style="margin:0;background:#f5f2eb;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;color:#17191e">
+<div style="max-width:600px;margin:0 auto;padding:26px 18px">
+<div style="border-top:2px solid #17191e;padding-top:14px;font-size:11px;letter-spacing:1.5px;color:#5f6673">CLIMATE RADAR · WEEKLY MARKET BRIEF</div>
+<div style="font-size:12px;color:#5f6673;margin-top:6px">第 ${issue} 期｜${esc(d)}｜${stats.stores} 家独立站｜${stats.products} 个型号${sample ? '｜样刊' : ''}</div>
+<h1 style="font-family:Georgia,'Songti SC',serif;font-size:26px;line-height:1.35;margin:20px 0 12px">${deh.length} 款除湿机，${dehBad.length} 款没有写明测试标准</h1>
+<p style="font-size:15px;line-height:1.8;color:#4b5563;margin:0 0 18px">未注明 DOE-2019 口径的除湿量无法跨品牌比较；本期 ${stats.hitRecalls} 条 CPSC 召回命中监控品牌。</p>
+<div style="background:#fffdf8;border:1px solid #d8d1c3;padding:18px 20px;margin-bottom:16px">
+<div style="font-size:11px;letter-spacing:1.5px;color:#8a4b00;margin-bottom:10px">本期要点</div>
+<p style="margin:0 0 10px;font-size:15px;line-height:1.7"><b>01</b>　未注明 DOE-2019 的 ${dehBad.length} 款，页面上的 pint 数不能直接与竞品横比；本期逐款标出口径，只把 ${deh.length - dehBad.length} 款放进同一张对比表。</p>
+<p style="margin:0 0 10px;font-size:15px;line-height:1.7"><b>02</b>　${pacNote}</p>
+<p style="margin:0;font-size:15px;line-height:1.7"><b>03</b>　${recalls.length} 条相关召回中，${stats.hitRecalls} 条命中 Vornado 与 Lasko；取暖器占 ${recalls.filter((r) => r.cat === '取暖器').length} 条。</p>
 </div>
-${hitRows ? `<div style="background:#fff;border-radius:12px;padding:18px 20px;margin-bottom:16px"><h2 style="font-size:16px;margin:0 0 8px">召回命中</h2><table style="width:100%;border-collapse:collapse">${hitRows}</table></div>` : ''}
-${dropRows ? `<div style="background:#fff;border-radius:12px;padding:18px 20px;margin-bottom:16px"><h2 style="font-size:16px;margin:0 0 8px">谁在降价</h2><table style="width:100%;border-collapse:collapse">${dropRows}</table></div>` : ''}
-<div style="text-align:center;margin:22px 0"><a href="${esc(link)}" style="display:inline-block;background:#0f766e;color:#fff;font-weight:700;padding:12px 26px;border-radius:10px;text-decoration:none">看完整本期报告</a></div>
-<div style="color:#6b7280;font-size:12px;line-height:1.6">数据来自品牌官网公开商品页与美国消费品安全委员会（CPSC）公开数据库；仅覆盖公开独立站，不含亚马逊等平台内部数据。本邮件不构成法律或合规意见。</div>
-<div style="color:#9ca3af;font-size:12px;margin-top:10px">你收到这封邮件是因为订阅了 ${esc(SITE.name)}。回复本邮件可退订。</div>
+${hitRows ? `<div style="background:#fffdf8;border:1px solid #d8d1c3;padding:18px 20px;margin-bottom:16px"><div style="font-size:11px;letter-spacing:1.5px;color:#8a4b00;margin-bottom:6px">召回命中</div><table style="width:100%;border-collapse:collapse">${hitRows}</table></div>` : ''}
+${dropRows ? `<div style="background:#fffdf8;border:1px solid #d8d1c3;padding:18px 20px;margin-bottom:16px"><div style="font-size:11px;letter-spacing:1.5px;color:#8a4b00;margin-bottom:6px">价格变动</div><table style="width:100%;border-collapse:collapse">${dropRows}</table></div>` : ''}
+<div style="text-align:center;margin:24px 0"><a href="${esc(link)}" style="display:inline-block;background:#17191e;color:#fff;font-weight:700;padding:13px 28px;border-radius:2px;text-decoration:none">阅读完整报告</a></div>
+<div style="color:#6b7280;font-size:12px;line-height:1.7;border-top:1px solid #d8d1c3;padding-top:12px">数据来自品牌官网公开商品页与美国消费品安全委员会（CPSC）公开数据库；仅覆盖公开独立站，不含亚马逊等平台内部数据。本邮件不构成法律或合规意见。${sample ? '当前为样刊阶段，报告免费公开，尚未开放收款。' : ''}</div>
+<div style="color:#9ca3af;font-size:12px;margin-top:8px">${sample ? `这是 ${esc(SITE.name)} 的样刊，发送给你用于评估。回复本邮件可退订或直接反馈。` : `你收到这封邮件是因为订阅了 ${esc(SITE.name)}。回复本邮件可退订。`}</div>
 </div></body></html>`;
 }
 
@@ -803,6 +1224,8 @@ async function main() {
     products: catalog.length,
     byCat,
     incomparable: catalog.filter((p) => (p.spec.flags ?? []).some((f) => f.code.endsWith('unstated') || f.code === 'sacc-gap' || f.code === 'eu-liters')).length,
+    dehTotal: catalog.filter((p) => p.cat === 'dehumidifier').length,
+    dehUnstated: catalog.filter((p) => p.cat === 'dehumidifier' && isUnstated(p)).length,
     recentRecalls: recalls.filter((r) => r.date >= threeYearsAgo).length,
     hitRecalls: recalls.filter((r) => r.matchedBrands.length || r.matchedSku).length,
     totalRecalls: recalls.length,
@@ -811,8 +1234,10 @@ async function main() {
     skipped,
     carriedForward,
   };
+  const ARCHIVE = path.join(DATA, 'reports');
+  await fs.mkdir(ARCHIVE, { recursive: true });
   await fs.mkdir(path.join(OUT, 'report'), { recursive: true });
-  const priorReports = (await fs.readdir(path.join(OUT, 'report')).catch(() => []))
+  const priorReports = (await fs.readdir(ARCHIVE).catch(() => []))
     .filter((f) => /^\d{4}-\d{2}-\d{2}\.html$/.test(f) && f.slice(0, 10) < runDate);
   const issue = priorReports.length + 1;
   const history = renderOnly
@@ -827,8 +1252,13 @@ async function main() {
   await fs.mkdir(path.join(OUT, 'model'), { recursive: true });
   await fs.mkdir(path.join(OUT, 'email'), { recursive: true });
   await fs.writeFile(path.join(OUT, '.nojekyll'), '');
-  await fs.writeFile(path.join(OUT, 'report', `${runDate}.html`), renderReport(ctx));
-  await fs.writeFile(path.join(OUT, 'report', 'latest.html'), renderReport(ctx));
+  const reportHtml = renderReport(ctx);
+  await fs.writeFile(path.join(OUT, 'report', `${runDate}.html`), reportHtml);
+  await fs.writeFile(path.join(ARCHIVE, `${runDate}.html`), reportHtml);
+  await fs.writeFile(path.join(OUT, 'report', 'latest.html'), reportHtml);
+  for (const f of [...priorReports, `${runDate}.html`]) {
+    await fs.copyFile(path.join(ARCHIVE, f), path.join(OUT, 'report', f));
+  }
   await fs.writeFile(path.join(OUT, 'index.html'), renderIndex(ctx));
   for (const k of ['terms', 'privacy', 'refund']) {
     await fs.writeFile(path.join(OUT, `${k}.html`), renderLegal(k));
@@ -842,10 +1272,10 @@ async function main() {
   log(`model pages: ${catalog.length}`);
 
   await fs.writeFile(path.join(OUT, 'email', 'latest.html'), renderEmail(ctx));
-  const emailSubject = `[${SITE.name} 第 ${issue} 期] ${stats.hitRecalls} 条品牌召回命中｜${diff.priceDrop.length} 个降价`;
+  const emailSubject = `[${SITE.name} 第 ${issue} 期] ${stats.dehUnstated} 款除湿机未注明测试标准｜${stats.hitRecalls} 条品牌召回命中`;
   await fs.writeFile(path.join(OUT, 'email', 'subject.txt'), emailSubject);
 
-  const issues = (await fs.readdir(path.join(OUT, 'report')))
+  const issues = (await fs.readdir(ARCHIVE))
     .filter((f) => /^\d{4}-\d{2}-\d{2}\.html$/.test(f))
     .sort()
     .reverse()

@@ -2556,76 +2556,6 @@
   }
  },
  {
-  "handle": "md1-0034-humidifier-wick-2-pack-1",
-  "title": "MD1-0034 Humidifier Wick (2-Pack)",
-  "type": "Accessories",
-  "vendor": "Vornado Air",
-  "cat": "humidifier",
-  "url": "https://vornado.com/products/md1-0034-humidifier-wick-2-pack-1",
-  "price": 14.99,
-  "compare": 14.99,
-  "available": true,
-  "created": "2025-02-21",
-  "updated": "2026-10-23",
-  "sku": "MD1-0034",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [],
-   "excerpt": "MD1-0034 Humidifier Wick (2-Pack) Accessories humi accessories subscription || At 1-inch thick, these Vornado MD1-0034 Humidifier Replacement Wicks (2-Pack) are designed to fit Vornado EV100, EV200, EVDC300, EVDC500, Evap2, Evap40 and Vornado Baby HUEY evaporative humidifiers. An antimicrobial treatment helps protect the wick filter from bacteria growth. No cleaning is required and the wicks are disposable. The superior performance promised of Vornado’s evaporative humidifiers is realized only when genuine Vornado wicks are used and replaced at the recommended intervals. While other brands may fit our units, these wicks do not carry the same quality and life as our own and can diminish the h",
-   "unitCount": 1,
-   "discount": null
-  }
- },
- {
-  "handle": "md1-0033-humidifier-wick-2-pack-1",
-  "title": "MD1-0033 Humidifier Wick (2-Pack)",
-  "type": "Accessories",
-  "vendor": "Vornado Air",
-  "cat": "humidifier",
-  "url": "https://vornado.com/products/md1-0033-humidifier-wick-2-pack-1",
-  "price": 16.99,
-  "compare": 16.99,
-  "available": true,
-  "created": "2025-02-21",
-  "updated": "2026-10-23",
-  "sku": "MD1-0033",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [],
-   "excerpt": "MD1-0033 Humidifier Wick (2-Pack) Accessories humi accessories subscription || At 1-inch thick, these Vornadobaby ® MD1-0033 Humidifier Replacement Wicks (2-Pack) are designed to fit Vornadobaby Huey evaporative humidifier. An antimicrobial treatment helps protect the wick filter from bacteria growth. No cleaning is required and the wicks are disposable. The superior performance promised of your Vornadobaby evaporative humidifiers is realized only when genuine Vornadobaby wicks are used and replaced at the recommended intervals. While other brands may fit our units, these wicks do not carry the same quality and life as our own and can diminish the humidifier’s performance. Vornadobaby wicks ",
-   "unitCount": 1,
-   "discount": null
-  }
- },
- {
   "handle": "743-large-air-circulator",
   "title": "743 Large Air Circulator",
   "type": "Circulators & Fans",
@@ -8459,41 +8389,6 @@
    "standard": null,
    "flags": [],
    "excerpt": "Fly Move Rechargeable Ultraportable Fan Circulators & Fans personal small || Whether you are meditating or mediating a conference call, FLY MOVE delivers optimal airflow with a soothing sound signature designed to support focus and promote relaxation. Lightweight and ultra-portable, it makes personal comfort easy to bring wherever your day takes you. Enjoy up to 17 hours of cooling airflow between charges, then unplug, pack, and keep moving. Three speed settings give you the flexibility to match the moment: choose low for comfort at your workspace, or select medium or high when your workout demands a stronger breeze. At your desk, power up using the included USB-C cord so FLY MOVE can rechar",
-   "unitCount": 1,
-   "discount": null
-  }
- },
- {
-  "handle": "md1-0001-humidifier-wick-2-pack",
-  "title": "MD1-0001 Humidifier Wick (2-Pack)",
-  "type": "Accessories",
-  "vendor": "Vornado Air",
-  "cat": "humidifier",
-  "url": "https://vornado.com/products/md1-0001-humidifier-wick-2-pack",
-  "price": 14.99,
-  "compare": null,
-  "available": true,
-  "created": "2025-02-19",
-  "updated": "2026-10-23",
-  "sku": "MD1-0001",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [],
-   "excerpt": "MD1-0001 Humidifier Wick (2-Pack) Accessories humi filter subscription || At 7.25″H x 9.5″L x 1.5″W, this pack of two (2) wick filters is designed to fit select Vornado Humidifiers. The filter must have the correct height, width, thickness, and material for maximum performance. Competitors often advertise their filters will work with Vornado humidifiers but these filters don’t always fit properly, therefore, the humidifier will not work effectively. Vornado wicks are developed from the highest quality materials that work to absorb the maximum amount of water while filtering the circulating air. Competitor brands are made of different materials not designed for Vornado humidifiers. Receive FR",
    "unitCount": 1,
    "discount": null
   }

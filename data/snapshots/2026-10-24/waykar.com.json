@@ -443,41 +443,6 @@
   }
  },
  {
-  "handle": "waykar-dehumidifier-drain-garden-hose-quick-connect-adapter-1-2-drain-to-3-4-ght",
-  "title": "Waykar Dehumidifier Drain Garden Hose Quick Connect Adapter (1/2” Drain to 3/4” GHT)",
-  "type": "home dehumidifier",
-  "vendor": "Waykar",
-  "cat": "dehumidifier",
-  "url": "https://waykar.com/products/waykar-dehumidifier-drain-garden-hose-quick-connect-adapter-1-2-drain-to-3-4-ght",
-  "price": 39.99,
-  "compare": null,
-  "available": true,
-  "created": "2026-07-16",
-  "updated": "2026-10-23",
-  "sku": "ZJT05-01",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [],
-   "excerpt": "Waykar Dehumidifier Drain Garden Hose Quick Connect Adapter (1/2” Drain to 3/4” GHT) home dehumidifier || Please verify the diameter of your drain hose size before ordering. Converts 1/2” ID dehumidifier drain hose to standard 3/4” GHT garden hose for continuous auto draining Quick push-fit locking design with pull-back release collar for fast, tool-free assembly and disconnection Locking collar secures drain hose tightly on the 1/2” hose barb to prevent leaking Universal male 3/4” GHT thread fits all standard garden hoses (hose not included) Simple 5-step installation to link your dehumidifier to an outdoor drain effortlessly",
-   "unitCount": 1,
-   "discount": null
-  }
- },
- {
   "handle": "waykar-2000-sq-ft-34-pint-dehumidifier-for-room-home-ultra-quiet-33db-continuous-drain-energy-star-auto-defrost-child-lock-10-pint-doe",
   "title": "Waykar 2000 Sq. Ft. 34 Pint Dehumidifier for Room & Home, Ultra Quiet 33dB, Continuous Drain, Energy Star, Auto Defrost, Child Lock, 10 Pint DOE",
   "type": "Multi-Purpose",
@@ -839,7 +804,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 300,
+   "pints": 130,
    "liters": null,
    "pintsEq": null,
    "sqft": 500,
@@ -2017,7 +1982,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 300,
+   "pints": 155,
    "liters": null,
    "pintsEq": null,
    "sqft": null,
@@ -2764,41 +2729,6 @@
   }
  },
  {
-  "handle": "wired-remote-controller-for-waykar-crawlspace-dehumidifiers",
-  "title": "Wired Remote Controller for Waykar AFW Crawlspace Dehumidifiers [XSB-A01]",
-  "type": "Remote Controller",
-  "vendor": "Waykar",
-  "cat": "dehumidifier",
-  "url": "https://waykar.com/products/wired-remote-controller-for-waykar-crawlspace-dehumidifiers",
-  "price": 85.99,
-  "compare": 99.99,
-  "available": true,
-  "created": "2025-04-18",
-  "updated": "2026-10-23",
-  "sku": "AZ-XSB-A01",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": null,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [],
-   "excerpt": "Wired Remote Controller for Waykar AFW Crawlspace Dehumidifiers [XSB-A01] Remote Controller || Secure Connection – Features a locking connector for full compatibility and a stable, reliable connection with Waykar crawlspace dehumidifiers. User-Friendly Interface – Equipped with an LED display and highly responsive touch controls for effortless operation. Built-in Thermostat – Monitors real-time humidity and supports full-function control to optimize your indoor environment. Extended Reach – Comes with a 33 ft cable for convenient long-distance operation in hard-to-reach crawlspaces or basements. Easy Installation – Designed for quick and hassle-free setup to get you up and running in no time",
-   "unitCount": 3,
-   "discount": 0.14
-  }
- },
- {
   "handle": "waykar-30-pints-energy-star-2025-dehumidifier-for-home-ideal-for-basement-bathroom-living-spaces",
   "title": "35 dB 30-Pint ENERGY STAR Dehumidifier | CTH30A",
   "type": "home dehumidifier",
@@ -3064,7 +2994,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 150,
+   "pints": 50,
    "liters": null,
    "pintsEq": null,
    "sqft": null,
@@ -3105,7 +3035,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 150,
+   "pints": 50,
    "liters": null,
    "pintsEq": null,
    "sqft": null,
@@ -3146,7 +3076,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 120,
+   "pints": 32,
    "liters": null,
    "pintsEq": null,
    "sqft": null,
@@ -3187,7 +3117,7 @@
    "btuAshrae": null,
    "btuSacc": null,
    "btuAll": [],
-   "pints": 80,
+   "pints": 25,
    "liters": null,
    "pintsEq": null,
    "sqft": 5000,
@@ -3900,46 +3830,6 @@
    "excerpt": "Waykar 32 Pint Dehumidifier for Home & Basements, 2025 Most Efficient Energy Star, DOE 10 Pint, 2000 Sq. Ft, Continuous Drain Hose Multi-Purpose || Efficient Energy : Achieves \"Most Efficient 2025\" ENERGY STAR certification, placing it among the top 2.6% of models for maximum moisture removal with significantly reduced electricity costs. Powerful Extraction : Offers a dual-performance capability with a high-velocity 31.6 Pint/Day Max extraction for peak humidity and a verified 10 Pint DOE-standard capacity for consistent daily control. Low-Temp Operation : Features advanced engineering with pure copper internal-thread piping, maintaining peak efficiency even in chilly environments below 65°F",
    "unitCount": 1,
    "discount": null
-  }
- },
- {
-  "handle": "wired-remote-controller-for-waykar-cpg130a-commercial-dehumidifier-effortless-humidity-control-with-auto-defrost-24-hour-timer",
-  "title": "Waykar Wired Remote Controller for 130 Pints Commercial Dehumidifier Model#XSB-CPG130A",
-  "type": "Remote Controller",
-  "vendor": "Waykar",
-  "cat": "dehumidifier",
-  "url": "https://waykar.com/products/wired-remote-controller-for-waykar-cpg130a-commercial-dehumidifier-effortless-humidity-control-with-auto-defrost-24-hour-timer",
-  "price": 85.99,
-  "compare": 99.99,
-  "available": true,
-  "created": "2025-02-21",
-  "updated": "2026-10-23",
-  "sku": "XSB-CPG130A",
-  "barcode": "",
-  "spec": {
-   "btu": null,
-   "btuAshrae": null,
-   "btuSacc": null,
-   "btuAll": [],
-   "pints": 130,
-   "liters": null,
-   "pintsEq": null,
-   "sqft": null,
-   "tankGal": null,
-   "refrigerant": null,
-   "certs": [
-    "UL"
-   ],
-   "standard": null,
-   "flags": [
-    {
-     "code": "pint-unstated",
-     "text": "除湿量未注明标准，新旧数据不可比"
-    }
-   ],
-   "excerpt": "Waykar Wired Remote Controller for 130 Pints Commercial Dehumidifier Model#XSB-CPG130A Remote Controller || Perfect Compatibility with CPG130A Dehumidifier : Fully compatible with the Waykar CPG130A, supporting all features, including auto defrosting, full water alarm, 24-hour timer, and humidity control [Model: XSB-CPG130A]. Extended Control Range : The 33-ft power cable provides flexibility in placement, allowing you to control the dehumidifier from areas that may be difficult to access, such as crawl spaces or remote rooms. Responsive Touch Control & Clear Indicators : Equipped with sensitive touch buttons and clear, easy-to-read indicators for precise settings, making it simple to adjust",
-   "unitCount": 1,
-   "discount": 0.14
   }
  },
  {

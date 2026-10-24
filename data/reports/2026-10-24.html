@@ -1,0 +1,659 @@
+<!doctype html><html lang="zh-CN" data-theme="dark"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>美国家居气候电器卖家情报 · 第 1 期</title><style>
+:root{--bg:#0b0e13;--panel:#121821;--line:#2a3442;--rule:#3c4757;--text:#f1f4f8;--muted:#a2adbb;--accent:#e7b25c;--accent-ink:#1a1206;--danger:#f0756c;--warn:#e7b25c;--good:#5ed3a2;}
+html[data-theme="light"]{--bg:#f5f2eb;--panel:#fffdf8;--line:#d8d1c3;--rule:#b4ac9c;--text:#17191e;--muted:#5f6673;--accent:#96590a;--accent-ink:#fffdf8;--danger:#a62a20;--warn:#8a540a;--good:#0b6b4e;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:18px/1.68 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1040px;margin:0 auto;padding:28px 22px 80px}
+header{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:30px}
+.brand{font-weight:700;letter-spacing:.09em;font-size:16px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+.brand span{color:var(--accent)}
+button.toggle{background:transparent;border:1px solid var(--line);color:var(--muted);padding:7px 13px;border-radius:2px;font-size:13px;cursor:pointer;letter-spacing:.05em}
+button.toggle:hover{color:var(--text);border-color:var(--text)}
+h1,h2,h3{font-family:"Iowan Old Style","Songti SC","Noto Serif SC",Georgia,serif;font-weight:600}
+h1{font-size:40px;line-height:1.22;margin:0 0 12px;letter-spacing:-.01em}
+h2{font-size:24px;margin:46px 0 14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+h3{font-size:20px;margin:24px 0 8px}
+p{margin:0 0 14px}
+.sub{color:var(--muted);font-size:16px}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0}
+@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr)}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:2px;padding:16px}
+.kpi{font:600 34px/1.1 "Iowan Old Style","Songti SC",Georgia,serif;color:var(--text);font-variant-numeric:tabular-nums}
+.kpi-label{color:var(--muted);font-size:14px;margin-top:6px}
+table{width:100%;border-collapse:collapse;margin:16px 0;font-size:15.5px}
+th,td{text-align:left;padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;border-bottom:1px solid var(--rule);white-space:nowrap}
+td.num{white-space:nowrap;font-variant-numeric:tabular-nums;font-feature-settings:"tnum"}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:2px;border:1px solid var(--line);color:var(--muted);margin:2px 4px 2px 0;white-space:nowrap;letter-spacing:.02em}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.tag.danger{color:var(--danger);border-color:var(--danger)}
+.tag.good{color:var(--good);border-color:var(--good)}
+.note{background:var(--panel);border-left:3px solid var(--accent);padding:15px 18px;border-radius:0;color:var(--text);font-size:16px;margin:18px 0}
+.note strong{color:var(--accent)}
+.cta{display:inline-block;background:var(--accent);color:var(--accent-ink);font-weight:700;padding:12px 22px;border-radius:2px;margin-top:8px;letter-spacing:.02em}
+.cta.ghost{background:transparent;border:1px solid var(--line);color:var(--text);margin-left:8px}
+footer{margin-top:64px;color:var(--muted);font-size:13.5px;border-top:1px solid var(--line);padding-top:18px;line-height:1.7}
+nav.crumbs{color:var(--muted);font-size:14px;margin:-8px 0 18px}
+.spark{display:block;margin:6px 0 2px}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:16px 0}
+@media(max-width:760px){.facts{grid-template-columns:1fr 1fr}}
+.facts div{background:var(--panel);border:1px solid var(--line);border-radius:2px;padding:12px 14px}
+.facts b{display:block;font-size:24px;color:var(--text);line-height:1.3}
+.facts span{color:var(--muted);font-size:14px}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0}
+@media(max-width:760px){.cards{grid-template-columns:1fr}}
+.cards .card{font-size:16px}
+.cards .card a{font-weight:600;display:block;margin-bottom:4px}
+
+/* weekly brief */
+.brief-cover{border-top:2px solid var(--text);padding-top:20px}
+.cover-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;font:600 11.5px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.cover-top .sample{border:1px solid var(--accent);color:var(--accent);padding:3px 9px;letter-spacing:.16em}
+.brief-kicker{margin:36px 0 14px;font:600 12.5px/1.5 ui-monospace,Menlo,monospace;letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+.brief-cover h1{font-size:clamp(34px,5.1vw,58px);line-height:1.14;margin:0 0 20px;max-width:17em;letter-spacing:-.015em}
+.brief-deck{font-size:20px;line-height:1.75;color:var(--muted);max-width:42em;margin:0}
+.brief-deck strong{color:var(--text);font-weight:600}
+.brief-byline{display:flex;gap:10px 26px;flex-wrap:wrap;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:13px 0;margin:30px 0 0;font-size:13px;color:var(--muted);letter-spacing:.02em}
+.kpi-strip{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:2px solid var(--text);margin:0 0 52px}
+.kpi-strip>div{padding:20px 16px 18px;border-left:1px solid var(--line)}
+.kpi-strip>div:first-child{border-left:0;padding-left:0}
+.kpi-strip b{display:block;font:600 40px/1 "Iowan Old Style","Songti SC",Georgia,serif;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.kpi-strip b em{font-style:normal;font-size:17px;color:var(--accent);margin-left:3px;letter-spacing:0}
+.kpi-strip span{display:block;margin-top:9px;font-size:13px;line-height:1.5;color:var(--muted)}
+.section-head{display:grid;grid-template-columns:58px 1fr;gap:18px;align-items:start;margin:58px 0 18px;padding-top:16px;border-top:2px solid var(--text)}
+.section-head .no{font:600 12px/1 ui-monospace,Menlo,monospace;letter-spacing:.14em;color:var(--accent);padding-top:8px}
+.section-head h2{font-size:30px;line-height:1.25;margin:0;padding:0;border:0}
+.section-head p{margin:9px 0 0;color:var(--muted);font-size:16px;max-width:46em}
+.conclusions{border-top:1px solid var(--line);margin-top:8px}
+.conclusion{display:grid;grid-template-columns:52px 1fr;gap:16px;padding:24px 0;border-bottom:1px solid var(--line)}
+.conclusion .no{font:600 14px/1.5 ui-monospace,Menlo,monospace;color:var(--accent)}
+.conclusion h3{font-size:22px;line-height:1.42;margin:0 0 9px}
+.conclusion p{margin:0 0 10px;font-size:17px}
+.conclusion .act{font-size:15px;line-height:1.65;color:var(--muted);border-left:2px solid var(--accent);padding-left:11px}
+.conclusion .act b{color:var(--accent);font-weight:600;letter-spacing:.06em;font-size:12px;margin-right:6px}
+.chart{background:var(--panel);border:1px solid var(--line);padding:18px 18px 14px;margin:20px 0}
+.chart-head{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.chart-title{font-size:14px;font-weight:600;letter-spacing:.02em}
+.chart-sub{font-size:12.5px;color:var(--muted)}
+.chart-scroll{overflow-x:auto}
+.chart-legend{display:flex;gap:18px;flex-wrap:wrap;margin:6px 0 12px;font-size:12.5px;color:var(--muted)}
+.chart-legend i{display:inline-block;width:10px;height:10px;margin-right:6px;vertical-align:1px}
+.bars{margin:2px 0}
+.bar-row{display:grid;grid-template-columns:122px 1fr 78px;gap:12px;align-items:center;padding:7px 0;border-top:1px solid var(--line)}
+.bar-row:first-child{border-top:0}
+.bar-label{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{display:flex;height:19px;background:var(--line);overflow:hidden}
+.bar-track i{display:block;height:100%;background:var(--accent)}
+.bar-track i.bad{background:var(--danger)}
+.bar-track i.good{background:var(--rule);opacity:.55}
+.bar-val{font:600 12.5px/1.4 ui-monospace,Menlo,monospace;text-align:right;color:var(--text);white-space:nowrap}
+.ratio{margin:2px 0}
+.ratio-axis,.ratio-row{display:grid;grid-template-columns:248px 1fr 48px;gap:12px;align-items:center}
+.ratio-axis{color:var(--muted);font:11px ui-monospace,Menlo,monospace;padding-bottom:5px}
+.ratio-axis .ticks{position:relative;display:block;height:14px}
+.ratio-axis .ticks span{position:absolute;transform:translateX(-50%)}
+.ratio-row{padding:7px 0;border-top:1px solid var(--line)}
+.ratio-label{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ratio-track{position:relative;height:18px}
+.ratio-track::before{content:"";position:absolute;left:0;right:0;top:50%;height:1px;background:var(--line)}
+.ratio-dot{position:absolute;top:50%;width:10px;height:10px;margin:-5px 0 0 -5px;border-radius:50%;background:var(--accent)}
+.ratio-med{position:absolute;top:0;bottom:0;border-left:1px dashed var(--accent);opacity:.65}
+.ratio-val{font:600 12.5px ui-monospace,Menlo,monospace;text-align:right;color:var(--text)}
+.table-wrap{overflow-x:auto}
+.table-wrap table{min-width:620px}
+details{margin:14px 0}
+details summary{cursor:pointer;color:var(--accent);font-size:14px;padding:8px 0;letter-spacing:.02em}
+details summary:hover{text-decoration:underline}
+.mobile-cards{display:none}
+.brief-end{border-top:2px solid var(--text);margin-top:56px;padding-top:22px}
+.brief-end h2{border:0;margin:0 0 8px;padding:0;font-size:26px}
+.brief-end .sub{margin-bottom:18px}
+.method{display:grid;grid-template-columns:1fr 1fr;gap:0 34px;margin:18px 0}
+.method div{padding:12px 0;border-top:1px solid var(--line);font-size:15px;color:var(--muted)}
+.method b{display:block;color:var(--text);font-size:13px;letter-spacing:.05em;margin-bottom:3px;font-weight:600}
+.sample-note{border:1px solid var(--accent);padding:13px 16px;font-size:14px;color:var(--text);margin:24px 0 0;line-height:1.65}
+.sample-note b{color:var(--accent);letter-spacing:.06em;margin-right:6px}
+@media(max-width:760px){
+  .kpi-strip{grid-template-columns:1fr 1fr}
+  .kpi-strip>div:nth-child(3){border-left:0;padding-left:0;border-top:1px solid var(--line)}
+  .kpi-strip>div:nth-child(4){border-top:1px solid var(--line)}
+  .section-head{grid-template-columns:1fr;gap:4px}
+  .section-head .no{padding-top:0}
+  .conclusion{grid-template-columns:1fr;gap:4px}
+  .method{grid-template-columns:1fr}
+  .brief-cover h1{font-size:34px}
+  .brief-deck{font-size:18px}
+}
+@media(max-width:600px){
+  body{font-size:17px}
+  .wrap{padding:20px 16px 60px}
+  h1{font-size:29px}
+  h2{font-size:22px}
+  table{font-size:14px}
+  th,td{padding:8px 6px}
+  .kpi-strip b{font-size:32px}
+  .brief-cover h1{font-size:31px}
+  .brief-kicker{margin-top:26px}
+  .section-head h2{font-size:25px}
+  .conclusion h3{font-size:20px}
+}
+@media(max-width:680px){
+  .hit-table{display:none}
+  .mobile-cards{display:block}
+  .rcard{padding:14px 0;border-bottom:1px solid var(--line)}
+  .rcard .rc-top{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12px;color:var(--muted)}
+  .rcard .rc-title{display:block;margin:7px 0 4px;font-size:16px;line-height:1.5;color:var(--text)}
+  .bar-row{grid-template-columns:1fr auto;gap:3px 10px;padding:9px 0}
+  .bar-track{grid-column:1/-1;order:3;height:16px}
+  .ratio-axis{display:none}
+  .ratio-row{grid-template-columns:1fr auto;gap:4px 10px;padding:9px 0}
+  .ratio-track{grid-column:1/-1;order:3;height:16px}
+  .ratio-label{white-space:normal}
+}
+@media print{
+  html[data-theme],html[data-theme="dark"],html[data-theme="light"]{--bg:#fff;--panel:#fff;--text:#111827;--muted:#4b5563;--line:#d1d5db;--rule:#9ca3af;--accent:#8a4b00;--accent-ink:#fff;--danger:#a3261c;--warn:#8a540b;--good:#065f46}
+  body{background:#fff;color:#111827;font-size:10.5pt}
+  .wrap{max-width:none;padding:0}
+  header,nav.crumbs,button.toggle{display:none}
+  .brief-cover h1{font-size:30pt}
+  .brief-deck{font-size:11pt}
+  .kpi-strip b{font-size:22pt}
+  .section-head h2{font-size:18pt}
+  .chart{break-inside:avoid;border-color:#d1d5db}
+  .chart svg{min-width:0}
+  tr,.conclusion,.sample-note{break-inside:avoid}
+  details>summary{display:none}
+  a{color:inherit;text-decoration:none}
+  footer{margin-top:24px}
+  @page{size:A4;margin:14mm}
+}
+</style></head><body><div class="wrap">
+<header><a class="brand" href="/" style="color:inherit;text-decoration:none">CLIMATE <span>RADAR</span></a><button class="toggle" onclick="(function(){const h=document.documentElement;const n=h.dataset.theme==='dark'?'light':'dark';h.dataset.theme=n;localStorage.setItem('theme',n)})()">切换明暗</button></header>
+<nav class="crumbs"><a href="../index.html">首页</a> › 本期 ｜ <a href="../model/index.html">型号库</a> ｜ <a href="index.html">往期</a></nav>
+
+<div class="brief-cover">
+  <div class="cover-top">
+    <div>CLIMATE RADAR · WEEKLY MARKET BRIEF</div>
+    <div>NO. 001 · 2026-10-24 · <span class="sample">样刊</span></div>
+  </div>
+  <div class="brief-kicker">美国家居气候电器 · 独立站竞品情报</div>
+  <h1>189 款除湿机<br>161 款没有写明测试标准</h1>
+  <p class="brief-deck">未注明 DOE-2019 口径的除湿量无法跨品牌比较；Whynter 12 款双标移动空调的 SACC 制冷量中位数仅为 ASHRAE 的 <strong>73%</strong>。本期按同一把尺子重排 928 个型号，并列出 12 条命中监控品牌的 CPSC 召回。</p>
+  <div class="brief-byline">
+    <span>数据日期 2026-10-24</span>
+    <span>18 家品牌独立站</span>
+    <span>928 个收录型号</span>
+    <span>首期基线</span>
+  </div>
+</div>
+
+<div class="kpi-strip">
+  <div><b>928</b><span>收录型号<br>覆盖 18 家独立站</span></div>
+  <div><b>172</b><span>规格不可直接比<br>除湿机 161/189 款</span></div>
+  <div><b>12</b><span>召回命中监控品牌<br>Vornado 8 · Lasko 4</span></div>
+  <div><b>73<em>%</em></b><span>SACC / ASHRAE 中位比<br>12 款双标机型 · Whynter</span></div>
+</div>
+
+<div class="section-head"><div class="no">结论</div><div><h2>本期三个判断</h2><p>结论只使用可核对的数据；每条附一条可执行动作。</p></div></div>
+<div class="conclusions">
+  <div class="conclusion">
+    <div class="no">01</div>
+    <div>
+      <h3>召回集中在取暖器，品牌命中集中在 Vornado 与 Lasko</h3>
+      <p>26 条相关召回中，取暖器 19 条。12 条命中监控品牌：Vornado 8 条、Lasko 4 条；其中取暖器 11 条、风扇 1 条。最近一条为 2026-06-04 的取暖器召回，涉及约 25.5 万。</p>
+      <div class="act"><b>动作</b>上架或采购同款、同厂取暖器与风扇前，按 CPSC 公告的型号、UPC 与销售时间核对；品牌名相同不等于型号被召回。</div>
+    </div>
+  </div>
+  <div class="conclusion">
+    <div class="no">02</div>
+    <div>
+      <h3>Whynter 双标机型：SACC 仅为 ASHRAE 的 73%</h3>
+      <p>本期可比的 12 款双标机型全部来自 Whynter。按 SACC/ASHRAE 计算，中位数 73%，最低 58%，最高 86%。标称 12,000 BTU 的机型，SACC 口径约为 6,960–10,320 BTU。</p>
+      <div class="act"><b>动作</b>比价、定价与详情页统一使用 SACC；向工厂索取 SACC 测试值。只有 ASHRAE 数字的型号，不进入同口径排序。</div>
+    </div>
+  </div>
+  <div class="conclusion">
+    <div class="no">03</div>
+    <div>
+      <h3>除湿机的规格透明度最低</h3>
+      <p>189 款除湿机中 161 款未注明 DOE-2019 口径或未按 DOE 折算，占 85%；可验证口径的仅 28 款。另有 11 款移动空调只写 BTU、不写标准。</p>
+      <div class="act"><b>动作</b>只把标注 DOE-2019 的型号放进单位价排序；其余先向供应商要测试报告，再决定是否跟价。</div>
+    </div>
+  </div>
+</div>
+
+<div class="section-head"><div class="no">01</div><div><h2>召回雷达</h2><p>美国消费品安全委员会（CPSC）公开数据：2022 年以来全品类召回，并补充品牌历史召回（最早 2004 年）。先列命中监控品牌的记录，再列全部相关召回。</p></div></div>
+<div class="chart">
+  <div class="chart-head"><div class="chart-title">相关召回按品类分布</div><div class="chart-sub">共 26 条 · 按事件数</div></div>
+  <div class="bars" role="img" aria-label="按数量排序的条形图"><div class="bar-row">
+<span class="bar-label">取暖器</span>
+<div class="bar-track"><i style="width:100%;opacity:1"></i></div>
+<span class="bar-val">19 条</span>
+</div><div class="bar-row">
+<span class="bar-label">窗式空调</span>
+<div class="bar-track"><i style="width:10.526315789473683%;opacity:0.55"></i></div>
+<span class="bar-val">2 条</span>
+</div><div class="bar-row">
+<span class="bar-label">空气净化器</span>
+<div class="bar-track"><i style="width:10.526315789473683%;opacity:0.55"></i></div>
+<span class="bar-val">2 条</span>
+</div><div class="bar-row">
+<span class="bar-label">除湿机</span>
+<div class="bar-track"><i style="width:5.263157894736842%;opacity:0.55"></i></div>
+<span class="bar-val">1 条</span>
+</div><div class="bar-row">
+<span class="bar-label">加湿器</span>
+<div class="bar-track"><i style="width:5.263157894736842%;opacity:0.55"></i></div>
+<span class="bar-val">1 条</span>
+</div><div class="bar-row">
+<span class="bar-label">风扇</span>
+<div class="bar-track"><i style="width:5.263157894736842%;opacity:0.55"></i></div>
+<span class="bar-val">1 条</span>
+</div></div>
+</div>
+<h3>命中监控品牌（12 条）</h3>
+<div class="table-wrap hit-table"><table><thead><tr><th style="width:96px">日期</th><th style="width:88px">品类</th><th style="width:140px">品牌</th><th>召回事件</th><th style="width:96px">规模</th><th style="width:104px">危害</th></tr></thead><tbody><tr>
+<td class="num">2026-06-04</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2026/Vornado-Air-Recalls-SRTH-Small-Room-Tower-Heaters-Due-to-Fire-Hazard" target="_blank" rel="noopener">Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard</a><div class="sub">CPSC 26532</div></td>
+<td class="num">约 25.5 万</td>
+<td><span class="tag">火灾 · 割伤</span></td>
+</tr><tr>
+<td class="num">2025-01-16</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2025/Vornado-Air-Recalls-VH2-Whole-Room-Heaters-Due-to-Electric-Shock-and-Fire-Hazards-Sold-Exclusively-on-Amazon-com" target="_blank" rel="noopener">Vornado Air Recalls VH2 Whole Room Heaters Due to Electric Shock and Fire Hazards</a><div class="sub">CPSC 25093</div></td>
+<td class="num">约 7,780</td>
+<td><span class="tag">火灾 · 触电</span></td>
+</tr><tr>
+<td class="num">2023-03-09</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2023/Vornado%20Air%20Recalls%20Portable%20SRTH%20Small%20Room%20Tower%20Heaters%20Due%20to%20Fire%20Hazard" target="_blank" rel="noopener">Vornado Air Recalls Portable SRTH Small Room Tower Heaters Due to Fire Hazard</a><div class="sub">CPSC 23148</div></td>
+<td class="num">约 1,450</td>
+<td><span class="tag">火灾</span></td>
+</tr><tr>
+<td class="num">2018-08-22</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Reannounces-Recall-of-Electric-Space-Heaters-Following-Report-of-Death-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Reannounces Recall of Electric Space Heaters Following Report of Death; Fire and Burn Hazards</a><div class="sub">CPSC 18199</div></td>
+<td class="num">约 35 万</td>
+<td><span class="tag">火灾 · 烧伤</span></td>
+</tr><tr>
+<td class="num">2018-04-04</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Electric-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a><div class="sub">CPSC 18136</div></td>
+<td class="num">约 35 万</td>
+<td><span class="tag">火灾 · 烧伤</span></td>
+</tr><tr>
+<td class="num">2018-01-31</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Cribside-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Cribside Space Heaters Due to Fire and Burn Hazards</a><div class="sub">CPSC 18088</div></td>
+<td class="num">约 5,000</td>
+<td><span class="tag">火灾 · 烧伤</span></td>
+</tr><tr>
+<td class="num">2014-08-14</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2014/Vornado-Air-Recalls-Electric-Space-Heaters" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a><div class="sub">CPSC 14256</div></td>
+<td class="num">约 7.9 万</td>
+<td><span class="tag">火灾 · 烧伤</span></td>
+</tr><tr>
+<td class="num">2011-03-24</td>
+<td>风扇</td>
+<td><span class="tag danger">Lasko</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Box-Fans-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Box Fans Due To Fire Hazard</a><div class="sub">CPSC 11183</div></td>
+<td class="num">约 480 万</td>
+<td><span class="tag">火灾 · 触电</span></td>
+</tr><tr>
+<td class="num">2011-02-08</td>
+<td>取暖器</td>
+<td><span class="tag danger">Lasko</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Portable-Electric-Heaters-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Portable Electric Heaters Due To Fire Hazard</a><div class="sub">CPSC 11121</div></td>
+<td class="num">约 10.8 万</td>
+<td><span class="tag">火灾 · 触电</span></td>
+</tr><tr>
+<td class="num">2007-06-28</td>
+<td>取暖器</td>
+<td><span class="tag danger">Lasko</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2007/Ceramic-Heaters-Recalled-By-Lasko-Heaters-Could-Pose-A-Fire-Hazard" target="_blank" rel="noopener">Ceramic Heaters Recalled By Lasko; Heaters Could Pose A Fire Hazard</a><div class="sub">CPSC 07227</div></td>
+<td class="num">约 120 万</td>
+<td><span class="tag">火灾</span></td>
+</tr><tr>
+<td class="num">2004-08-03</td>
+<td>取暖器</td>
+<td><span class="tag danger">Vornado Air</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2004/CPSC-Vornado-Air-Circulation-Systems-Announce-Recall-of-Portable-Electric-Heaters-" target="_blank" rel="noopener">CPSC, Vornado Air Circulation Systems Announce Recall of Portable Electric Heaters</a><div class="sub">CPSC 04191</div></td>
+<td class="num">约 100 万</td>
+<td><span class="tag">火灾 · 触电</span></td>
+</tr><tr>
+<td class="num">2004-03-04</td>
+<td>取暖器</td>
+<td><span class="tag danger">Lasko</span></td>
+<td><a href="https://www.cpsc.gov/Recalls/2004/CPSC-Lasko-Products-Inc-Announce-Recall-of-Space-Heaters-" target="_blank" rel="noopener">CPSC, Lasko Products Inc. Announce Recall of Space Heaters</a><div class="sub">CPSC 04094</div></td>
+<td class="num">约 18.6 万</td>
+<td><span class="tag">火灾 · 烧伤</span></td>
+</tr></tbody></table></div>
+<div class="mobile-cards"><div class="rcard">
+<div class="rc-top"><span>2026-06-04</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 割伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2026/Vornado-Air-Recalls-SRTH-Small-Room-Tower-Heaters-Due-to-Fire-Hazard" target="_blank" rel="noopener">Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard</a>
+<div class="sub">约 25.5 万 · CPSC 26532</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2025-01-16</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 触电</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2025/Vornado-Air-Recalls-VH2-Whole-Room-Heaters-Due-to-Electric-Shock-and-Fire-Hazards-Sold-Exclusively-on-Amazon-com" target="_blank" rel="noopener">Vornado Air Recalls VH2 Whole Room Heaters Due to Electric Shock and Fire Hazards</a>
+<div class="sub">约 7,780 · CPSC 25093</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2023-03-09</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2023/Vornado%20Air%20Recalls%20Portable%20SRTH%20Small%20Room%20Tower%20Heaters%20Due%20to%20Fire%20Hazard" target="_blank" rel="noopener">Vornado Air Recalls Portable SRTH Small Room Tower Heaters Due to Fire Hazard</a>
+<div class="sub">约 1,450 · CPSC 23148</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2018-08-22</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 烧伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Reannounces-Recall-of-Electric-Space-Heaters-Following-Report-of-Death-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Reannounces Recall of Electric Space Heaters Following Report of Death; Fire and Burn Hazards</a>
+<div class="sub">约 35 万 · CPSC 18199</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2018-04-04</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 烧伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Electric-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a>
+<div class="sub">约 35 万 · CPSC 18136</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2018-01-31</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 烧伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Cribside-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Cribside Space Heaters Due to Fire and Burn Hazards</a>
+<div class="sub">约 5,000 · CPSC 18088</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2014-08-14</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 烧伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2014/Vornado-Air-Recalls-Electric-Space-Heaters" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a>
+<div class="sub">约 7.9 万 · CPSC 14256</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2011-03-24</span><span>风扇</span><span class="tag danger">Lasko</span><span class="tag">火灾 · 触电</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Box-Fans-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Box Fans Due To Fire Hazard</a>
+<div class="sub">约 480 万 · CPSC 11183</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2011-02-08</span><span>取暖器</span><span class="tag danger">Lasko</span><span class="tag">火灾 · 触电</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Portable-Electric-Heaters-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Portable Electric Heaters Due To Fire Hazard</a>
+<div class="sub">约 10.8 万 · CPSC 11121</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2007-06-28</span><span>取暖器</span><span class="tag danger">Lasko</span><span class="tag">火灾</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2007/Ceramic-Heaters-Recalled-By-Lasko-Heaters-Could-Pose-A-Fire-Hazard" target="_blank" rel="noopener">Ceramic Heaters Recalled By Lasko; Heaters Could Pose A Fire Hazard</a>
+<div class="sub">约 120 万 · CPSC 07227</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2004-08-03</span><span>取暖器</span><span class="tag danger">Vornado Air</span><span class="tag">火灾 · 触电</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2004/CPSC-Vornado-Air-Circulation-Systems-Announce-Recall-of-Portable-Electric-Heaters-" target="_blank" rel="noopener">CPSC, Vornado Air Circulation Systems Announce Recall of Portable Electric Heaters</a>
+<div class="sub">约 100 万 · CPSC 04191</div>
+</div><div class="rcard">
+<div class="rc-top"><span>2004-03-04</span><span>取暖器</span><span class="tag danger">Lasko</span><span class="tag">火灾 · 烧伤</span></div>
+<a class="rc-title" href="https://www.cpsc.gov/Recalls/2004/CPSC-Lasko-Products-Inc-Announce-Recall-of-Space-Heaters-" target="_blank" rel="noopener">CPSC, Lasko Products Inc. Announce Recall of Space Heaters</a>
+<div class="sub">约 18.6 万 · CPSC 04094</div>
+</div></div>
+<details>
+  <summary>展开全部 26 条相关召回</summary>
+  <div class="table-wrap"><table><thead><tr><th style="width:96px">日期</th><th style="width:88px">品类</th><th>召回事件</th><th style="width:150px">品牌 / 厂商</th><th style="width:96px">规模</th></tr></thead><tbody><tr>
+<td class="num">2026-09-17</td>
+<td>窗式空调</td>
+<td><a href="https://cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%C3%9CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Friedrich Air Conditioning Recalls KÜHL Window Air Conditioners Due to Risk of Serious Injury or Death from Fire and…</a></td>
+<td>Friedrich Air Conditioning Co., of San Antonio, Texas</td>
+<td class="num">约 2,000</td>
+</tr><tr>
+<td class="num">2026-06-04</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2026/Vornado-Air-Recalls-SRTH-Small-Room-Tower-Heaters-Due-to-Fire-Hazard" target="_blank" rel="noopener">Vornado Air Recalls SRTH Small Room Tower Heaters Due to Fire Hazard</a></td>
+<td>Vornado Air</td>
+<td class="num">约 25.5 万</td>
+</tr><tr>
+<td class="num">2026-02-09</td>
+<td>空气净化器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2026/Airova-Recalls-Aroeve-Air-Purifiers-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Airova Recalls Aroeve Air Purifiers Due to Fire and Burn Hazards</a></td>
+<td>Airova, Inc. of Newark, California</td>
+<td class="num">约 19.1 万</td>
+</tr><tr>
+<td class="num">2025-06-05</td>
+<td>窗式空调</td>
+<td><a href="https://www.cpsc.gov/Recalls/2025/Midea-Recalls-About-1-7-Million-U-and-U-Window-Air-Conditioners-Due-to-Risk-of-Mold-Exposure" target="_blank" rel="noopener">Midea Recalls About 1.7 Million U and U+ Window Air Conditioners Due to Risk of Mold Exposure</a></td>
+<td>GD Midea Air-Conditioning Equipment Co. Ltd., of China、Midea America Corp., of Parsippany, New Jersey</td>
+<td class="num">约 170 万</td>
+</tr><tr>
+<td class="num">2025-03-13</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2025/Meijer-Recalls-Konwin-Desktop-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Meijer Recalls Konwin Desktop Heaters Due to Fire and Burn Hazards</a></td>
+<td>Meijer Distribution Inc., of Grand Rapids, Michigan</td>
+<td class="num">约 6,050</td>
+</tr><tr>
+<td class="num">2025-01-16</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2025/Vornado-Air-Recalls-VH2-Whole-Room-Heaters-Due-to-Electric-Shock-and-Fire-Hazards-Sold-Exclusively-on-Amazon-com" target="_blank" rel="noopener">Vornado Air Recalls VH2 Whole Room Heaters Due to Electric Shock and Fire Hazards</a></td>
+<td>Vornado Air</td>
+<td class="num">约 7,780</td>
+</tr><tr>
+<td class="num">2024-11-07</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2025/GoveeLife-and-Govee-Smart-Electric-Space-Heaters-Recalled-Due-to-Fire-and-Burn-Hazards-Imported-by-Govee" target="_blank" rel="noopener">GoveeLife and Govee Smart Electric Space Heaters Recalled Due to Fire and Burn Hazards; Imported by Govee</a></td>
+<td>Govee Moments Trading Limited, of China and Govee Moments Limited, of China</td>
+<td class="num">约 51.3 万</td>
+</tr><tr>
+<td class="num">2024-09-12</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2024/Glen-Dimplex-Americas-Recalls-Cadet-Apex72-Electric-Heaters-Due-to-Fire-Hazard" target="_blank" rel="noopener">Glen Dimplex Americas Recalls Cadet Apex72 Electric Heaters Due to Fire Hazard</a></td>
+<td>Glen Dimplex Americas Ltd., of Vancouver, Washington</td>
+<td class="num">约 1.3 万</td>
+</tr><tr>
+<td class="num">2024-07-11</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2024/Atomi-Recalls-Smart-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Atomi Recalls Smart Heaters Due to Fire and Burn Hazards</a></td>
+<td>Atomi Smart, of New York</td>
+<td class="num">约 9.9 万</td>
+</tr><tr>
+<td class="num">2023-08-16</td>
+<td>除湿机</td>
+<td><a href="https://www.cpsc.gov/Recalls/2023/Gree-Recalls-1-56-Million-Dehumidifiers-Due-to-Fire-and-Burn-Hazards-Reports-of-At-Least-23-Fires" target="_blank" rel="noopener">Gree Recalls 1.56 Million Dehumidifiers Due to Fire and Burn Hazards; Reports of At Least 23 Fires</a></td>
+<td>Gree Electric Appliances, Inc. of Zhuhai</td>
+<td class="num">约 156 万</td>
+</tr><tr>
+<td class="num">2023-06-22</td>
+<td>加湿器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2023/Research-Products-Recalls-Steam-Humidifiers-Due-to-Fire-Hazard" target="_blank" rel="noopener">Research Products Recalls Steam Humidifiers Due to Fire Hazard</a></td>
+<td>Research Products Corporation, of Madison, Wisconsin</td>
+<td class="num">约 3.6 万</td>
+</tr><tr>
+<td class="num">2023-03-09</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2023/Vornado%20Air%20Recalls%20Portable%20SRTH%20Small%20Room%20Tower%20Heaters%20Due%20to%20Fire%20Hazard" target="_blank" rel="noopener">Vornado Air Recalls Portable SRTH Small Room Tower Heaters Due to Fire Hazard</a></td>
+<td>Vornado Air</td>
+<td class="num">约 1,450</td>
+</tr><tr>
+<td class="num">2022-10-27</td>
+<td>空气净化器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2023/Brother-Recalls-Power-Adapters-Sold-with-AirSure-DF-2-Dynamic-Filtration-Tabletop-Air-Purifiers-Due-to-Electrical-Shock-Hazard" target="_blank" rel="noopener">Brother Recalls Power Adapters Sold with AirSure DF-2 Dynamic Filtration Tabletop Air Purifiers Due to Electrical…</a></td>
+<td>Brother International Corporation, of Bridgewater, N.J.</td>
+<td class="num">约 1.6 万</td>
+</tr><tr>
+<td class="num">2022-06-16</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2022/Sienhua-Group-Recalls-WarmWave-and-Hunter-Ceramic-Tower-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Sienhua Group Recalls WarmWave and Hunter Ceramic Tower Heaters Due to Fire and Burn Hazards</a></td>
+<td>—</td>
+<td class="num">约 58 万</td>
+</tr><tr>
+<td class="num">2022-03-17</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2022/ToolGuards-Portable-Water-Immersion-Heaters-Recalled-Due-to-Shock-Electrocution-and-Fire-Hazards-Imported-by-FXswede-AB-Sold-Exclusively-at-Amazoncom-Recall-Alert" target="_blank" rel="noopener">ToolGuards Portable Water Immersion Heaters Recalled Due to Shock, Electrocution and Fire Hazards; Imported by FXswede…</a></td>
+<td>FXswede AB, of Sweden</td>
+<td class="num">约 5,000</td>
+</tr><tr>
+<td class="num">2022-02-10</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2022/Shop-LC-Recalls-Electric-Space-Heaters-Due-to-Fire-and-Burn-Hazards-Recall-Alert" target="_blank" rel="noopener">Shop LC Recalls Electric Space Heaters Due to Fire and Burn Hazards (Recall Alert)</a></td>
+<td>The Jewelry Channel Inc., dba Shop LC, of Austin, Texas</td>
+<td class="num">约 4,500</td>
+</tr><tr>
+<td class="num">2022-02-09</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2022/Home-Easy-Recalls-Geek-Heat-Personal-Heaters-Due-to-Fire-Hazard" target="_blank" rel="noopener">Home Easy Recalls Geek Heat Personal Heaters Due to Fire Hazard</a></td>
+<td>Home Easy Ltd., of Fairfield, New Jersey</td>
+<td class="num">约 3,000</td>
+</tr><tr>
+<td class="num">2018-08-22</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Reannounces-Recall-of-Electric-Space-Heaters-Following-Report-of-Death-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Reannounces Recall of Electric Space Heaters Following Report of Death; Fire and Burn Hazards</a></td>
+<td>Vornado Air</td>
+<td class="num">约 35 万</td>
+</tr><tr>
+<td class="num">2018-04-04</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Electric-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a></td>
+<td>Vornado Air</td>
+<td class="num">约 35 万</td>
+</tr><tr>
+<td class="num">2018-01-31</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2018/Vornado-Air-Recalls-Cribside-Space-Heaters-Due-to-Fire-and-Burn-Hazards" target="_blank" rel="noopener">Vornado Air Recalls Cribside Space Heaters Due to Fire and Burn Hazards</a></td>
+<td>Vornado Air</td>
+<td class="num">约 5,000</td>
+</tr><tr>
+<td class="num">2014-08-14</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2014/Vornado-Air-Recalls-Electric-Space-Heaters" target="_blank" rel="noopener">Vornado Air Recalls Electric Space Heaters Due to Fire and Burn Hazards</a></td>
+<td>Vornado Air</td>
+<td class="num">约 7.9 万</td>
+</tr><tr>
+<td class="num">2011-03-24</td>
+<td>风扇</td>
+<td><a href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Box-Fans-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Box Fans Due To Fire Hazard</a></td>
+<td>Lasko</td>
+<td class="num">约 480 万</td>
+</tr><tr>
+<td class="num">2011-02-08</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2011/Lasko-Recalls-Portable-Electric-Heaters-Due-To-Fire-Hazard" target="_blank" rel="noopener">Lasko Recalls Portable Electric Heaters Due To Fire Hazard</a></td>
+<td>Lasko</td>
+<td class="num">约 10.8 万</td>
+</tr><tr>
+<td class="num">2007-06-28</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2007/Ceramic-Heaters-Recalled-By-Lasko-Heaters-Could-Pose-A-Fire-Hazard" target="_blank" rel="noopener">Ceramic Heaters Recalled By Lasko; Heaters Could Pose A Fire Hazard</a></td>
+<td>Lasko</td>
+<td class="num">约 120 万</td>
+</tr><tr>
+<td class="num">2004-08-03</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2004/CPSC-Vornado-Air-Circulation-Systems-Announce-Recall-of-Portable-Electric-Heaters-" target="_blank" rel="noopener">CPSC, Vornado Air Circulation Systems Announce Recall of Portable Electric Heaters</a></td>
+<td>Vornado Air</td>
+<td class="num">约 100 万</td>
+</tr><tr>
+<td class="num">2004-03-04</td>
+<td>取暖器</td>
+<td><a href="https://www.cpsc.gov/Recalls/2004/CPSC-Lasko-Products-Inc-Announce-Recall-of-Space-Heaters-" target="_blank" rel="noopener">CPSC, Lasko Products Inc. Announce Recall of Space Heaters</a></td>
+<td>Lasko</td>
+<td class="num">约 18.6 万</td>
+</tr></tbody></table></div>
+</details>
+<div class="note">品牌匹配基于召回标题、产品名与厂商名，属于线索而非结论。采购前须以 CPSC 公告中的型号、UPC 与销售时间核对。</div>
+
+<div class="section-head"><div class="no">02</div><div><h2>规格口径</h2><p>除湿量统一为 DOE-2019 pints/天，制冷量统一为 SACC。未注明标准的数字保留原值，但不参与跨品牌比较。</p></div></div>
+<div class="chart">
+  <div class="chart-head"><div class="chart-title">未注明标准或未按 DOE 折算的型号占比</div><div class="chart-sub">按品类 · 红色为不可直接比</div></div>
+  <div class="chart-legend"><span><i style="background:var(--danger)"></i>不可比</span><span><i style="background:var(--rule);opacity:.6"></i>口径可验证</span></div>
+  <div class="bars" role="img" aria-label="未注明标准的型号占比"><div class="bar-row">
+<span class="bar-label">除湿机</span>
+<div class="bar-track"><i class="good" style="width:15%"></i><i class="bad" style="width:85%"></i></div>
+<span class="bar-val">161 / 189 · 85%</span>
+</div><div class="bar-row">
+<span class="bar-label">移动空调</span>
+<div class="bar-track"><i class="good" style="width:71%"></i><i class="bad" style="width:29%"></i></div>
+<span class="bar-val">11 / 38 · 29%</span>
+</div></div>
+</div>
+<div class="chart">
+  <div class="chart-head"><div class="chart-title">SACC / ASHRAE 实测比例</div><div class="chart-sub">12 款双标机型 · 全部来自 Whynter</div></div>
+  <div class="ratio" role="img" aria-label="SACC 相对 ASHRAE 的比例">
+<div class="ratio-axis"><span></span><span class="ticks"><span style="left:0%">50%</span><span style="left:20%">60%</span><span style="left:40%">70%</span><span style="left:60%">80%</span><span style="left:80%">90%</span><span style="left:100%">100%</span></span><span></span></div>
+<div class="ratio-row">
+<span class="ratio-label">ARC-122DS · 12,000→7,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:16%"></i></div>
+<span class="ratio-val">58%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-122DHP · 12,000→7,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:16%"></i></div>
+<span class="ratio-val">58%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-115WG · 11,000→6,800</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:24%"></i></div>
+<span class="ratio-val">62%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-0850XP · 12,000→8,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:34%"></i></div>
+<span class="ratio-val">67%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-147WFH · 14,000→10,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:42%"></i></div>
+<span class="ratio-val">71%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-147WF · 14,000→10,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:42%"></i></div>
+<span class="ratio-val">71%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1050XPH · 13,500→10,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:48%"></i></div>
+<span class="ratio-val">74%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1050XP · 13,500→10,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:48%"></i></div>
+<span class="ratio-val">74%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1030WN · 12,000→10,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:66%"></i></div>
+<span class="ratio-val">83%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1230WN2 · 14,000→12,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:72%"></i></div>
+<span class="ratio-val">86%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1230WNH · 14,000→12,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:72%"></i></div>
+<span class="ratio-val">86%</span>
+</div><div class="ratio-row">
+<span class="ratio-label">ARC-1230WN · 14,000→12,000</span>
+<div class="ratio-track"><i class="ratio-med" style="left:46%"></i><i class="ratio-dot" style="left:72%"></i></div>
+<span class="ratio-val">86%</span>
+</div>
+<div class="chart-sub" style="margin-top:8px">虚线为中位 73%；横轴 50%–100%，圆点为各机型 SACC/ASHRAE。</div>
+</div>
+</div>
+<h3>移动空调：未注明标准的全部 11 款</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:210px">标称</th><th style="width:90px">价格</th><th style="width:230px">问题</th></tr></thead><tbody><tr><td><a href="../model/dreo-com--portable-air-conditioner-740s.html">Portable Air Conditioner 740S</a><div class="sub">DREO ｜ <a href="https://dreo.com/products/portable-air-conditioner-740s" target="_blank" rel="noopener">官网</a></div></td><td class="num">10,000 BTU</td><td class="num">$699.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/dreo-com--portable-air-conditioner-543s.html">Portable Air Conditioner 543S</a><div class="sub">DREO ｜ <a href="https://dreo.com/products/portable-air-conditioner-543s" target="_blank" rel="noopener">官网</a></div></td><td class="num">7,200 BTU</td><td class="num">$499.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/newair-com--newair-portable-air-conditioning-and-heater-14000-btus.html">Newair® Portable Air Conditioner and Heater - 14,000 BTUs</a><div class="sub">NewAir ｜ <a href="https://newair.com/products/newair-portable-air-conditioning-and-heater-14000-btus" target="_blank" rel="noopener">官网</a></div></td><td class="num">14,000 BTU</td><td class="num">$699.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/newair-com--newair-portable-compact-air-conditioner-10-000-btus.html">Newair® 10,000 BTU Portable Air Conditioner, Dehumidifier,…</a><div class="sub">Newair ｜ <a href="https://newair.com/products/newair®-portable-compact-air-conditioner-10-000-btus" target="_blank" rel="noopener">官网</a></div></td><td class="num">10,000 BTU</td><td class="num">$389.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/newair-com--newair-portable-compact-air-conditioner-8-000-btus.html">Newair® 8,000 BTU Compact Air Conditioner</a><div class="sub">Newair ｜ <a href="https://newair.com/products/newair®-portable-compact-air-conditioner-8-000-btus" target="_blank" rel="noopener">官网</a></div></td><td class="num">8,000 BTU</td><td class="num">$339.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/waykar-com--waykar-6000-btu-portable-air-conditioner-for-camping-advanced-dual-hose-system-f-b7b72181.html">Waykar 6000 BTU Portable Air Conditioner for Camping,…</a><div class="sub">Waykar ｜ <a href="https://waykar.com/products/waykar-6000-btu-portable-air-conditioner-for-camping-advanced-dual-hose-system-for-tents-rvs-110v-ac-dc-inverter-support-3-in-1-cooling-dehumidifier-fan-for-off-grid-outdoor-comfort" target="_blank" rel="noopener">官网</a></div></td><td class="num">6,000 BTU</td><td class="num">$527.98</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/waykar-com--6-000-btu-portable-air-conditioner-for-camping-rv.html">6,000 BTU Portable Air Conditioner for Camping, Windowless…</a><div class="sub">Waykar ｜ <a href="https://waykar.com/products/6-000-btu-portable-air-conditioner-for-camping-rv" target="_blank" rel="noopener">官网</a></div></td><td class="num">6,000 BTU</td><td class="num">$339.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/waykar-com--waykar-9-000-btu-portable-air-conditioner-up-to-450-sq-ft-with-dehumidifier-and--961dc4f5.html">Waykar Portable Air Conditioner, Up to 450 Sq. Ft. Spce…</a><div class="sub">Waykar ｜ <a href="https://waykar.com/products/waykar-9-000-btu-portable-air-conditioner-up-to-450-sq-ft-with-dehumidifier-and-fan-mode-3-in-1-room-air-conditioner-with-drain-hose-24hrs-timer-installation-kit-for-home-office" target="_blank" rel="noopener">官网</a></div></td><td class="num">9,000 BTU</td><td class="num">$309.99</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/whynter-com--whynter-arc-126mdb-12000-btu-portable-air-conditioner.html">Whynter 12,000 BTU Portable Air Conditioner | ARC-126MDB</a><div class="sub">Whynter ｜ <a href="https://whynter.com/product/whynter-arc-126mdb-12000-btu-portable-air-conditioner/" target="_blank" rel="noopener">官网</a></div></td><td class="num">12,000 BTU</td><td class="num">—</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/whynter-com--whynter-eco-friendly-14000-btu-portable-air-conditioner.html">Whynter 14,000 BTU Portable Air Conditioner, Dehumidifier,…</a><div class="sub">Whynter ｜ <a href="https://whynter.com/product/whynter-eco-friendly-14000-btu-portable-air-conditioner/" target="_blank" rel="noopener">官网</a></div></td><td class="num">14,000 BTU</td><td class="num">—</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr><tr><td><a href="../model/whynter-com--whynter-eco-friendly-10000-btu-portable-air-conditioner.html">Whynter 10000 BTU Portable Air Conditioner | ARC-10WB…</a><div class="sub">Whynter ｜ <a href="https://whynter.com/product/whynter-eco-friendly-10000-btu-portable-air-conditioner/" target="_blank" rel="noopener">官网</a></div></td><td class="num">10,000 BTU</td><td class="num">—</td><td><span class="tag warn" title="BTU 未注明标准，不可直接比">未注明标准</span></td></tr></tbody></table></div>
+<h3>除湿机：按品牌各取 1 款示例</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:130px">标称</th><th style="width:90px">价格</th><th style="width:230px">问题</th></tr></thead><tbody><tr><td><a href="../model/abestorm-com--abestorm-guardian-sn55s-crawlspace-dehumidifier.html">Abestorm 120 PPD Crawl Space Dehumidifier with Drain Hose &amp;…</a><div class="sub">ABESTORM ｜ <a href="https://abestorm.com/products/abestorm-guardian-sn55s-crawlspace-dehumidifier" target="_blank" rel="noopener">官网</a></div></td><td class="num">120 pint/天</td><td class="num">$482.38</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/abestorm-com--abestorm-170-ppd-2-100-sq-ft-commercial-dehumidifier-with-pump-and-drain-hose-hu-94dd269c.html">Abestorm 170 PPD 2,100 Sq.Ft Commercial Dehumidifier with…</a><div class="sub">AbeStorm ｜ <a href="https://abestorm.com/products/abestorm-170-ppd-2-100-sq-ft-commercial-dehumidifier-with-pump-and-drain-hose-hurricane-800" target="_blank" rel="noopener">官网</a></div></td><td class="num">80 pint/天</td><td class="num">$639.99</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/baseaire-com--baseaire-235-ppd-crawl-space-dehumidifier-crawlspace-dehumidifiers-commercial-de-29cfbe8a.html">BaseAire® AirWerx 120X Crawl Space Dehumidifier, 235 Pints…</a><div class="sub">Baseaire ｜ <a href="https://baseaire.com/products/baseaire-235-ppd-crawl-space-dehumidifier-crawlspace-dehumidifiers-commercial-dehu-for-home-and-basements" target="_blank" rel="noopener">官网</a></div></td><td class="num">235 pint/天</td><td class="num">$1279.20</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/dreo-com--dehumidifier-733s.html">Dehumidifier 733S</a><div class="sub">DREO ｜ <a href="https://dreo.com/products/dehumidifier-733s" target="_blank" rel="noopener">官网</a></div></td><td class="num">7 L/天</td><td class="num">$279.99</td><td><span class="tag warn" title="按升标（7L ≈ 15 pint），未按 DOE 折算">按升标，未折 DOE</span></td></tr><tr><td><a href="../model/kesnos-com--kesnos-34-pints-home-dehumidifier-pd09d.html">34 Pints Home Dehumidifier | 2,000 Sq. Ft. Space | Water…</a><div class="sub">Kesnos ｜ <a href="https://kesnos.com/products/kesnos-34-pints-home-dehumidifier-pd09d" target="_blank" rel="noopener">官网</a></div></td><td class="num">34 pint/天</td><td class="num">$199.99</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/moiswell-com--120-pints-commercial-dehumidifier-with-pump-for-crawl-space-moiswell-aegis-hp110-3109202f.html">120 Pints Commercial Dehumidifier with Pump for Crawl Space…</a><div class="sub">Moiswell ｜ <a href="https://moiswell.com/products/120-pints-commercial-dehumidifier-with-pump-for-crawl-space-moiswell-aegis-hp110" target="_blank" rel="noopener">官网</a></div></td><td class="num">120 pint/天</td><td class="num">$469</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/newair-com--newair-160-pints-commercial-dehumidifer-with-pump.html">Newair 160 Pints Commercial Dehumidifier with Pump</a><div class="sub">Newair ｜ <a href="https://newair.com/products/newair-160-pints-commercial-dehumidifer-with-pump" target="_blank" rel="noopener">官网</a></div></td><td class="num">160 pint/天</td><td class="num">$699.99</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr><tr><td><a href="../model/waykar-com--cth-super-quiet-energy-star-dehumidifier-with-fixed-vent-pump-optional-cth-d.html">CTH Super Quiet ENERGY STAR Dehumidifier with Fixed Vent,…</a><div class="sub">Waykar ｜ <a href="https://waykar.com/products/cth-super-quiet-energy-star-dehumidifier-with-fixed-vent-pump-optional-cth-d" target="_blank" rel="noopener">官网</a></div></td><td class="num">150 pint/天</td><td class="num">$236.99</td><td><span class="tag warn" title="除湿量未注明标准，新旧数据不可比">未注明标准</span></td></tr></tbody></table></div>
+<div class="note">可验证口径的除湿机 28 款，占 15%；移动空调 27 款。完整标记见<a href="../model/index.html">型号库</a>逐页的“规格与合规字段”。</div>
+
+<div class="section-head"><div class="no">03</div><div><h2>价格与供给</h2><p>首期只有价格基线，不计算环比。价格均为官网标价，不含优惠券、会员价与运费。</p></div></div>
+<h3>价格带（2026-10-24）</h3>
+<div class="table-wrap"><table><thead><tr><th>品类</th><th>有标价型号</th><th>最低</th><th>中位</th><th>最高</th></tr></thead><tbody><tr><td>除湿机</td><td class="num">163</td><td class="num">$29</td><td class="num">$441.98</td><td class="num">$1279.20</td></tr><tr><td>移动空调</td><td class="num">8</td><td class="num">$309.99</td><td class="num">$445</td><td class="num">$699.99</td></tr><tr><td>空气净化器</td><td class="num">132</td><td class="num">$14.99</td><td class="num">$150</td><td class="num">$1999</td></tr><tr><td>加湿器</td><td class="num">104</td><td class="num">$9.99</td><td class="num">$85</td><td class="num">$1499.99</td></tr><tr><td>取暖器</td><td class="num">159</td><td class="num">$22.99</td><td class="num">$89.99</td><td class="num">$389.99</td></tr><tr><td>风扇</td><td class="num">274</td><td class="num">$19.99</td><td class="num">$80</td><td class="num">$919.99</td></tr></tbody></table></div>
+<h3>官方划线价差最大（前 6 款，共 190 款 ≥8%）</h3>
+<div class="table-wrap"><table><thead><tr><th>型号</th><th style="width:90px">现价</th><th style="width:90px">划线价</th><th style="width:76px">价差</th></tr></thead><tbody><tr><td><a href="../model/dreo-com--humidifier-321-4l.html">Humidifier 321 4L</a><div class="sub">DREO</div></td><td class="num">$44.99</td><td class="num">$105.98</td><td class="num"><span class="tag warn">-58%</span></td></tr><tr><td><a href="../model/kesnos-com--kesnos-232-pints-commercial-dehumidifier-pd900ac-90l.html">232 Pints Commercial Dehumidifier for Up to 8,000 Sq. Ft. -…</a><div class="sub">Kesnos</div></td><td class="num">$599.99</td><td class="num">$1399.99</td><td class="num"><span class="tag warn">-57%</span></td></tr><tr><td><a href="../model/abestorm-com--neatyfresh-pro-crawlspace-ventilation-fan.html">Abestorm NeatyFresh Pro Crawlspace Ventilation Fan</a><div class="sub">ABESTORM</div></td><td class="num">$59.83</td><td class="num">$119.66</td><td class="num"><span class="tag warn">-50%</span></td></tr><tr><td><a href="../model/levoit-com--dual100-ultrasonic-humidifier-diffuser-white.html">Levoit Dual 100 Ultrasonic Top-Fill Cool Mist 2-in-1…</a><div class="sub">Levoit</div></td><td class="num">$29.99</td><td class="num">$59.99</td><td class="num"><span class="tag warn">-50%</span></td></tr><tr><td><a href="../model/lasko-com--lasko-ultrasonic-personal-cool-mist-humidifier-with-nightlight-uh150.html">Lasko Ultrasonic Personal Cool Mist Humidifier with…</a><div class="sub">Lasko</div></td><td class="num">$9.99</td><td class="num">$19.99</td><td class="num"><span class="tag warn">-50%</span></td></tr><tr><td><a href="../model/lasko-com--lasko-12-ceramic-utility-space-heater-2-heat-settings-timer-thermostat.html">Lasko 12&quot; Ceramic Utility Space Heater: 2 Heat Settings,…</a><div class="sub">Lasko</div></td><td class="num">$39.99</td><td class="num">$79.99</td><td class="num"><span class="tag warn">-50%</span></td></tr></tbody></table></div>
+<div class="note">划线价为商家自填，可能长期高于实际成交价，本报告不将其计为降价。另有 27 个型号官网只显示占位价、76 个取不到价格，已从全部价格统计中剔除。</div>
+
+<div class="section-head"><div class="no">04</div><div><h2>方法与边界</h2><p>可复现的采集与计算规则；不确定的地方直接标注，不用估算补齐。</p></div></div>
+<div class="method">
+  <div><b>覆盖范围</b>18 家公开可访问的美国品牌独立站；不含亚马逊、沃尔玛、Home Depot 等平台内部数据。</div>
+  <div><b>品类</b>除湿机、移动空调、空气净化器、加湿器、风扇、取暖器；剔除配件、耗材、翻新、开箱与占位价商品。</div>
+  <div><b>除湿量</b>DOE-2019 pints/天。只写升、未按 DOE 折算的型号标记为不可比。</div>
+  <div><b>制冷量</b>SACC BTU；同时标注 ASHRAE 的机型给出两者比例，不采用固定换算系数。</div>
+  <div><b>召回</b>CPSC 公开接口；2022 年以来全品类召回，并补充更早的品牌历史召回。先做型号/UPC 精确匹配，再做品牌匹配。</div>
+  <div><b>价格</b>官网公开标价；不含优惠券、会员价、运费与平台补贴，不代表最终成交价。</div>
+</div>
+
+<div class="brief-end">
+  <h2>样刊说明</h2>
+  <p class="sub">本期为样刊，免费公开，暂不收款。开放订阅后每周一邮件交付完整报告与型号库访问；月付 $29，年付 $299，税费由 Paddle 在结账时计算。</p>
+  <a class="cta" href="../model/index.html">查看 928 个型号</a> <a class="cta ghost" href="index.html">往期报告</a>
+  <div class="sample-note"><b>状态</b>样刊 · 免费公开 · 未开放收款。数据来源为品牌官网公开商品页与 CPSC 公开召回库；本报告不构成法律或合规意见。</div>
+</div>
+<footer>数据来源：各品牌官网公开商品页、美国消费品安全委员会（CPSC）公开召回数据库。仅覆盖公开可访问的独立站商品，不含亚马逊等平台内部数据。本报告不构成法律或合规意见。
+<div style="margin-top:8px"><strong>样刊阶段：</strong>报告免费公开，尚未开放收款订阅。</div>
+
+<div style="margin-top:10px"><a href="../terms.html">服务条款</a> · <a href="../privacy.html">隐私政策</a> · <a href="../refund.html">退款政策</a> · <a href="../about.html">About (EN)</a></div></footer></div>
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}
+addEventListener('beforeprint',function(){document.querySelectorAll('details').forEach(function(d){d.open=true})});</script></body></html>

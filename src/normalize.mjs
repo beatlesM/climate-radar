@@ -53,8 +53,10 @@ export function extractSpec(product) {
 
   const readPints = (s) => uniq([...s.matchAll(/(\d{2,3})\s*(?:pint|pints|pt\.?)\b/gi)]
     .map((m) => Number(m[1]))
-    .filter((v) => v >= 20 && v <= 400)).sort((a, b) => b - a);
-  const titlePints = readPints(meta);
+    .filter((v) => v >= 20 && v <= 400));
+  // The title carries the marketed capacity; tags and body often list a larger
+  // saturation or "up to" figure for the same model.
+  const titlePints = readPints(String(product.title ?? ''));
   const pints = titlePints.length ? titlePints : readPints(text);
 
   const sqft = uniq([...text.matchAll(/(\d{2,4}(?:,\d{3})?)\s*(?:sq\.?\s*ft|sqft|square\s*feet)/gi)]

@@ -1,5 +1,40 @@
 [
  {
+  "handle": "airdoctor-go-portable-air-purifier",
+  "title": "AirDoctor GO!",
+  "type": "Air Purifier",
+  "vendor": "AirDoctor",
+  "cat": "air-purifier",
+  "url": "https://airdoctor.com/products/airdoctor-go-portable-air-purifier",
+  "price": 249,
+  "compare": null,
+  "available": true,
+  "created": "2026-10-04",
+  "updated": "2026-10-23",
+  "sku": "90AD01G1C01",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 270,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "AirDoctor GO! Air Purifier Original shipping_14.95 small || Portable, premium air purifier built for travel & more. Small enough for carry on, but equipped with the same AirDoctor award-winning purification. Take clean air anywhere with GO! Cleans the air in a 270 sq. ft. space 3x per hour Captures 99.99% of ultrafine particles at 0.003 microns Removes toxic gases, odors, & volatile organic compounds (VOCs)",
+   "unitCount": 2,
+   "discount": null
+  }
+ },
+ {
   "handle": "airdoctor-1500",
   "title": "AirDoctor 1500",
   "type": "Air Purifier",
