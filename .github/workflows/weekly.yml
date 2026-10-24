@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 13 * * 0'   # 每周日 13:00 UTC（美西周一 05:00）
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'full = fetch fresh data; render = rebuild from the latest snapshot'
+        type: choice
+        default: full
+        options: [full, render]
   push:
     branches: [main]
     paths:
@@ -24,6 +30,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Code/config pushes rebuild from the latest snapshot so a fix does not
+    # create an extra weekly issue. The cron job and a manual "full" run fetch
+    # fresh data from the stores.
+    env:
+      RENDER_ONLY: ${{ (github.event_name == 'push' || inputs.mode == 'render') && '1' || '0' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -42,9 +53,12 @@ jobs:
           fi
 
       - name: Fetch, normalize, render
-        run: node src/pipeline.mjs
+        run: |
+          echo "mode: $([ "$RENDER_ONLY" = "1" ] && echo render-only || echo full)"
+          node src/pipeline.mjs
 
       - name: Compose and send email
+        if: env.RENDER_ONLY != '1'
         continue-on-error: true
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
@@ -59,7 +73,12 @@ jobs:
           if git diff --staged --quiet; then
             echo "no changes"
           else
-            git commit -m "weekly: $(date -u +%F)"
+            if [ "$RENDER_ONLY" = "1" ]; then
+              MSG="render: $(date -u +%F)"
+            else
+              MSG="weekly: $(date -u +%F)"
+            fi
+            git commit -m "$MSG"
             git push
           fi
 

@@ -13,11 +13,15 @@ export const CATS = [
 export const ACCESSORY = /(replacement|filter|filters|hose|window\s*kit|seal\s*kit|remote|cover|bracket|adapter|wick|brush|cleaner|desiccant|refill|pad\b|accessor|part\b|strap|mount|bucket|drain\s*pan|protection\s*plan|warranty|extended\s*coverage|refurbish|renewed|open\s*box|gift\s*card|bundle|sample|spare\b)/i;
 
 const STRONG = /purifier|dehumidifier|humidifier|heater|\bfan\b|air\s*conditioner|circulator/i;
-const HARD_ACCESSORY = /open\s*box|refurbish|renewed|^(remote|replacement|filter|filters|hose|drain\s*hose|kit|cover|bracket|adapter)\b|\bremote\s+(control\s+)?for\b|replacement|filters?\s+for|compatible\s+with|cleaning\s+kit|removal\s+tool|\brefill\b|hanging\s*kit|price\s*difference|purchase\s+the\b|\bsensor\b|drain\s*tube|starter\s*kit|prefilter|filters?\s+\d+\s*pack|\b(intake\/exhaust|venting)\s+hose\b|booster\s+pad|\blifter\b|remote\s+control(ler)?\s*$|\badapter\s+for\b|drain\s+bucket|pump\s+parts|hose\s+kit|aroma\s+pad|pads?\s+\d+-pack|universal\s+fit/i;
+const HARD_ACCESSORY = /open\s*box|refurbish|renewed|^(remote|replacement|filter|filters|hose|drain\s*hose|kit|cover|bracket|adapter)\b|\bremote\s+(control\s+)?for\b|replacement|filters?\s+for|compatible\s+with|cleaning\s+kit|removal\s+tool|\brefill\b|hanging\s*kit|price\s*difference|purchase\s+the\b|\bsensor\b|drain\s*tube|starter\s*kit|prefilter|filters?\s+\d+\s*pack|\b(intake\/exhaust|venting)\s+hose\b|booster\s+pad|\blifter\b|remote\s+control(ler)?\s*$|\badapter\s+for\b|drain\s+bucket|pump\s+parts|hose\s+kit|aroma\s+pad|pads?\s+\d+-pack|universal\s+fit|\baccessor(y|ies)\b|\brisers?\b|\bremote\s+controllers?\b|\bextender\s+sets?\b|\bquick\s+connect\b|foil\s+(outlet|intake)\s+duct|\bcartridges?\b|\bwicks?\b|\bdescaling\s+pads?\b|\bdemineralization\b|\bscale[- ]inhibitor\b|\bdecalcification\b|\bMERV-?\d|\bRO\s+water\s+filter\b|\bbundle\b/i;
+
+// "Humidifier with ... cartridge" is a humidifier that ships with a consumable,
+// not a consumable listing. Keep those models in the catalog.
+const BUILT_IN_CONSUMABLE = /\bwith\b[^|]*\b(cartridge|filter|wick)\b/i;
 
 export function isAccessory(title = '') {
   const t = String(title);
-  if (HARD_ACCESSORY.test(t)) return true;
+  if (HARD_ACCESSORY.test(t) && !BUILT_IN_CONSUMABLE.test(t)) return true;
   return ACCESSORY.test(t) && !STRONG.test(t);
 }
 
