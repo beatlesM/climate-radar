@@ -11,7 +11,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2026-10-17",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -47,7 +47,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2026-10-12",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -83,7 +83,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2024-12-25",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "kiloplus-WH-afloia-2",
   "barcode": "",
   "spec": {
@@ -119,7 +119,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2021-12-08",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "Fillo-black",
   "barcode": "",
   "spec": {
@@ -153,7 +153,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2024-12-25",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "EUROPA-WH-US13",
   "barcode": "",
   "spec": {
@@ -189,7 +189,7 @@
   "compare": 169.99,
   "available": true,
   "created": "2021-12-08",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "Miro-pro-white",
   "barcode": "",
   "spec": {
@@ -223,7 +223,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2021-12-09",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "TOPZ1PLUS1-BK-22US",
   "barcode": "",
   "spec": {
@@ -259,7 +259,7 @@
   "compare": 169.99,
   "available": true,
   "created": "2021-12-08",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "13US-KILOPRO-White",
   "barcode": "",
   "spec": {
@@ -293,7 +293,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2021-12-08",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "sku": "Kilo-white",
   "barcode": "",
   "spec": {
@@ -327,9 +327,9 @@
   "url": "https://moiswell.com/products/120-pints-commercial-dehumidifier-with-pump-for-crawl-space-moiswell-aegis-hp110",
   "price": 469,
   "compare": 599,
-  "available": true,
+  "available": false,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Aegis HP110",
   "barcode": "",
   "spec": {
@@ -371,7 +371,7 @@
   "compare": 799,
   "available": true,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Aegis HP150",
   "barcode": "",
   "spec": {
@@ -414,7 +414,7 @@
   "compare": 699,
   "available": true,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Aegis H150",
   "barcode": "",
   "spec": {
@@ -457,7 +457,7 @@
   "compare": 1299,
   "available": true,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Marshal WD160",
   "barcode": "",
   "spec": {
@@ -498,7 +498,7 @@
   "compare": 899,
   "available": true,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Master RD200",
   "barcode": "",
   "spec": {
@@ -540,7 +540,7 @@
   "compare": 1148,
   "available": true,
   "created": "2026-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer VP320",
   "barcode": "",
   "spec": {
@@ -582,7 +582,7 @@
   "compare": 899,
   "available": true,
   "created": "2026-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Pioneer-XII",
   "barcode": "",
   "spec": {
@@ -624,7 +624,7 @@
   "compare": 849,
   "available": true,
   "created": "2025-03-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Pioneer-XI",
   "barcode": "",
   "spec": {
@@ -666,7 +666,7 @@
   "compare": 799,
   "available": true,
   "created": "2025-03-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer V190",
   "barcode": "",
   "spec": {
@@ -707,7 +707,7 @@
   "compare": 999,
   "available": true,
   "created": "2024-10-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PIONEER XIII",
   "barcode": "",
   "spec": {
@@ -749,7 +749,7 @@
   "compare": 499,
   "available": true,
   "created": "2024-10-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender SP60",
   "barcode": "",
   "spec": {
@@ -791,7 +791,7 @@
   "compare": 409,
   "available": true,
   "created": "2024-10-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender S60",
   "barcode": "",
   "spec": {
@@ -833,7 +833,7 @@
   "compare": 899,
   "available": true,
   "created": "2024-09-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender MP100",
   "barcode": "",
   "spec": {
@@ -875,7 +875,7 @@
   "compare": 409,
   "available": true,
   "created": "2024-08-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender ME-7",
   "barcode": "",
   "spec": {
@@ -917,7 +917,7 @@
   "compare": 499,
   "available": true,
   "created": "2024-08-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender ME-7S",
   "barcode": "",
   "spec": {
@@ -959,7 +959,7 @@
   "compare": 699,
   "available": false,
   "created": "2024-05-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender M70",
   "barcode": "",
   "spec": {
@@ -1002,7 +1002,7 @@
   "compare": 699,
   "available": true,
   "created": "2024-02-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender M145",
   "barcode": "",
   "spec": {
@@ -1041,11 +1041,11 @@
   "vendor": "Moiswell",
   "cat": "dehumidifier",
   "url": "https://moiswell.com/products/155-pints-commercial-dehumidifier-with-pump-and-drain-hose-for-crawlspace-basement-moiswell-defender-mp145",
-  "price": 580,
+  "price": 551,
   "compare": 799,
   "available": true,
   "created": "2024-03-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender MP145",
   "barcode": "",
   "spec": {
@@ -1072,7 +1072,7 @@
    ],
    "excerpt": "155 Pints Commercial Dehumidifier with Pump and Drain Hose for Crawlspace & Basement | MOISWELL Defender MP145 Commercial Dehumidifiers 145 Pints/Day Applications_Crawlspace & Basements Applications_Grow Rooms Applications_Marine & Boat Applications_Warehouse & Storage Rooms Applications_Water Damage Restoration Best Sellers Capacity_ Superb Commercial Dehumidification The Moiswell MP145 commercial dehumidifier effectively removes up to 155 pints of moisture daily (Max.) and 70 pints per day in AHAM. Engineered to handle expansive areas of up to 6,000 square feet, it ensures powerful moisture control for large commercial spaces, perfect fit in low-clearance crawl spaces or tight basements. E",
    "unitCount": 1,
-   "discount": 0.27
+   "discount": 0.31
   }
  },
  {
@@ -1087,7 +1087,7 @@
   "compare": 999,
   "available": true,
   "created": "2024-01-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer VP250",
   "barcode": "",
   "spec": {
@@ -1129,7 +1129,7 @@
   "compare": 799,
   "available": true,
   "created": "2024-01-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer VP190",
   "barcode": "",
   "spec": {
@@ -1170,7 +1170,7 @@
   "compare": 899,
   "available": true,
   "created": "2023-11-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender XP235",
   "barcode": "",
   "spec": {
@@ -1212,7 +1212,7 @@
   "compare": 1089,
   "available": true,
   "created": "2023-05-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer V320",
   "barcode": "",
   "spec": {
@@ -1253,7 +1253,7 @@
   "compare": 799,
   "available": true,
   "created": "2022-12-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer VP170",
   "barcode": "",
   "spec": {
@@ -1294,7 +1294,7 @@
   "compare": 1049,
   "available": true,
   "created": "2022-12-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Explorer VP240",
   "barcode": "",
   "spec": {
@@ -1335,7 +1335,7 @@
   "compare": 799,
   "available": true,
   "created": "2022-12-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Defender MP70",
   "barcode": "",
   "spec": {
@@ -1378,7 +1378,7 @@
   "compare": 239.99,
   "available": true,
   "created": "2021-07-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD09D",
   "barcode": "",
   "spec": {
@@ -1419,7 +1419,7 @@
   "compare": 789.99,
   "available": true,
   "created": "2023-12-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DP902A",
   "barcode": "",
   "spec": {
@@ -1458,7 +1458,7 @@
   "compare": 599.99,
   "available": true,
   "created": "2023-12-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DP602A",
   "barcode": "",
   "spec": {
@@ -1497,7 +1497,7 @@
   "compare": 505.99,
   "available": true,
   "created": "2023-11-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDA-150PM",
   "barcode": "",
   "spec": {
@@ -1539,7 +1539,7 @@
   "compare": 419.99,
   "available": true,
   "created": "2023-11-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDA-150",
   "barcode": "",
   "spec": {
@@ -1581,7 +1581,7 @@
   "compare": 435.99,
   "available": true,
   "created": "2023-12-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "JD025N-120",
   "barcode": "",
   "spec": {
@@ -1623,7 +1623,7 @@
   "compare": 276.99,
   "available": true,
   "created": "2023-12-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "JD025N-80",
   "barcode": "",
   "spec": {
@@ -1665,7 +1665,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2025-06-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CTH30B",
   "barcode": "",
   "spec": {
@@ -1707,7 +1707,7 @@
   "compare": 459.99,
   "available": true,
   "created": "2023-11-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDA-120",
   "barcode": "",
   "spec": {
@@ -1748,7 +1748,7 @@
   "compare": 539.99,
   "available": true,
   "created": "2023-12-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "JD026N-150",
   "barcode": "",
   "spec": {
@@ -1789,7 +1789,7 @@
   "compare": 265.99,
   "available": true,
   "created": "2023-11-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDA-80",
   "barcode": "",
   "spec": {
@@ -1831,7 +1831,7 @@
   "compare": 239.99,
   "available": true,
   "created": "2020-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD160A",
   "barcode": "",
   "spec": {
@@ -1872,7 +1872,7 @@
   "compare": 799.99,
   "available": true,
   "created": "2021-03-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD606A",
   "barcode": "",
   "spec": {
@@ -1913,7 +1913,7 @@
   "compare": 1399.99,
   "available": false,
   "created": "2020-08-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "SPF-KS-PD900AC-90L-US",
   "barcode": "",
   "spec": {
@@ -1952,7 +1952,7 @@
   "compare": 739.99,
   "available": false,
   "created": "2023-04-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DP600A",
   "barcode": "",
   "spec": {
@@ -1993,7 +1993,7 @@
   "compare": 699.99,
   "available": true,
   "created": "2024-07-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AKE2.5D",
   "barcode": "",
   "spec": {
@@ -2032,7 +2032,7 @@
   "compare": 212.99,
   "available": true,
   "created": "2020-07-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "SPF-KS-PD08A-18-US",
   "barcode": "",
   "spec": {
@@ -2073,7 +2073,7 @@
   "compare": 359.99,
   "available": true,
   "created": "2024-03-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "SPF-KS-PD10A-US",
   "barcode": "",
   "spec": {
@@ -2115,7 +2115,7 @@
   "compare": 299.99,
   "available": false,
   "created": "2025-04-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD10A-80",
   "barcode": "",
   "spec": {
@@ -2157,7 +2157,7 @@
   "compare": 239,
   "available": false,
   "created": "2022-10-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-500-0NNML00",
   "barcode": "",
   "spec": {
@@ -2193,7 +2193,7 @@
   "compare": 689.11,
   "available": false,
   "created": "2024-05-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-GUARDIAN-SN55S-1NNMG00",
   "barcode": "",
   "spec": {
@@ -2232,7 +2232,7 @@
   "compare": 799.99,
   "available": true,
   "created": "2025-07-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-800-0YDMK00",
   "barcode": "",
   "spec": {
@@ -2274,7 +2274,7 @@
   "compare": 648.66,
   "available": true,
   "created": "2025-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-Guardian-SN55S-0NNMG00",
   "barcode": "",
   "spec": {
@@ -2317,7 +2317,7 @@
   "compare": 229,
   "available": true,
   "created": "2025-01-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1050IG-0NNMR10",
   "barcode": "",
   "spec": {
@@ -2354,7 +2354,7 @@
   "compare": null,
   "available": true,
   "created": "2025-01-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1050-0NNMR00",
   "barcode": "",
   "spec": {
@@ -2391,7 +2391,7 @@
   "compare": 169,
   "available": true,
   "created": "2025-01-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-780S-0NNME00",
   "barcode": "",
   "spec": {
@@ -2428,7 +2428,7 @@
   "compare": null,
   "available": true,
   "created": "2024-12-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-DecDust-780IG-0NNMB00",
   "barcode": "",
   "spec": {
@@ -2464,7 +2464,7 @@
   "compare": null,
   "available": true,
   "created": "2024-12-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-DecDust-780-0NNMB00",
   "barcode": "",
   "spec": {
@@ -2500,7 +2500,7 @@
   "compare": 279,
   "available": true,
   "created": "2024-12-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-DecDust-1080-0NNMR00",
   "barcode": "",
   "spec": {
@@ -2534,7 +2534,7 @@
   "compare": 299,
   "available": true,
   "created": "2024-12-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-DecDust-1080IG-0NNMR00",
   "barcode": "",
   "spec": {
@@ -2568,7 +2568,7 @@
   "compare": 799.11,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-85P-0YDMK00",
   "barcode": "",
   "spec": {
@@ -2610,7 +2610,7 @@
   "compare": 83.66,
   "available": true,
   "created": "2023-06-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NeatyFresh-260S-0NNMA00",
   "barcode": "",
   "spec": {
@@ -2646,7 +2646,7 @@
   "compare": 79.11,
   "available": true,
   "created": "2023-02-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NeatyFresh-260-0NNMA00",
   "barcode": "",
   "spec": {
@@ -2682,7 +2682,7 @@
   "compare": null,
   "available": false,
   "created": "2023-10-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "Abestorm 720CFM-Preference",
   "barcode": "",
   "spec": {
@@ -2716,7 +2716,7 @@
   "compare": 279.11,
   "available": true,
   "created": "2023-07-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1350-0NNMG00",
   "barcode": "",
   "spec": {
@@ -2750,7 +2750,7 @@
   "compare": 299.11,
   "available": true,
   "created": "2023-07-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1350IG-0NNMG10",
   "barcode": "",
   "spec": {
@@ -2787,7 +2787,7 @@
   "compare": 97.11,
   "available": true,
   "created": "2023-06-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NEATYFRESH-540S-0NNMA00",
   "barcode": "",
   "spec": {
@@ -2824,7 +2824,7 @@
   "compare": 157.11,
   "available": true,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NEATYFRESH-720S-0NNMA00",
   "barcode": "",
   "spec": {
@@ -2861,7 +2861,7 @@
   "compare": 289.11,
   "available": true,
   "created": "2023-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1350IG-0NNMB10",
   "barcode": "",
   "spec": {
@@ -2898,7 +2898,7 @@
   "compare": 279,
   "available": true,
   "created": "2023-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-DecDust-1350-0NNMB00",
   "barcode": "",
   "spec": {
@@ -2934,7 +2934,7 @@
   "compare": 466.11,
   "available": true,
   "created": "2023-03-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-GUARDIAN-SN35P-0YDMG00",
   "barcode": "",
   "spec": {
@@ -2975,7 +2975,7 @@
   "compare": 89.66,
   "available": true,
   "created": "2023-02-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NEATYFRESH-540-0NNMA00",
   "barcode": "",
   "spec": {
@@ -3012,7 +3012,7 @@
   "compare": 149.66,
   "available": true,
   "created": "2023-02-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NEATYFRESH-720-0NNMA00",
   "barcode": "",
   "spec": {
@@ -3050,7 +3050,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-NEATYFRESH-MAX-0NNMA00",
   "barcode": "",
   "spec": {
@@ -3084,7 +3084,7 @@
   "compare": 119.66,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABEI-neatyflash-PRO-0NNMK00",
   "barcode": "",
   "spec": {
@@ -3120,7 +3120,7 @@
   "compare": 1147.11,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-GUARDIAN-SNS90-0YAMG00",
   "barcode": "",
   "spec": {
@@ -3162,7 +3162,7 @@
   "compare": 755.66,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-GUARDIAN-SNS65S-0YDMG00",
   "barcode": "",
   "spec": {
@@ -3204,7 +3204,7 @@
   "compare": 1239.3,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-125P-0YDMK00",
   "barcode": "",
   "spec": {
@@ -3244,9 +3244,9 @@
   "url": "https://abestorm.com/products/abestorm-180-pints-commercial-dehumidifiers-hurricane-850",
   "price": 881.2,
   "compare": 979.11,
-  "available": false,
+  "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-850-0YAMK00",
   "barcode": "",
   "spec": {
@@ -3288,7 +3288,7 @@
   "compare": 799.11,
   "available": true,
   "created": "2022-10-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-LGR85-0YDMK00",
   "barcode": "",
   "spec": {
@@ -3330,7 +3330,7 @@
   "compare": 1599,
   "available": true,
   "created": "2022-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-Guardian-SNS120-0YAMG00",
   "barcode": "",
   "spec": {
@@ -3372,7 +3372,7 @@
   "compare": 1399,
   "available": true,
   "created": "2022-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-Guardian-SNS100-0YAMG00",
   "barcode": "",
   "spec": {
@@ -3413,7 +3413,7 @@
   "compare": 1077,
   "available": true,
   "created": "2022-09-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-HURRICANE-900-1YAMK00",
   "barcode": "",
   "spec": {
@@ -3454,7 +3454,7 @@
   "compare": 1047.11,
   "available": true,
   "created": "2022-09-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABES-Guardian-SN90-0NNMG00",
   "barcode": "",
   "spec": {
@@ -3495,7 +3495,7 @@
   "compare": 1467,
   "available": true,
   "created": "2022-09-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02ABER-Hurricane-1250-0YAMK00",
   "barcode": "",
   "spec": {
@@ -5672,7 +5672,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2026-10-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0104Y",
   "barcode": "",
   "spec": {
@@ -5706,7 +5706,7 @@
   "compare": 74.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVNUS0002Y",
   "barcode": "",
   "spec": {
@@ -5740,7 +5740,7 @@
   "compare": 189.99,
   "available": true,
   "created": "2025-01-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0102Y",
   "barcode": "",
   "spec": {
@@ -5774,7 +5774,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0107Y",
   "barcode": "",
   "spec": {
@@ -5810,7 +5810,7 @@
   "compare": null,
   "available": false,
   "created": "2026-08-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0108Y",
   "barcode": "",
   "spec": {
@@ -5846,7 +5846,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0115Y",
   "barcode": "",
   "spec": {
@@ -5882,7 +5882,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2026-09-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0142Y",
   "barcode": "",
   "spec": {
@@ -5918,7 +5918,7 @@
   "compare": 44.99,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0143Y",
   "barcode": "",
   "spec": {
@@ -5955,7 +5955,7 @@
   "compare": 44.99,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0144Y",
   "barcode": "",
   "spec": {
@@ -5992,7 +5992,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0145Y",
   "barcode": "",
   "spec": {
@@ -6029,7 +6029,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0146Y",
   "barcode": "",
   "spec": {
@@ -6065,7 +6065,7 @@
   "compare": 259.99,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0212Y",
   "barcode": "",
   "spec": {
@@ -6101,7 +6101,7 @@
   "compare": 299.99,
   "available": true,
   "created": "2026-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPDHLVSUS0001Y",
   "barcode": "",
   "spec": {
@@ -6143,7 +6143,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2026-05-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0211Y",
   "barcode": "",
   "spec": {
@@ -6179,7 +6179,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0035",
   "barcode": "",
   "spec": {
@@ -6215,7 +6215,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPCFLVNUS0002Y",
   "barcode": "",
   "spec": {
@@ -6251,7 +6251,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2026-07-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0167Y",
   "barcode": "",
   "spec": {
@@ -6285,7 +6285,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2026-07-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVSUS0022Y",
   "barcode": "",
   "spec": {
@@ -6321,7 +6321,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-05-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0106Y",
   "barcode": "",
   "spec": {
@@ -6357,7 +6357,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2026-03-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0112Y",
   "barcode": "",
   "spec": {
@@ -6393,7 +6393,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2026-03-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0105Y",
   "barcode": "",
   "spec": {
@@ -6429,7 +6429,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0132Y",
   "barcode": "",
   "spec": {
@@ -6465,7 +6465,7 @@
   "compare": 34.99,
   "available": true,
   "created": "2026-07-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0134Y",
   "barcode": "",
   "spec": {
@@ -6501,7 +6501,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2026-07-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0131Y",
   "barcode": "",
   "spec": {
@@ -6538,7 +6538,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2026-07-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0130Y",
   "barcode": "",
   "spec": {
@@ -6575,7 +6575,7 @@
   "compare": 159.99,
   "available": true,
   "created": "2026-07-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0186Y",
   "barcode": "",
   "spec": {
@@ -6613,7 +6613,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2026-07-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0133Y",
   "barcode": "",
   "spec": {
@@ -6649,7 +6649,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0016",
   "barcode": "",
   "spec": {
@@ -6683,7 +6683,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0065A",
   "barcode": "",
   "spec": {
@@ -6717,7 +6717,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2026-06-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVNUS0036Y",
   "barcode": "",
   "spec": {
@@ -6753,7 +6753,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2026-06-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVNUS0034Y",
   "barcode": "",
   "spec": {
@@ -6790,7 +6790,7 @@
   "compare": 129.99,
   "available": false,
   "created": "2026-05-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0111Y",
   "barcode": "",
   "spec": {
@@ -6824,7 +6824,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2026-05-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0113Y",
   "barcode": "",
   "spec": {
@@ -6860,7 +6860,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2026-04-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0189Y",
   "barcode": "",
   "spec": {
@@ -6896,7 +6896,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0002",
   "barcode": "",
   "spec": {
@@ -6930,7 +6930,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2026-04-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVNUS0033Y",
   "barcode": "",
   "spec": {
@@ -6966,7 +6966,7 @@
   "compare": null,
   "available": true,
   "created": "2026-01-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0164Y",
   "barcode": "",
   "spec": {
@@ -7000,7 +7000,7 @@
   "compare": 249.99,
   "available": true,
   "created": "2026-01-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0085A",
   "barcode": "",
   "spec": {
@@ -7036,7 +7036,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2025-12-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0166Y",
   "barcode": "",
   "spec": {
@@ -7070,7 +7070,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0197Y",
   "barcode": "",
   "spec": {
@@ -7104,7 +7104,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0021",
   "barcode": "",
   "spec": {
@@ -7140,7 +7140,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEACAFLVNUS0100Y",
   "barcode": "",
   "spec": {
@@ -7176,7 +7176,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2025-05-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0138Y",
   "barcode": "",
   "spec": {
@@ -7210,7 +7210,7 @@
   "compare": 279.99,
   "available": true,
   "created": "2025-01-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0168Y",
   "barcode": "",
   "spec": {
@@ -7244,7 +7244,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2024-05-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVSUS0021Y",
   "barcode": "",
   "spec": {
@@ -7280,7 +7280,7 @@
   "compare": null,
   "available": true,
   "created": "2024-05-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPTFLVSUS0011Y",
   "barcode": "",
   "spec": {
@@ -7314,7 +7314,7 @@
   "compare": 109.99,
   "available": true,
   "created": "2023-10-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0084Y",
   "barcode": "",
   "spec": {
@@ -7348,7 +7348,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2023-08-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0083Y",
   "barcode": "",
   "spec": {
@@ -7384,7 +7384,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2023-07-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0098A",
   "barcode": "",
   "spec": {
@@ -7418,7 +7418,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-07-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0073A",
   "barcode": "",
   "spec": {
@@ -7452,7 +7452,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2023-07-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0024",
   "barcode": "",
   "spec": {
@@ -7488,7 +7488,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0008",
   "barcode": "",
   "spec": {
@@ -7524,7 +7524,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0025",
   "barcode": "",
   "spec": {
@@ -7560,7 +7560,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0161Y",
   "barcode": "",
   "spec": {
@@ -7594,7 +7594,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVNUS0163Y",
   "barcode": "",
   "spec": {
@@ -7630,7 +7630,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0165Y",
   "barcode": "",
   "spec": {
@@ -7664,7 +7664,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0034",
   "barcode": "",
   "spec": {
@@ -7700,7 +7700,7 @@
   "compare": 219.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0072B",
   "barcode": "",
   "spec": {
@@ -7736,7 +7736,7 @@
   "compare": 299.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0091A",
   "barcode": "",
   "spec": {
@@ -7770,7 +7770,7 @@
   "compare": 109.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0040A",
   "barcode": "",
   "spec": {
@@ -7806,7 +7806,7 @@
   "compare": 43.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVNUS0050",
   "barcode": "",
   "spec": {
@@ -7842,7 +7842,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0049",
   "barcode": "",
   "spec": {
@@ -7876,7 +7876,7 @@
   "compare": 499.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0100A",
   "barcode": "",
   "spec": {
@@ -7910,7 +7910,7 @@
   "compare": 189.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0124A",
   "barcode": "",
   "spec": {
@@ -7944,7 +7944,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPHULVSUS0078Y",
   "barcode": "",
   "spec": {
@@ -7980,7 +7980,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2023-06-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HEAPAPLVSUS0125A",
   "barcode": "",
   "spec": {
@@ -8014,7 +8014,7 @@
   "compare": null,
   "available": true,
   "created": "2026-10-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080091-004",
   "barcode": "",
   "spec": {
@@ -8050,7 +8050,7 @@
   "compare": null,
   "available": true,
   "created": "2026-10-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-110061-001-10-16007-121",
   "barcode": "",
   "spec": {
@@ -8088,7 +8088,7 @@
   "compare": null,
   "available": true,
   "created": "2026-10-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040411-002-10-16007-101",
   "barcode": "",
   "spec": {
@@ -8124,7 +8124,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080081-001-10-990320-004",
   "barcode": "",
   "spec": {
@@ -8160,7 +8160,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04017-111-10-230171-001",
   "barcode": "",
   "spec": {
@@ -8196,7 +8196,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04009-112-10-160151-001",
   "barcode": "",
   "spec": {
@@ -8232,7 +8232,7 @@
   "compare": null,
   "available": false,
   "created": "2026-10-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080101-001-10-16007-121",
   "barcode": "",
   "spec": {
@@ -8269,7 +8269,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04009-114",
   "barcode": "",
   "spec": {
@@ -8305,7 +8305,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04009-113",
   "barcode": "",
   "spec": {
@@ -8341,7 +8341,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04004-128",
   "barcode": "",
   "spec": {
@@ -8377,7 +8377,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16007-121-10-040401-003",
   "barcode": "",
   "spec": {
@@ -8413,7 +8413,7 @@
   "compare": null,
   "available": false,
   "created": "2026-09-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080101-001-10-040401-003-10-16007-121",
   "barcode": "",
   "spec": {
@@ -8450,7 +8450,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040411-004",
   "barcode": "",
   "spec": {
@@ -8484,7 +8484,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040411-002",
   "barcode": "",
   "spec": {
@@ -8518,7 +8518,7 @@
   "compare": null,
   "available": false,
   "created": "2026-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040401-001",
   "barcode": "",
   "spec": {
@@ -8554,7 +8554,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040371-005",
   "barcode": "",
   "spec": {
@@ -8588,7 +8588,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160211-001",
   "barcode": "",
   "spec": {
@@ -8622,7 +8622,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040351-001",
   "barcode": "",
   "spec": {
@@ -8656,9 +8656,9 @@
   "url": "https://dreo.com/products/humidifier-311",
   "price": 39.99,
   "compare": null,
-  "available": true,
+  "available": false,
   "created": "2026-08-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160011-024",
   "barcode": "",
   "spec": {
@@ -8692,7 +8692,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04011-101",
   "barcode": "",
   "spec": {
@@ -8726,7 +8726,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04014-141",
   "barcode": "",
   "spec": {
@@ -8762,7 +8762,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010071-006-10-130050-001",
   "barcode": "",
   "spec": {
@@ -8798,7 +8798,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-230151-002-10-18004-101",
   "barcode": "",
   "spec": {
@@ -8834,7 +8834,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-230171-001",
   "barcode": "",
   "spec": {
@@ -8870,7 +8870,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-240101-001",
   "barcode": "",
   "spec": {
@@ -8907,7 +8907,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080091-006",
   "barcode": "",
   "spec": {
@@ -8944,7 +8944,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080031-003",
   "barcode": "",
   "spec": {
@@ -8980,7 +8980,7 @@
   "compare": null,
   "available": true,
   "created": "2026-05-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160170-001",
   "barcode": "",
   "spec": {
@@ -9014,7 +9014,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-240071-001",
   "barcode": "",
   "spec": {
@@ -9048,7 +9048,7 @@
   "compare": null,
   "available": false,
   "created": "2026-04-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080101-001",
   "barcode": "",
   "spec": {
@@ -9085,7 +9085,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04010-181",
   "barcode": "",
   "spec": {
@@ -9119,7 +9119,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080091-005",
   "barcode": "",
   "spec": {
@@ -9155,7 +9155,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080081-005",
   "barcode": "",
   "spec": {
@@ -9191,7 +9191,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080091-003",
   "barcode": "",
   "spec": {
@@ -9227,7 +9227,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080081-002",
   "barcode": "",
   "spec": {
@@ -9263,7 +9263,7 @@
   "compare": null,
   "available": true,
   "created": "2026-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-170031-001",
   "barcode": "",
   "spec": {
@@ -9304,7 +9304,7 @@
   "compare": null,
   "available": false,
   "created": "2026-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01018-112",
   "barcode": "",
   "spec": {
@@ -9338,7 +9338,7 @@
   "compare": null,
   "available": true,
   "created": "2026-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010171-001",
   "barcode": "",
   "spec": {
@@ -9374,7 +9374,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01010-121-10-99019-001",
   "barcode": "",
   "spec": {
@@ -9410,7 +9410,7 @@
   "compare": null,
   "available": false,
   "created": "2026-05-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-08006-113",
   "barcode": "",
   "spec": {
@@ -9444,7 +9444,7 @@
   "compare": null,
   "available": false,
   "created": "2026-05-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080061-002",
   "barcode": "",
   "spec": {
@@ -9478,7 +9478,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16005-141",
   "barcode": "",
   "spec": {
@@ -9514,7 +9514,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16005-113",
   "barcode": "",
   "spec": {
@@ -9550,7 +9550,7 @@
   "compare": null,
   "available": false,
   "created": "2026-04-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010241-001",
   "barcode": "",
   "spec": {
@@ -9584,7 +9584,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010211-001",
   "barcode": "",
   "spec": {
@@ -9620,7 +9620,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-130060-001",
   "barcode": "",
   "spec": {
@@ -9656,7 +9656,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-130050-001-10-130061-005",
   "barcode": "",
   "spec": {
@@ -9692,7 +9692,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-230151-002",
   "barcode": "",
   "spec": {
@@ -9728,7 +9728,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-110131-003",
   "barcode": "",
   "spec": {
@@ -9771,7 +9771,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-110101-001",
   "barcode": "",
   "spec": {
@@ -9812,7 +9812,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010211-002",
   "barcode": "",
   "spec": {
@@ -9846,7 +9846,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-130061-005",
   "barcode": "",
   "spec": {
@@ -9882,7 +9882,7 @@
   "compare": null,
   "available": true,
   "created": "2026-04-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-130050-001",
   "barcode": "",
   "spec": {
@@ -9918,7 +9918,7 @@
   "compare": null,
   "available": false,
   "created": "2026-03-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01018-101-10-18002-103",
   "barcode": "",
   "spec": {
@@ -9952,7 +9952,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23007-121-10-01009-101",
   "barcode": "",
   "spec": {
@@ -9988,7 +9988,7 @@
   "compare": null,
   "available": false,
   "created": "2026-03-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23013-101",
   "barcode": "",
   "spec": {
@@ -10022,7 +10022,7 @@
   "compare": null,
   "available": true,
   "created": "2023-12-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010071-006",
   "barcode": "",
   "spec": {
@@ -10056,7 +10056,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-180081-004",
   "barcode": "",
   "spec": {
@@ -10092,7 +10092,7 @@
   "compare": null,
   "available": true,
   "created": "2024-05-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24003-101",
   "barcode": "",
   "spec": {
@@ -10126,7 +10126,7 @@
   "compare": 105.98,
   "available": false,
   "created": "2025-10-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16011-111",
   "barcode": "",
   "spec": {
@@ -10162,7 +10162,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "XMS-10-16005-111-10-99027-011",
   "barcode": "",
   "spec": {
@@ -10198,7 +10198,7 @@
   "compare": null,
   "available": true,
   "created": "2026-02-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18001-111-10-01009-101",
   "barcode": "",
   "spec": {
@@ -10232,7 +10232,7 @@
   "compare": null,
   "available": false,
   "created": "2026-02-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18002-103-10-23004-121",
   "barcode": "",
   "spec": {
@@ -10266,7 +10266,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "XMS-10-16005-111-10-16004-101",
   "barcode": "",
   "spec": {
@@ -10302,7 +10302,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "XMS-10-16007-101-10-99017-112",
   "barcode": "",
   "spec": {
@@ -10338,7 +10338,7 @@
   "compare": null,
   "available": true,
   "created": "2026-01-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04028-101",
   "barcode": "",
   "spec": {
@@ -10372,7 +10372,7 @@
   "compare": null,
   "available": false,
   "created": "2025-04-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-230121-001",
   "barcode": "",
   "spec": {
@@ -10408,7 +10408,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NY-10-16004-101-10-16003-122",
   "barcode": "",
   "spec": {
@@ -10444,7 +10444,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160131-002",
   "barcode": "",
   "spec": {
@@ -10478,7 +10478,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160141-001",
   "barcode": "",
   "spec": {
@@ -10514,7 +10514,7 @@
   "compare": null,
   "available": true,
   "created": "2025-08-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160151-001",
   "barcode": "",
   "spec": {
@@ -10548,7 +10548,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04031-121",
   "barcode": "",
   "spec": {
@@ -10582,7 +10582,7 @@
   "compare": null,
   "available": false,
   "created": "2025-12-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04030-101",
   "barcode": "",
   "spec": {
@@ -10616,7 +10616,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "XMS-10-04008-121-10-16005-111",
   "barcode": "",
   "spec": {
@@ -10652,7 +10652,7 @@
   "compare": null,
   "available": true,
   "created": "2025-12-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "XMS-10-04004-129-10-04008-121",
   "barcode": "",
   "spec": {
@@ -10688,7 +10688,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04019-121",
   "barcode": "",
   "spec": {
@@ -10722,7 +10722,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-10-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04022-101",
   "barcode": "",
   "spec": {
@@ -10756,7 +10756,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-040151-001",
   "barcode": "",
   "spec": {
@@ -10792,7 +10792,7 @@
   "compare": null,
   "available": false,
   "created": "2025-09-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04034-101",
   "barcode": "",
   "spec": {
@@ -10828,7 +10828,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04025-122",
   "barcode": "",
   "spec": {
@@ -10864,7 +10864,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160091-001",
   "barcode": "",
   "spec": {
@@ -10900,7 +10900,7 @@
   "compare": null,
   "available": true,
   "created": "2025-09-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04033-101",
   "barcode": "",
   "spec": {
@@ -10936,7 +10936,7 @@
   "compare": null,
   "available": true,
   "created": "2025-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04020-101",
   "barcode": "",
   "spec": {
@@ -10973,7 +10973,7 @@
   "compare": null,
   "available": true,
   "created": "2025-08-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-17001-101",
   "barcode": "",
   "spec": {
@@ -11010,7 +11010,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23007-121",
   "barcode": "",
   "spec": {
@@ -11046,7 +11046,7 @@
   "compare": null,
   "available": false,
   "created": "2025-07-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-080041-001",
   "barcode": "",
   "spec": {
@@ -11080,7 +11080,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16002-111",
   "barcode": "",
   "spec": {
@@ -11116,7 +11116,7 @@
   "compare": null,
   "available": true,
   "created": "2025-06-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24004-101",
   "barcode": "",
   "spec": {
@@ -11152,7 +11152,7 @@
   "compare": null,
   "available": true,
   "created": "2025-05-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24005-101",
   "barcode": "",
   "spec": {
@@ -11188,7 +11188,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24004-102",
   "barcode": "",
   "spec": {
@@ -11224,7 +11224,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01005-122",
   "barcode": "",
   "spec": {
@@ -11258,7 +11258,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010091-003",
   "barcode": "",
   "spec": {
@@ -11292,7 +11292,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24005-102",
   "barcode": "",
   "spec": {
@@ -11328,7 +11328,7 @@
   "compare": null,
   "available": true,
   "created": "2025-03-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01018-101",
   "barcode": "",
   "spec": {
@@ -11362,7 +11362,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01017-101",
   "barcode": "",
   "spec": {
@@ -11398,7 +11398,7 @@
   "compare": null,
   "available": true,
   "created": "2025-02-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16007-101",
   "barcode": "",
   "spec": {
@@ -11434,7 +11434,7 @@
   "compare": 106.99,
   "available": false,
   "created": "2025-01-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23011-101",
   "barcode": "",
   "spec": {
@@ -11468,7 +11468,7 @@
   "compare": null,
   "available": true,
   "created": "2025-01-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23008-111",
   "barcode": "",
   "spec": {
@@ -11504,7 +11504,7 @@
   "compare": null,
   "available": true,
   "created": "2025-01-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18007-111",
   "barcode": "",
   "spec": {
@@ -11540,7 +11540,7 @@
   "compare": null,
   "available": true,
   "created": "2025-02-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-08004-112",
   "barcode": "",
   "spec": {
@@ -11574,7 +11574,7 @@
   "compare": null,
   "available": false,
   "created": "2025-02-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01004-143",
   "barcode": "",
   "spec": {
@@ -11608,7 +11608,7 @@
   "compare": null,
   "available": true,
   "created": "2025-01-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23006-181",
   "barcode": "",
   "spec": {
@@ -11642,7 +11642,7 @@
   "compare": null,
   "available": true,
   "created": "2024-11-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16002-115",
   "barcode": "",
   "spec": {
@@ -11678,7 +11678,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160061-003",
   "barcode": "",
   "spec": {
@@ -11714,7 +11714,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04016-101",
   "barcode": "",
   "spec": {
@@ -11750,7 +11750,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160061-001",
   "barcode": "",
   "spec": {
@@ -11786,7 +11786,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16005-111",
   "barcode": "",
   "spec": {
@@ -11822,7 +11822,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04008-121",
   "barcode": "",
   "spec": {
@@ -11858,7 +11858,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04017-111",
   "barcode": "",
   "spec": {
@@ -11892,7 +11892,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04017-112",
   "barcode": "",
   "spec": {
@@ -11928,7 +11928,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04014-121",
   "barcode": "",
   "spec": {
@@ -11964,7 +11964,7 @@
   "compare": null,
   "available": true,
   "created": "2024-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-180051-004",
   "barcode": "",
   "spec": {
@@ -12000,7 +12000,7 @@
   "compare": null,
   "available": true,
   "created": "2024-07-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-240021-002",
   "barcode": "",
   "spec": {
@@ -12034,7 +12034,7 @@
   "compare": null,
   "available": true,
   "created": "2024-07-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-160041-003",
   "barcode": "",
   "spec": {
@@ -12068,7 +12068,7 @@
   "compare": null,
   "available": true,
   "created": "2024-06-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16004-101",
   "barcode": "",
   "spec": {
@@ -12104,7 +12104,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01009-101",
   "barcode": "",
   "spec": {
@@ -12140,7 +12140,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23002-123",
   "barcode": "",
   "spec": {
@@ -12174,7 +12174,7 @@
   "compare": null,
   "available": true,
   "created": "2024-05-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24001-111",
   "barcode": "",
   "spec": {
@@ -12208,7 +12208,7 @@
   "compare": null,
   "available": false,
   "created": "2024-05-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-24003-114",
   "barcode": "",
   "spec": {
@@ -12242,7 +12242,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01010-121",
   "barcode": "",
   "spec": {
@@ -12276,7 +12276,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23002-102",
   "barcode": "",
   "spec": {
@@ -12310,7 +12310,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23005-121",
   "barcode": "",
   "spec": {
@@ -12344,7 +12344,7 @@
   "compare": null,
   "available": false,
   "created": "2024-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-23004-121",
   "barcode": "",
   "spec": {
@@ -12378,7 +12378,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01008-101",
   "barcode": "",
   "spec": {
@@ -12414,7 +12414,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01008-102",
   "barcode": "",
   "spec": {
@@ -12450,7 +12450,7 @@
   "compare": null,
   "available": false,
   "created": "2024-03-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-01004-121",
   "barcode": "",
   "spec": {
@@ -12486,7 +12486,7 @@
   "compare": null,
   "available": true,
   "created": "2023-12-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-010071-012",
   "barcode": "",
   "spec": {
@@ -12520,7 +12520,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04003-126",
   "barcode": "",
   "spec": {
@@ -12554,7 +12554,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04013-144",
   "barcode": "",
   "spec": {
@@ -12588,7 +12588,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04009-112",
   "barcode": "",
   "spec": {
@@ -12624,7 +12624,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16001-117",
   "barcode": "",
   "spec": {
@@ -12660,7 +12660,7 @@
   "compare": null,
   "available": false,
   "created": "2023-09-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16001-107",
   "barcode": "",
   "spec": {
@@ -12696,7 +12696,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-16003-122",
   "barcode": "",
   "spec": {
@@ -12730,7 +12730,7 @@
   "compare": null,
   "available": true,
   "created": "2023-07-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04006-146",
   "barcode": "",
   "spec": {
@@ -12764,7 +12764,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18004-101",
   "barcode": "",
   "spec": {
@@ -12800,7 +12800,7 @@
   "compare": null,
   "available": false,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18003-181",
   "barcode": "",
   "spec": {
@@ -12836,7 +12836,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18002-103",
   "barcode": "",
   "spec": {
@@ -12872,7 +12872,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18001-101",
   "barcode": "",
   "spec": {
@@ -12908,7 +12908,7 @@
   "compare": null,
   "available": true,
   "created": "2023-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-18001-102",
   "barcode": "",
   "spec": {
@@ -12942,7 +12942,7 @@
   "compare": null,
   "available": true,
   "created": "2021-12-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04003-103",
   "barcode": "",
   "spec": {
@@ -12978,7 +12978,7 @@
   "compare": null,
   "available": true,
   "created": "2021-12-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "10-04004-129",
   "barcode": "",
   "spec": {
@@ -13015,7 +13015,7 @@
   "compare": 114.99,
   "available": true,
   "created": "2026-10-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0237-06",
   "barcode": "",
   "spec": {
@@ -13049,7 +13049,7 @@
   "compare": 34.99,
   "available": false,
   "created": "2026-10-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0108-140",
   "barcode": "",
   "spec": {
@@ -13083,7 +13083,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2026-10-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0110-140",
   "barcode": "",
   "spec": {
@@ -13117,7 +13117,7 @@
   "compare": null,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "GP2-0002-06",
   "barcode": "",
   "spec": {
@@ -13153,7 +13153,7 @@
   "compare": null,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "GL3-0102-06",
   "barcode": "",
   "spec": {
@@ -13189,7 +13189,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2026-09-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0246-83",
   "barcode": "",
   "spec": {
@@ -13225,7 +13225,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0265-06",
   "barcode": "",
   "spec": {
@@ -13261,7 +13261,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-12-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0240-43",
   "barcode": "",
   "spec": {
@@ -13297,7 +13297,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2026-05-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0236-06",
   "barcode": "",
   "spec": {
@@ -13331,7 +13331,7 @@
   "compare": null,
   "available": false,
   "created": "2026-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0114-26",
   "barcode": "",
   "spec": {
@@ -13371,7 +13371,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0509-140",
   "barcode": "",
   "spec": {
@@ -13407,7 +13407,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0510-140",
   "barcode": "",
   "spec": {
@@ -13443,7 +13443,7 @@
   "compare": 19.99,
   "available": true,
   "created": "2026-04-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0496-137",
   "barcode": "",
   "spec": {
@@ -13479,7 +13479,7 @@
   "compare": 19.99,
   "available": true,
   "created": "2026-04-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0496-06",
   "barcode": "",
   "spec": {
@@ -13515,7 +13515,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0290-06",
   "barcode": "",
   "spec": {
@@ -13557,7 +13557,7 @@
   "compare": null,
   "available": false,
   "created": "2026-04-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0245-06",
   "barcode": "",
   "spec": {
@@ -13599,7 +13599,7 @@
   "compare": 199.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0216-83",
   "barcode": "",
   "spec": {
@@ -13635,7 +13635,7 @@
   "compare": 54.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0073-06",
   "barcode": "",
   "spec": {
@@ -13671,7 +13671,7 @@
   "compare": 54.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0116-06",
   "barcode": "",
   "spec": {
@@ -13707,7 +13707,7 @@
   "compare": 19.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0094-06",
   "barcode": "",
   "spec": {
@@ -13743,7 +13743,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0061-17",
   "barcode": "",
   "spec": {
@@ -13779,7 +13779,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0089-16",
   "barcode": "",
   "spec": {
@@ -13815,7 +13815,7 @@
   "compare": 54.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0253-06",
   "barcode": "",
   "spec": {
@@ -13851,7 +13851,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0276-06",
   "barcode": "",
   "spec": {
@@ -13887,7 +13887,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2026-02-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0121-06",
   "barcode": "",
   "spec": {
@@ -13923,7 +13923,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2026-02-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0225-06",
   "barcode": "",
   "spec": {
@@ -13959,7 +13959,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2026-02-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0387-06",
   "barcode": "",
   "spec": {
@@ -13995,7 +13995,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2026-02-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0168-06",
   "barcode": "",
   "spec": {
@@ -14031,7 +14031,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2026-02-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0281-43",
   "barcode": "",
   "spec": {
@@ -14067,7 +14067,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0223-06",
   "barcode": "",
   "spec": {
@@ -14103,7 +14103,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0137-06",
   "barcode": "",
   "spec": {
@@ -14139,7 +14139,7 @@
   "compare": 109.99,
   "available": true,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0136-06",
   "barcode": "",
   "spec": {
@@ -14175,7 +14175,7 @@
   "compare": 39.99,
   "available": false,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0157-06",
   "barcode": "",
   "spec": {
@@ -14209,7 +14209,7 @@
   "compare": 49.99,
   "available": false,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0158-06",
   "barcode": "",
   "spec": {
@@ -14243,7 +14243,7 @@
   "compare": 74.99,
   "available": false,
   "created": "2026-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0159-06",
   "barcode": "",
   "spec": {
@@ -14277,7 +14277,7 @@
   "compare": 94.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0160-06",
   "barcode": "",
   "spec": {
@@ -14311,7 +14311,7 @@
   "compare": 114.99,
   "available": false,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0161-06",
   "barcode": "",
   "spec": {
@@ -14345,7 +14345,7 @@
   "compare": 124.99,
   "available": false,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0180-06",
   "barcode": "",
   "spec": {
@@ -14379,7 +14379,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0283-43",
   "barcode": "",
   "spec": {
@@ -14415,7 +14415,7 @@
   "compare": 289.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0244-17",
   "barcode": "",
   "spec": {
@@ -14451,7 +14451,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0230-17",
   "barcode": "",
   "spec": {
@@ -14487,7 +14487,7 @@
   "compare": 114.99,
   "available": false,
   "created": "2026-01-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0172-43",
   "barcode": "",
   "spec": {
@@ -14521,7 +14521,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0046-43",
   "barcode": "",
   "spec": {
@@ -14557,7 +14557,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0097-124",
   "barcode": "",
   "spec": {
@@ -14597,7 +14597,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0044-59",
   "barcode": "",
   "spec": {
@@ -14637,7 +14637,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0185-06",
   "barcode": "",
   "spec": {
@@ -14677,7 +14677,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0109-06",
   "barcode": "",
   "spec": {
@@ -14717,7 +14717,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0059-06",
   "barcode": "",
   "spec": {
@@ -14757,7 +14757,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0052-06",
   "barcode": "",
   "spec": {
@@ -14797,7 +14797,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0051-47",
   "barcode": "",
   "spec": {
@@ -14837,7 +14837,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0050-06",
   "barcode": "",
   "spec": {
@@ -14877,7 +14877,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0032-06",
   "barcode": "",
   "spec": {
@@ -14917,7 +14917,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0167-06",
   "barcode": "",
   "spec": {
@@ -14957,7 +14957,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0090-58",
   "barcode": "",
   "spec": {
@@ -14997,7 +14997,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0089-57",
   "barcode": "",
   "spec": {
@@ -15037,7 +15037,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0124-06",
   "barcode": "",
   "spec": {
@@ -15077,7 +15077,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0028-06",
   "barcode": "",
   "spec": {
@@ -15117,7 +15117,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0217-06",
   "barcode": "",
   "spec": {
@@ -15157,7 +15157,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0106-43",
   "barcode": "",
   "spec": {
@@ -15197,7 +15197,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0197-06",
   "barcode": "",
   "spec": {
@@ -15239,7 +15239,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0397-06",
   "barcode": "",
   "spec": {
@@ -15281,7 +15281,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0458-43",
   "barcode": "",
   "spec": {
@@ -15323,7 +15323,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0097-06",
   "barcode": "",
   "spec": {
@@ -15365,7 +15365,7 @@
   "compare": 139.99,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0196-06",
   "barcode": "",
   "spec": {
@@ -15401,7 +15401,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0175-06",
   "barcode": "",
   "spec": {
@@ -15443,7 +15443,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0195-06",
   "barcode": "",
   "spec": {
@@ -15485,7 +15485,7 @@
   "compare": 77.99,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0315-06",
   "barcode": "",
   "spec": {
@@ -15521,7 +15521,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0186-06",
   "barcode": "",
   "spec": {
@@ -15563,7 +15563,7 @@
   "compare": null,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0222-06",
   "barcode": "",
   "spec": {
@@ -15605,7 +15605,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0257-06",
   "barcode": "",
   "spec": {
@@ -15641,7 +15641,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0223-06",
   "barcode": "",
   "spec": {
@@ -15677,7 +15677,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0139-06",
   "barcode": "",
   "spec": {
@@ -15714,7 +15714,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0119-06",
   "barcode": "",
   "spec": {
@@ -15750,7 +15750,7 @@
   "compare": 44.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0118-06",
   "barcode": "",
   "spec": {
@@ -15786,7 +15786,7 @@
   "compare": 49.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0101-06",
   "barcode": "",
   "spec": {
@@ -15822,7 +15822,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0354-06",
   "barcode": "",
   "spec": {
@@ -15858,7 +15858,7 @@
   "compare": 44.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0353-06",
   "barcode": "",
   "spec": {
@@ -15894,7 +15894,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0229-56",
   "barcode": "",
   "spec": {
@@ -15930,7 +15930,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0044-43",
   "barcode": "",
   "spec": {
@@ -15966,7 +15966,7 @@
   "compare": 319.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0019-43",
   "barcode": "",
   "spec": {
@@ -16002,7 +16002,7 @@
   "compare": 469.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0018-06",
   "barcode": "",
   "spec": {
@@ -16038,7 +16038,7 @@
   "compare": 369.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0017-06",
   "barcode": "",
   "spec": {
@@ -16074,7 +16074,7 @@
   "compare": 49.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0084-06",
   "barcode": "",
   "spec": {
@@ -16110,7 +16110,7 @@
   "compare": 129.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0067-06",
   "barcode": "",
   "spec": {
@@ -16146,7 +16146,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0066-06",
   "barcode": "",
   "spec": {
@@ -16182,7 +16182,7 @@
   "compare": 109.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0053-06",
   "barcode": "",
   "spec": {
@@ -16216,7 +16216,7 @@
   "compare": 159.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0041-44",
   "barcode": "",
   "spec": {
@@ -16252,7 +16252,7 @@
   "compare": 209.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0036-46",
   "barcode": "",
   "spec": {
@@ -16288,7 +16288,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0034-06",
   "barcode": "",
   "spec": {
@@ -16324,7 +16324,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0025-06",
   "barcode": "",
   "spec": {
@@ -16358,7 +16358,7 @@
   "compare": 179.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0117-83",
   "barcode": "",
   "spec": {
@@ -16394,7 +16394,7 @@
   "compare": 134.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0116-43",
   "barcode": "",
   "spec": {
@@ -16430,7 +16430,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0115-85",
   "barcode": "",
   "spec": {
@@ -16466,7 +16466,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0104-06",
   "barcode": "",
   "spec": {
@@ -16502,7 +16502,7 @@
   "compare": 179.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0098-43",
   "barcode": "",
   "spec": {
@@ -16538,7 +16538,7 @@
   "compare": 179.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0139-06",
   "barcode": "",
   "spec": {
@@ -16574,7 +16574,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0174-06",
   "barcode": "",
   "spec": {
@@ -16610,7 +16610,7 @@
   "compare": 124.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0191-43",
   "barcode": "",
   "spec": {
@@ -16644,7 +16644,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0192-06",
   "barcode": "",
   "spec": {
@@ -16678,7 +16678,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0214-06",
   "barcode": "",
   "spec": {
@@ -16714,7 +16714,7 @@
   "compare": 159.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0022-06",
   "barcode": "",
   "spec": {
@@ -16751,7 +16751,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0029-06",
   "barcode": "",
   "spec": {
@@ -16787,7 +16787,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0034-06",
   "barcode": "",
   "spec": {
@@ -16824,7 +16824,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0057-43",
   "barcode": "",
   "spec": {
@@ -16858,7 +16858,7 @@
   "compare": 129.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0062-43",
   "barcode": "",
   "spec": {
@@ -16894,7 +16894,7 @@
   "compare": 109.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0063-43",
   "barcode": "",
   "spec": {
@@ -16930,7 +16930,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0064-43",
   "barcode": "",
   "spec": {
@@ -16964,7 +16964,7 @@
   "compare": 114.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0031-06",
   "barcode": "",
   "spec": {
@@ -17000,7 +17000,7 @@
   "compare": 74.99,
   "available": false,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0092-06",
   "barcode": "",
   "spec": {
@@ -17036,7 +17036,7 @@
   "compare": 169.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0121-17",
   "barcode": "",
   "spec": {
@@ -17070,7 +17070,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0007-06",
   "barcode": "",
   "spec": {
@@ -17107,7 +17107,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2026-02-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0228-06",
   "barcode": "",
   "spec": {
@@ -17141,7 +17141,7 @@
   "compare": 94.99,
   "available": true,
   "created": "2026-02-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0233-06",
   "barcode": "",
   "spec": {
@@ -17175,7 +17175,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2026-02-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0238-54",
   "barcode": "",
   "spec": {
@@ -17209,7 +17209,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2026-01-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0086-43",
   "barcode": "",
   "spec": {
@@ -17245,7 +17245,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0473-06",
   "barcode": "",
   "spec": {
@@ -17281,7 +17281,7 @@
   "compare": 44.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0407-06",
   "barcode": "",
   "spec": {
@@ -17317,7 +17317,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0409-06",
   "barcode": "",
   "spec": {
@@ -17353,7 +17353,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0408-06",
   "barcode": "",
   "spec": {
@@ -17389,7 +17389,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0246-132",
   "barcode": "",
   "spec": {
@@ -17425,7 +17425,7 @@
   "compare": 119.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0495-06",
   "barcode": "",
   "spec": {
@@ -17461,7 +17461,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0235-82",
   "barcode": "",
   "spec": {
@@ -17497,7 +17497,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0236-82",
   "barcode": "",
   "spec": {
@@ -17533,7 +17533,7 @@
   "compare": 29.99,
   "available": false,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0491-113",
   "barcode": "",
   "spec": {
@@ -17569,7 +17569,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0247-06",
   "barcode": "",
   "spec": {
@@ -17605,7 +17605,7 @@
   "compare": 74.99,
   "available": false,
   "created": "2025-12-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0201-06",
   "barcode": "",
   "spec": {
@@ -17641,7 +17641,7 @@
   "compare": 109.99,
   "available": false,
   "created": "2025-12-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0076-06",
   "barcode": "",
   "spec": {
@@ -17678,7 +17678,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0098-43",
   "barcode": "",
   "spec": {
@@ -17714,7 +17714,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0221-06",
   "barcode": "",
   "spec": {
@@ -17751,7 +17751,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-01-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0220-06",
   "barcode": "",
   "spec": {
@@ -17788,7 +17788,7 @@
   "compare": 44.99,
   "available": true,
   "created": "2025-12-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0099-141",
   "barcode": "",
   "spec": {
@@ -17824,7 +17824,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2025-12-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0225-114",
   "barcode": "",
   "spec": {
@@ -17858,9 +17858,9 @@
   "url": "https://vornado.com/products/vornado-vh204-parent",
   "price": 34.99,
   "compare": 34.99,
-  "available": true,
+  "available": false,
   "created": "2025-12-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0224-141",
   "barcode": "",
   "spec": {
@@ -17896,7 +17896,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-12-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0224-06",
   "barcode": "",
   "spec": {
@@ -17932,7 +17932,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2025-12-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0282-136",
   "barcode": "",
   "spec": {
@@ -17968,7 +17968,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2025-12-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0494-06",
   "barcode": "",
   "spec": {
@@ -18004,7 +18004,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-12-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0230-43",
   "barcode": "",
   "spec": {
@@ -18040,7 +18040,7 @@
   "compare": 139.99,
   "available": false,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0232-06",
   "barcode": "",
   "spec": {
@@ -18076,7 +18076,7 @@
   "compare": 74.99,
   "available": false,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0231-06",
   "barcode": "",
   "spec": {
@@ -18112,7 +18112,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0229-06",
   "barcode": "",
   "spec": {
@@ -18148,7 +18148,7 @@
   "compare": 34.99,
   "available": false,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0227-06",
   "barcode": "",
   "spec": {
@@ -18184,7 +18184,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0244-43",
   "barcode": "",
   "spec": {
@@ -18220,7 +18220,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0241-06",
   "barcode": "",
   "spec": {
@@ -18256,7 +18256,7 @@
   "compare": 94.99,
   "available": false,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0226-17",
   "barcode": "",
   "spec": {
@@ -18292,7 +18292,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0219-43",
   "barcode": "",
   "spec": {
@@ -18328,7 +18328,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0104-128",
   "barcode": "",
   "spec": {
@@ -18364,7 +18364,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0103-128",
   "barcode": "",
   "spec": {
@@ -18400,7 +18400,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-12-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0102-128",
   "barcode": "",
   "spec": {
@@ -18436,7 +18436,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-09-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0241-65",
   "barcode": "",
   "spec": {
@@ -18472,7 +18472,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-05-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0240-43",
   "barcode": "",
   "spec": {
@@ -18508,7 +18508,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0021-06",
   "barcode": "",
   "spec": {
@@ -18544,7 +18544,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0074-06",
   "barcode": "",
   "spec": {
@@ -18580,7 +18580,7 @@
   "compare": 129.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0070-06",
   "barcode": "",
   "spec": {
@@ -18616,7 +18616,7 @@
   "compare": 139.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0075-06",
   "barcode": "",
   "spec": {
@@ -18653,7 +18653,7 @@
   "compare": 159.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0076-06",
   "barcode": "",
   "spec": {
@@ -18689,7 +18689,7 @@
   "compare": 29.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0095-06",
   "barcode": "",
   "spec": {
@@ -18726,7 +18726,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0120-06",
   "barcode": "",
   "spec": {
@@ -18762,7 +18762,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0165-06",
   "barcode": "",
   "spec": {
@@ -18798,7 +18798,7 @@
   "compare": 149.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0038-43",
   "barcode": "",
   "spec": {
@@ -18836,7 +18836,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0040-43",
   "barcode": "",
   "spec": {
@@ -18873,7 +18873,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0184-06",
   "barcode": "",
   "spec": {
@@ -18909,7 +18909,7 @@
   "compare": 349.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0042-43",
   "barcode": "",
   "spec": {
@@ -18946,7 +18946,7 @@
   "compare": 399.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0043-43",
   "barcode": "",
   "spec": {
@@ -18983,7 +18983,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0194-06",
   "barcode": "",
   "spec": {
@@ -19019,7 +19019,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0045-07",
   "barcode": "",
   "spec": {
@@ -19055,7 +19055,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0221-06",
   "barcode": "",
   "spec": {
@@ -19091,7 +19091,7 @@
   "compare": 94.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0020-25",
   "barcode": "",
   "spec": {
@@ -19127,7 +19127,7 @@
   "compare": 84.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0226-06",
   "barcode": "",
   "spec": {
@@ -19163,7 +19163,7 @@
   "compare": 129.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0237-73",
   "barcode": "",
   "spec": {
@@ -19199,7 +19199,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0238-73",
   "barcode": "",
   "spec": {
@@ -19235,7 +19235,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0240-43",
   "barcode": "",
   "spec": {
@@ -19271,7 +19271,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0241-43",
   "barcode": "",
   "spec": {
@@ -19307,7 +19307,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0254-06",
   "barcode": "",
   "spec": {
@@ -19343,7 +19343,7 @@
   "compare": 159.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0259-43",
   "barcode": "",
   "spec": {
@@ -19379,7 +19379,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0273-73",
   "barcode": "",
   "spec": {
@@ -19415,7 +19415,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0274-73",
   "barcode": "",
   "spec": {
@@ -19451,7 +19451,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0275-73",
   "barcode": "",
   "spec": {
@@ -19487,7 +19487,7 @@
   "compare": 199.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0277-73",
   "barcode": "",
   "spec": {
@@ -19523,7 +19523,7 @@
   "compare": 119.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0310-06",
   "barcode": "",
   "spec": {
@@ -19559,7 +19559,7 @@
   "compare": 139.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0311-06",
   "barcode": "",
   "spec": {
@@ -19595,7 +19595,7 @@
   "compare": 174.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0312-73",
   "barcode": "",
   "spec": {
@@ -19631,7 +19631,7 @@
   "compare": 84.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0054-06",
   "barcode": "",
   "spec": {
@@ -19667,7 +19667,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0313-73",
   "barcode": "",
   "spec": {
@@ -19703,7 +19703,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0314-16",
   "barcode": "",
   "spec": {
@@ -19739,7 +19739,7 @@
   "compare": 49.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0316-43",
   "barcode": "",
   "spec": {
@@ -19775,7 +19775,7 @@
   "compare": 74.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0091-06",
   "barcode": "",
   "spec": {
@@ -19811,7 +19811,7 @@
   "compare": 44.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0349-73",
   "barcode": "",
   "spec": {
@@ -19847,7 +19847,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0095-06",
   "barcode": "",
   "spec": {
@@ -19883,7 +19883,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0096-43",
   "barcode": "",
   "spec": {
@@ -19919,7 +19919,7 @@
   "compare": 139.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0097-06",
   "barcode": "",
   "spec": {
@@ -19955,7 +19955,7 @@
   "compare": 39.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0356-06",
   "barcode": "",
   "spec": {
@@ -19991,7 +19991,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0384-43",
   "barcode": "",
   "spec": {
@@ -20027,7 +20027,7 @@
   "compare": 34.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0105-06",
   "barcode": "",
   "spec": {
@@ -20063,7 +20063,7 @@
   "compare": 44.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0388-06",
   "barcode": "",
   "spec": {
@@ -20099,7 +20099,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0389-17",
   "barcode": "",
   "spec": {
@@ -20135,7 +20135,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0393-06",
   "barcode": "",
   "spec": {
@@ -20171,7 +20171,7 @@
   "compare": 34.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0120-69",
   "barcode": "",
   "spec": {
@@ -20207,7 +20207,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0410-06",
   "barcode": "",
   "spec": {
@@ -20243,7 +20243,7 @@
   "compare": 129.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0461-06",
   "barcode": "",
   "spec": {
@@ -20279,7 +20279,7 @@
   "compare": 34.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0133-06",
   "barcode": "",
   "spec": {
@@ -20315,7 +20315,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0135-06",
   "barcode": "",
   "spec": {
@@ -20351,7 +20351,7 @@
   "compare": 174.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0448-73",
   "barcode": "",
   "spec": {
@@ -20387,7 +20387,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0457-43",
   "barcode": "",
   "spec": {
@@ -20423,7 +20423,7 @@
   "compare": 84.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0137-43",
   "barcode": "",
   "spec": {
@@ -20459,7 +20459,7 @@
   "compare": 149.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0138-43",
   "barcode": "",
   "spec": {
@@ -20495,7 +20495,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0472-06",
   "barcode": "",
   "spec": {
@@ -20531,7 +20531,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0477-06",
   "barcode": "",
   "spec": {
@@ -20567,7 +20567,7 @@
   "compare": 134.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0142-06",
   "barcode": "",
   "spec": {
@@ -20603,7 +20603,7 @@
   "compare": 89.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CR1-0482-17",
   "barcode": "",
   "spec": {
@@ -20639,7 +20639,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0149-06",
   "barcode": "",
   "spec": {
@@ -20675,7 +20675,7 @@
   "compare": 94.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0181-17",
   "barcode": "",
   "spec": {
@@ -20711,7 +20711,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0003-13",
   "barcode": "",
   "spec": {
@@ -20747,7 +20747,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0193-85",
   "barcode": "",
   "spec": {
@@ -20783,7 +20783,7 @@
   "compare": 199.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0195-83",
   "barcode": "",
   "spec": {
@@ -20819,7 +20819,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0212-43",
   "barcode": "",
   "spec": {
@@ -20855,7 +20855,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0213-06",
   "barcode": "",
   "spec": {
@@ -20889,7 +20889,7 @@
   "compare": 119.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0060-06",
   "barcode": "",
   "spec": {
@@ -20925,7 +20925,7 @@
   "compare": 149.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0045-65",
   "barcode": "",
   "spec": {
@@ -20962,7 +20962,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0048-43",
   "barcode": "",
   "spec": {
@@ -20998,7 +20998,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0049-43",
   "barcode": "",
   "spec": {
@@ -21034,7 +21034,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0050-43",
   "barcode": "",
   "spec": {
@@ -21070,7 +21070,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0052-43",
   "barcode": "",
   "spec": {
@@ -21106,7 +21106,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0206-06",
   "barcode": "",
   "spec": {
@@ -21142,7 +21142,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0210-06",
   "barcode": "",
   "spec": {
@@ -21178,7 +21178,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0212-06",
   "barcode": "",
   "spec": {
@@ -21214,7 +21214,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0068-43",
   "barcode": "",
   "spec": {
@@ -21250,7 +21250,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0213-06",
   "barcode": "",
   "spec": {
@@ -21286,7 +21286,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0214-06",
   "barcode": "",
   "spec": {
@@ -21322,7 +21322,7 @@
   "compare": 174.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0069-43",
   "barcode": "",
   "spec": {
@@ -21358,7 +21358,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0215-06",
   "barcode": "",
   "spec": {
@@ -21394,7 +21394,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0090-124",
   "barcode": "",
   "spec": {
@@ -21430,7 +21430,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0092-124",
   "barcode": "",
   "spec": {
@@ -21466,7 +21466,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0217-17",
   "barcode": "",
   "spec": {
@@ -21502,7 +21502,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0098-06",
   "barcode": "",
   "spec": {
@@ -21538,7 +21538,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0100-125",
   "barcode": "",
   "spec": {
@@ -21574,7 +21574,7 @@
   "compare": 119.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0234-06",
   "barcode": "",
   "spec": {
@@ -21610,7 +21610,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FA1-0237-06",
   "barcode": "",
   "spec": {
@@ -21646,7 +21646,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2025-02-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HU1-0091-124",
   "barcode": "",
   "spec": {
@@ -21682,7 +21682,7 @@
   "compare": 249.99,
   "available": false,
   "created": "2025-02-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC1-0039-43",
   "barcode": "",
   "spec": {
@@ -21720,7 +21720,7 @@
   "compare": 139.99,
   "available": false,
   "created": "2025-02-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EH1-0194-43",
   "barcode": "",
   "spec": {
@@ -21756,7 +21756,7 @@
   "compare": null,
   "available": true,
   "created": "2026-10-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD01G1C01",
   "barcode": "",
   "spec": {
@@ -21792,7 +21792,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD150AD01-W",
   "barcode": "",
   "spec": {
@@ -21829,7 +21829,7 @@
   "compare": null,
   "available": true,
   "created": "2026-02-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD400AD01-W",
   "barcode": "",
   "spec": {
@@ -21865,7 +21865,7 @@
   "compare": null,
   "available": true,
   "created": "2026-02-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD550AD01",
   "barcode": "",
   "spec": {
@@ -21902,7 +21902,7 @@
   "compare": null,
   "available": true,
   "created": "2026-02-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD350AD01",
   "barcode": "",
   "spec": {
@@ -21939,7 +21939,7 @@
   "compare": null,
   "available": true,
   "created": "2026-02-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "90AD200AD01",
   "barcode": "",
   "spec": {
@@ -21976,7 +21976,7 @@
   "compare": 249.84,
   "available": true,
   "created": "2023-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-270HB",
   "barcode": "",
   "spec": {
@@ -22014,7 +22014,7 @@
   "compare": 449.84,
   "available": true,
   "created": "2023-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-270C",
   "barcode": "",
   "spec": {
@@ -22051,7 +22051,7 @@
   "compare": 1195.2,
   "available": true,
   "created": "2024-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-200C-3",
   "barcode": "",
   "spec": {
@@ -22090,7 +22090,7 @@
   "compare": 796.8,
   "available": true,
   "created": "2024-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-200C-2",
   "barcode": "",
   "spec": {
@@ -22129,7 +22129,7 @@
   "compare": 1049.52,
   "available": true,
   "created": "2024-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-150C-3",
   "barcode": "",
   "spec": {
@@ -22168,7 +22168,7 @@
   "compare": 699.68,
   "available": true,
   "created": "2024-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-150C-2",
   "barcode": "",
   "spec": {
@@ -22207,7 +22207,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2024-02-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "100286",
   "barcode": "",
   "spec": {
@@ -22241,7 +22241,7 @@
   "compare": 398.4,
   "available": true,
   "created": "2024-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-200C",
   "barcode": "",
   "spec": {
@@ -22279,7 +22279,7 @@
   "compare": 349.84,
   "available": true,
   "created": "2024-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-150C",
   "barcode": "",
   "spec": {
@@ -22317,7 +22317,7 @@
   "compare": 219.84,
   "available": true,
   "created": "2023-11-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-200HB",
   "barcode": "",
   "spec": {
@@ -22355,7 +22355,7 @@
   "compare": 179.84,
   "available": true,
   "created": "2023-12-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AMD-150HB",
   "barcode": "",
   "spec": {
@@ -22393,7 +22393,7 @@
   "compare": 1799.52,
   "available": true,
   "created": "2024-02-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MJR01-3",
   "barcode": "",
   "spec": {
@@ -22432,7 +22432,7 @@
   "compare": 1199.68,
   "available": true,
   "created": "2024-02-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MJR01-2",
   "barcode": "",
   "spec": {
@@ -22471,7 +22471,7 @@
   "compare": 2549.52,
   "available": true,
   "created": "2024-02-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MD02-3",
   "barcode": "",
   "spec": {
@@ -22510,7 +22510,7 @@
   "compare": 1699.68,
   "available": true,
   "created": "2024-02-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MD02-2",
   "barcode": "",
   "spec": {
@@ -22549,7 +22549,7 @@
   "compare": 849.84,
   "available": true,
   "created": "2023-05-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MD02",
   "barcode": "",
   "spec": {
@@ -22588,7 +22588,7 @@
   "compare": 599.84,
   "available": true,
   "created": "2021-04-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MJR01",
   "barcode": "",
   "spec": {
@@ -22627,7 +22627,7 @@
   "compare": 898,
   "available": true,
   "created": "2024-07-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -22661,7 +22661,7 @@
   "compare": 578,
   "available": true,
   "created": "2024-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -22697,7 +22697,7 @@
   "compare": 1347,
   "available": true,
   "created": "2024-07-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -22731,7 +22731,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "700111",
   "barcode": "",
   "spec": {
@@ -22767,7 +22767,7 @@
   "compare": 867,
   "available": true,
   "created": "2024-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -22803,7 +22803,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "170116",
   "barcode": "",
   "spec": {
@@ -22839,7 +22839,7 @@
   "compare": 199,
   "available": true,
   "created": "2014-09-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "520001R",
   "barcode": "",
   "spec": {
@@ -22875,7 +22875,7 @@
   "compare": null,
   "available": true,
   "created": "2024-09-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "600111",
   "barcode": "",
   "spec": {
@@ -22911,7 +22911,7 @@
   "compare": null,
   "available": true,
   "created": "2018-08-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "220111",
   "barcode": "",
   "spec": {
@@ -22947,7 +22947,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC24925",
   "barcode": "",
   "spec": {
@@ -22983,7 +22983,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD12650",
   "barcode": "",
   "spec": {
@@ -23019,7 +23019,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT24950",
   "barcode": "",
   "spec": {
@@ -23055,7 +23055,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-06-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9210",
   "barcode": "",
   "spec": {
@@ -23091,7 +23091,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "3520",
   "barcode": "",
   "spec": {
@@ -23128,7 +23128,7 @@
   "compare": null,
   "available": true,
   "created": "2026-09-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT22520",
   "barcode": "",
   "spec": {
@@ -23162,7 +23162,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC24810",
   "barcode": "",
   "spec": {
@@ -23194,11 +23194,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-22-ceramic-tower-space-heater-oscillating-2-heat-settings-remote-thermostat",
-  "price": 59.99,
+  "price": 69.99,
   "compare": 69.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT22360",
   "barcode": "",
   "spec": {
@@ -23217,9 +23217,9 @@
    ],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko 22\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Remote, Thermostat Tower Heaters 22\" Available Sale WFS || Customize how warmth moves around the room with the Lasko 22-inch Full Circle Warmth Ceramic Tower Heater. Patented blower technology and multiple heat sweep settings from 90° to 360° distribute 1500 watts of heat across larger spaces. Choose from 2 heat settings with an adjustable thermostat, while a remote, easy-clean filter, carry handle, overheat protection, and cool-touch housing add convenience and safety.",
+   "excerpt": "Lasko 22\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Remote, Thermostat Tower Heaters 22\" Available WFS || Customize how warmth moves around the room with the Lasko 22-inch Full Circle Warmth Ceramic Tower Heater. Patented blower technology and multiple heat sweep settings from 90° to 360° distribute 1500 watts of heat across larger spaces. Choose from 2 heat settings with an adjustable thermostat, while a remote, easy-clean filter, carry handle, overheat protection, and cool-touch housing add convenience and safety.",
    "unitCount": 1,
-   "discount": 0.14
+   "discount": null
   }
  },
  {
@@ -23234,7 +23234,7 @@
   "compare": 159.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FHV820",
   "barcode": "",
   "spec": {
@@ -23268,7 +23268,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-09-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RTF100",
   "barcode": "",
   "spec": {
@@ -23302,7 +23302,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC20125",
   "barcode": "",
   "spec": {
@@ -23338,7 +23338,7 @@
   "compare": null,
   "available": false,
   "created": "2026-07-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9555",
   "barcode": "",
   "spec": {
@@ -23375,7 +23375,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT18950",
   "barcode": "",
   "spec": {
@@ -23411,7 +23411,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT30300",
   "barcode": "",
   "spec": {
@@ -23445,9 +23445,9 @@
   "url": "https://lasko.com/products/lasko-wind-machine-20-air-circulator-fan-3-speed-pivoting-1",
   "price": 49.99,
   "compare": 59.99,
-  "available": false,
+  "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A20301",
   "barcode": "",
   "spec": {
@@ -23484,7 +23484,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "QB16103",
   "barcode": "",
   "spec": {
@@ -23518,9 +23518,9 @@
   "url": "https://lasko.com/products/lasko-25-ceramic-console-space-heater-2-heat-settings-timer-manual-louvers-thermostat",
   "price": 59.99,
   "compare": 99.99,
-  "available": true,
+  "available": false,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "6050",
   "barcode": "",
   "spec": {
@@ -23554,7 +23554,7 @@
   "compare": null,
   "available": false,
   "created": "2026-08-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BDP-25",
   "barcode": "",
   "spec": {
@@ -23590,7 +23590,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT32150",
   "barcode": "",
   "spec": {
@@ -23620,11 +23620,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-artisan-16-ceramic-tower-space-heater-oscillating-2-heat-settings-remote-timer-tip-over-switch-thermostat",
-  "price": 59.99,
+  "price": 69.99,
   "compare": 69.99,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CX16550",
   "barcode": "",
   "spec": {
@@ -23643,9 +23643,9 @@
    ],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko Artisan 16\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Remote, Timer, Tip-Over Switch, Thermostat Tower Heaters 16\" Available Best Seller Black Sale || Bring powerful warmth and contemporary style to large rooms with the Lasko Artisan 16-inch ceramic space heater. Its 1,500-watt high velocity heat and widespread oscillation help distribute warmth throughout living rooms, bedrooms, and home offices. Choose from 3 heat settings with an adjustable thermostat, then use the 12-hour timer or included remote for easy control. Proximity shut-off, overheat protection, and a tip-over switch add reassurance.",
+   "excerpt": "Lasko Artisan 16\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Remote, Timer, Tip-Over Switch, Thermostat Tower Heaters 16\" Available Best Seller Black || Bring powerful warmth and contemporary style to large rooms with the Lasko Artisan 16-inch ceramic space heater. Its 1,500-watt high velocity heat and widespread oscillation help distribute warmth throughout living rooms, bedrooms, and home offices. Choose from 3 heat settings with an adjustable thermostat, then use the 12-hour timer or included remote for easy control. Proximity shut-off, overheat protection, and a tip-over switch add reassurance.",
    "unitCount": 2,
-   "discount": 0.14
+   "discount": null
   }
  },
  {
@@ -23656,11 +23656,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-ct22850-1500w-ceramic-tower-space-heater-with-tip-switch-and-remote-black",
-  "price": 69.99,
-  "compare": null,
+  "price": 59.99,
+  "compare": 69.99,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT22850",
   "barcode": "",
   "spec": {
@@ -23677,9 +23677,9 @@
    "certs": [],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko 22\" Ceramic Tower Space Heater: Oscillating, 3 Heat Settings, Remote, Timer, Tip-Over Switch, Thermostat, Black Tower Heaters 22\" Available Black || Warm large rooms with the Lasko 22-inch Digital Ceramic Tower Space Heater. Its 1500 watts of ceramic heat, 3 heat settings, adjustable thermostat, and Auto Eco mode make it easy to personalize warmth while helping save energy. Widespread oscillation helps distribute heat across the room, while the included remote, 12-hour timer, and auto-dimming digital display simplify everyday control. Tip-over and overheat protection add reassurance.",
+   "excerpt": "Lasko 22\" Ceramic Tower Space Heater: Oscillating, 3 Heat Settings, Remote, Timer, Tip-Over Switch, Thermostat, Black Tower Heaters 22\" Available Black Sale || Warm large rooms with the Lasko 22-inch Digital Ceramic Tower Space Heater. Its 1500 watts of ceramic heat, 3 heat settings, adjustable thermostat, and Auto Eco mode make it easy to personalize warmth while helping save energy. Widespread oscillation helps distribute heat across the room, while the included remote, 12-hour timer, and auto-dimming digital display simplify everyday control. Tip-over and overheat protection add reassurance.",
    "unitCount": 1,
-   "discount": null
+   "discount": 0.14
   }
  },
  {
@@ -23694,7 +23694,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CA20150",
   "barcode": "",
   "spec": {
@@ -23730,7 +23730,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD12950",
   "barcode": "",
   "spec": {
@@ -23764,7 +23764,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT22495",
   "barcode": "",
   "spec": {
@@ -23800,7 +23800,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FHV830",
   "barcode": "",
   "spec": {
@@ -23836,7 +23836,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CL22100",
   "barcode": "",
   "spec": {
@@ -23870,7 +23870,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BA-FT-20X",
   "barcode": "",
   "spec": {
@@ -23906,7 +23906,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S18612",
   "barcode": "",
   "spec": {
@@ -23940,7 +23940,7 @@
   "compare": null,
   "available": false,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2527",
   "barcode": "",
   "spec": {
@@ -23972,11 +23972,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-whirlwind-heat-13-5-ceramic-space-heater-dual-oscillation-3-heat-settings-remote-timer-thermostat",
-  "price": 69.99,
+  "price": 79.99,
   "compare": 79.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CS12350",
   "barcode": "",
   "spec": {
@@ -23993,9 +23993,9 @@
    "certs": [],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko Whirlwind Heat 13.5\" Ceramic Space Heater: Dual Oscillation, 3 Heat Settings, Remote, Timer, Thermostat Table Top Heaters 13\" Available Best Seller Black Sale White || The Lasko Whirlwind Heat Ceramic Space Heater delivers 1500 watts of fast warmth for bedrooms, offices, and small spaces. Choose from 3 heat settings, while dual-axis oscillation moves heat 60° horizontally and vertically for wider coverage. An adjustable thermostat, remote, digital controls, and 12-hour timer simplify use. Tip-over and overheat protection, cool-touch housing, and an easy-grip handle add safety and portability.",
+   "excerpt": "Lasko Whirlwind Heat 13.5\" Ceramic Space Heater: Dual Oscillation, 3 Heat Settings, Remote, Timer, Thermostat Table Top Heaters 13\" Available Best Seller Black White || The Lasko Whirlwind Heat Ceramic Space Heater delivers 1500 watts of fast warmth for bedrooms, offices, and small spaces. Choose from 3 heat settings, while dual-axis oscillation moves heat 60° horizontally and vertically for wider coverage. An adjustable thermostat, remote, digital controls, and 12-hour timer simplify use. Tip-over and overheat protection, cool-touch housing, and an easy-grip handle add safety and portability.",
    "unitCount": 2,
-   "discount": 0.13
+   "discount": null
   }
  },
  {
@@ -24010,7 +24010,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A12105",
   "barcode": "",
   "spec": {
@@ -24046,7 +24046,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9012",
   "barcode": "",
   "spec": {
@@ -24082,7 +24082,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BD-SMNSN",
   "barcode": "",
   "spec": {
@@ -24118,7 +24118,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BD-MNSN",
   "barcode": "",
   "spec": {
@@ -24154,7 +24154,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BD-MS35",
   "barcode": "",
   "spec": {
@@ -24186,11 +24186,11 @@
   "vendor": "BlueDri",
   "cat": "fan",
   "url": "https://lasko.com/products/bluedri-max-storm-25-1-4-hp-900-cfm-air-mover-blower-fan-3-speed-high-velocity-2-outlets-3-drying-angles-cord-wrap",
-  "price": 99.99,
+  "price": 119.99,
   "compare": 119.99,
   "available": true,
   "created": "2026-07-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BD-MS25",
   "barcode": "",
   "spec": {
@@ -24209,9 +24209,9 @@
    ],
    "standard": null,
    "flags": [],
-   "excerpt": "BlueDri Max Storm 25 1/4 HP 900 CFM Air Mover Blower Fan: 3-Speed, High Velocity, 2 Outlets, 3 Drying Angles, Cord Wrap Blower Fans 1/4 HP Available Blue Sale || The BlueDri Max Storm 25 1/4 HP Air Mover delivers 900 CFM of airflow across three speed settings while drawing just 1.7 amps. The head positions at 0, 45, or 90 degrees, and two built-in outlets plus a 10-foot cord add flexibility on site. At 13.6 x 13.8 x 13 inches and 13.2 pounds, it stacks and daisy chains with up to 5 units, backed by roto-molded, C-ETL-US listed housing for water damage restoration and drying jobs.",
+   "excerpt": "BlueDri Max Storm 25 1/4 HP 900 CFM Air Mover Blower Fan: 3-Speed, High Velocity, 2 Outlets, 3 Drying Angles, Cord Wrap Blower Fans 1/4 HP Available Blue || The BlueDri Max Storm 25 1/4 HP Air Mover delivers 900 CFM of airflow across three speed settings while drawing just 1.7 amps. The head positions at 0, 45, or 90 degrees, and two built-in outlets plus a 10-foot cord add flexibility on site. At 13.6 x 13.8 x 13 inches and 13.2 pounds, it stacks and daisy chains with up to 5 units, backed by roto-molded, C-ETL-US listed housing for water damage restoration and drying jobs.",
    "unitCount": 1,
-   "discount": 0.17
+   "discount": null
   }
  },
  {
@@ -24226,7 +24226,7 @@
   "compare": null,
   "available": false,
   "created": "2026-06-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9145",
   "barcode": "",
   "spec": {
@@ -24262,7 +24262,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9850",
   "barcode": "",
   "spec": {
@@ -24298,7 +24298,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9550",
   "barcode": "",
   "spec": {
@@ -24335,7 +24335,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9146",
   "barcode": "",
   "spec": {
@@ -24371,7 +24371,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HVDC364",
   "barcode": "",
   "spec": {
@@ -24408,7 +24408,7 @@
   "compare": 69.99,
   "available": false,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T42215",
   "barcode": "",
   "spec": {
@@ -24444,7 +24444,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "B20801",
   "barcode": "",
   "spec": {
@@ -24480,7 +24480,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "BD-VP-15-BK",
   "barcode": "",
   "spec": {
@@ -24516,7 +24516,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DST016",
   "barcode": "",
   "spec": {
@@ -24553,7 +24553,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T48312",
   "barcode": "",
   "spec": {
@@ -24590,7 +24590,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T38415",
   "barcode": "",
   "spec": {
@@ -24624,7 +24624,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T36205",
   "barcode": "",
   "spec": {
@@ -24661,7 +24661,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A10802",
   "barcode": "",
   "spec": {
@@ -24698,7 +24698,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "UDC158",
   "barcode": "",
   "spec": {
@@ -24735,7 +24735,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT14101",
   "barcode": "",
   "spec": {
@@ -24772,7 +24772,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-06-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9554",
   "barcode": "",
   "spec": {
@@ -24806,7 +24806,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "B20308",
   "barcode": "",
   "spec": {
@@ -24842,7 +24842,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2026-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WML70",
   "barcode": "",
   "spec": {
@@ -24879,7 +24879,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2026-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WML50",
   "barcode": "",
   "spec": {
@@ -24916,7 +24916,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "9018",
   "barcode": "",
   "spec": {
@@ -24952,7 +24952,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "6451M",
   "barcode": "",
   "spec": {
@@ -24989,7 +24989,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RST200",
   "barcode": "",
   "spec": {
@@ -25026,7 +25026,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "OST301",
   "barcode": "",
   "spec": {
@@ -25060,7 +25060,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDC142",
   "barcode": "",
   "spec": {
@@ -25096,7 +25096,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDC364",
   "barcode": "",
   "spec": {
@@ -25132,7 +25132,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "OST100",
   "barcode": "",
   "spec": {
@@ -25166,7 +25166,7 @@
   "compare": null,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDC401",
   "barcode": "",
   "spec": {
@@ -25202,7 +25202,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDC487",
   "barcode": "",
   "spec": {
@@ -25238,7 +25238,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YY11200",
   "barcode": "",
   "spec": {
@@ -25274,7 +25274,7 @@
   "compare": null,
   "available": true,
   "created": "2024-12-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "APDC302",
   "barcode": "",
   "spec": {
@@ -25311,7 +25311,7 @@
   "compare": null,
   "available": true,
   "created": "2024-12-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RTF100",
   "barcode": "",
   "spec": {
@@ -25345,7 +25345,7 @@
   "compare": null,
   "available": true,
   "created": "2024-12-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDC425",
   "barcode": "",
   "spec": {
@@ -25377,11 +25377,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-9-ceramic-space-heater-oscillating-2-heat-settings-timer-tip-over-switch",
-  "price": 49.99,
+  "price": 39.99,
   "compare": 49.99,
   "available": true,
   "created": "2025-10-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD09475",
   "barcode": "",
   "spec": {
@@ -25400,9 +25400,9 @@
    ],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko 9\" Ceramic Space Heater: Oscillating, 2 Heat Settings, Timer, Tip-Over Switch Table Top Heaters 9\" Available Best Seller WFS White || The Lasko 9-inch Oscillating Ceramic Space Heater is a quiet space heater for bedrooms and small offices, bringing 1500 watts of fast, personal warmth to desks and tabletops. Oscillation helps spread warmth and ease cold spots nearby, while quiet High and Low heat settings personalize comfort. A tip-over switch, 2X overheat protection, cool-touch housing, and ETL listing support everyday peace of mind, and a removable Easy Clean filter helps keep the heater running efficiently for cleaner, more effective heating.",
+   "excerpt": "Lasko 9\" Ceramic Space Heater: Oscillating, 2 Heat Settings, Timer, Tip-Over Switch Table Top Heaters 9\" Available Best Seller Sale WFS White || The Lasko 9-inch Oscillating Ceramic Space Heater is a quiet space heater for bedrooms and small offices, bringing 1500 watts of fast, personal warmth to desks and tabletops. Oscillation helps spread warmth and ease cold spots nearby, while quiet High and Low heat settings personalize comfort. A tip-over switch, 2X overheat protection, cool-touch housing, and ETL listing support everyday peace of mind, and a removable Easy Clean filter helps keep the heater running efficiently for cleaner, more effective heating.",
    "unitCount": 1,
-   "discount": null
+   "discount": 0.2
   }
  },
  {
@@ -25417,7 +25417,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YY350-01",
   "barcode": "",
   "spec": {
@@ -25453,7 +25453,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HF25630",
   "barcode": "",
   "spec": {
@@ -25491,7 +25491,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "LP450S",
   "barcode": "",
   "spec": {
@@ -25527,7 +25527,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "LP450",
   "barcode": "",
   "spec": {
@@ -25563,7 +25563,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HF11200",
   "barcode": "",
   "spec": {
@@ -25600,7 +25600,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "LP200",
   "barcode": "",
   "spec": {
@@ -25637,7 +25637,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "LP300",
   "barcode": "",
   "spec": {
@@ -25671,7 +25671,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "UH250",
   "barcode": "",
   "spec": {
@@ -25707,7 +25707,7 @@
   "compare": 49.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "UH200",
   "barcode": "",
   "spec": {
@@ -25743,7 +25743,7 @@
   "compare": 19.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "UH150",
   "barcode": "",
   "spec": {
@@ -25779,7 +25779,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YY200-01",
   "barcode": "",
   "spec": {
@@ -25813,9 +25813,9 @@
   "url": "https://lasko.com/products/lasko-super-fan-max-13-air-mover-blower-fan-3-speed-high-velocity-2-outlets",
   "price": 69.99,
   "compare": 99.99,
-  "available": true,
+  "available": false,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "SF-20-BK",
   "barcode": "",
   "spec": {
@@ -25847,11 +25847,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-myheat-max-9-ceramic-space-heater-2-heat-settings-timer-tip-over-switch-thermostat",
-  "price": 34.99,
+  "price": 39.99,
   "compare": 39.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD09101",
   "barcode": "",
   "spec": {
@@ -25870,7 +25870,7 @@
    "flags": [],
    "excerpt": "Lasko MyHeat Max 9\" Ceramic Space Heater: 2 Heat Settings, Timer, Tip-Over Switch, Thermostat Table Top Heaters 9\" Available Black WFS || The Lasko MyHeat Max 9-inch Digital Ceramic compact space heater delivers 1500 watts of fast warmth with 35% more air velocity than the previous model for quicker heat at a desk, bedside, or small office. Use the digital controls to select from 2 heat settings, set the timer or turn on the energy-saving Auto Eco thermostat. Overheat protection, a tip-over switch, and cool-touch housing support everyday peace of mind, and its compact, handle-equipped design moves easily from room to room.",
    "unitCount": 1,
-   "discount": 0.13
+   "discount": null
   }
  },
  {
@@ -25881,11 +25881,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-myheat-max-9-ceramic-space-heater-2-heat-settings-timer-thermostat",
-  "price": 34.99,
+  "price": 39.99,
   "compare": 39.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD09100",
   "barcode": "",
   "spec": {
@@ -25902,9 +25902,9 @@
    "certs": [],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko MyHeat Max 9\" Ceramic Space Heater: 2 Heat Settings, Timer, Thermostat Table Top Heaters 9\" Available Black Sale WFS || The Lasko MyHeat Max 9-inch Digital Ceramic Space Heater is a personal space heater that delivers 1500 watts of fast warmth with 35% more air velocity than the previous model for quicker heat at a desk, bedside, or small office. High and Low heat settings plus Auto Eco mode let you dial in comfort while helping manage energy use in this energy-efficient heater, adjustable using simple front-facing controls and a digital display. Overheat protection, auto shut-off, and cool-touch housing support everyday peace of mind, and its compact, handle-equipped design moves easi",
+   "excerpt": "Lasko MyHeat Max 9\" Ceramic Space Heater: 2 Heat Settings, Timer, Thermostat Table Top Heaters 9\" Available Black WFS || The Lasko MyHeat Max 9-inch Digital Ceramic Space Heater is a personal space heater that delivers 1500 watts of fast warmth with 35% more air velocity than the previous model for quicker heat at a desk, bedside, or small office. High and Low heat settings plus Auto Eco mode let you dial in comfort while helping manage energy use in this energy-efficient heater, adjustable using simple front-facing controls and a digital display. Overheat protection, auto shut-off, and cool-touch housing support everyday peace of mind, and its compact, handle-equipped design moves easily fr",
    "unitCount": 1,
-   "discount": 0.13
+   "discount": null
   }
  },
  {
@@ -25919,7 +25919,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC27350",
   "barcode": "",
   "spec": {
@@ -25953,7 +25953,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC24910",
   "barcode": "",
   "spec": {
@@ -25989,7 +25989,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "M18950",
   "barcode": "",
   "spec": {
@@ -26022,11 +26022,11 @@
   "vendor": "Lasko",
   "cat": "heater",
   "url": "https://lasko.com/products/lasko-ready-heat-14-ceramic-tower-space-heater-oscillating-2-heat-settings-timer-thermostat",
-  "price": 49.99,
+  "price": 39.99,
   "compare": 49.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT14401",
   "barcode": "",
   "spec": {
@@ -26043,9 +26043,9 @@
    "certs": [],
    "standard": null,
    "flags": [],
-   "excerpt": "Lasko Ready Heat 14\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Timer, Thermostat Tower Heaters 14\" Available Best Seller Black WFS || Stay warm with the Lasko Ready Heat 14-Inch Personal Ceramic Tower Heater, ideal for bedrooms, home offices, and small to medium rooms. This 1500-watt ceramic space heater uses widespread oscillation to help reduce cold spots. Choose high or low heat, while the Auto Eco thermostat helps maintain comfort and save energy. EZtouch controls, an 8-hour timer, overheat protection, cool-touch exterior, and carry handle add convenience.",
+   "excerpt": "Lasko Ready Heat 14\" Ceramic Tower Space Heater: Oscillating, 2 Heat Settings, Timer, Thermostat Tower Heaters 14\" Available Best Seller Black Sale WFS || Stay warm with the Lasko Ready Heat 14-Inch Personal Ceramic Tower Heater, ideal for bedrooms, home offices, and small to medium rooms. This 1500-watt ceramic space heater uses widespread oscillation to help reduce cold spots. Choose high or low heat, while the Auto Eco thermostat helps maintain comfort and save energy. EZtouch controls, an 8-hour timer, overheat protection, cool-touch exterior, and carry handle add convenience.",
    "unitCount": 1,
-   "discount": null
+   "discount": 0.2
   }
  },
  {
@@ -26060,7 +26060,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "5919",
   "barcode": "",
   "spec": {
@@ -26096,7 +26096,7 @@
   "compare": null,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT22835",
   "barcode": "",
   "spec": {
@@ -26132,7 +26132,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT16450",
   "barcode": "",
   "spec": {
@@ -26169,7 +26169,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2024-08-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC13700",
   "barcode": "",
   "spec": {
@@ -26203,7 +26203,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF300",
   "barcode": "",
   "spec": {
@@ -26239,7 +26239,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "X12905",
   "barcode": "",
   "spec": {
@@ -26275,7 +26275,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "EST100",
   "barcode": "",
   "spec": {
@@ -26309,7 +26309,7 @@
   "compare": 69.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T36511",
   "barcode": "",
   "spec": {
@@ -26345,7 +26345,7 @@
   "compare": null,
   "available": true,
   "created": "2024-03-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DST100",
   "barcode": "",
   "spec": {
@@ -26382,7 +26382,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "SB100",
   "barcode": "",
   "spec": {
@@ -26419,7 +26419,7 @@
   "compare": null,
   "available": false,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S20620",
   "barcode": "",
   "spec": {
@@ -26455,7 +26455,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S16500",
   "barcode": "",
   "spec": {
@@ -26491,7 +26491,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S16612",
   "barcode": "",
   "spec": {
@@ -26525,7 +26525,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "U15617",
   "barcode": "",
   "spec": {
@@ -26561,7 +26561,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2511",
   "barcode": "",
   "spec": {
@@ -26597,7 +26597,7 @@
   "compare": 29.99,
   "available": true,
   "created": "2024-03-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "200",
   "barcode": "",
   "spec": {
@@ -26633,7 +26633,7 @@
   "compare": 19.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "D301",
   "barcode": "",
   "spec": {
@@ -26670,7 +26670,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S18708",
   "barcode": "",
   "spec": {
@@ -26704,7 +26704,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "M16900",
   "barcode": "",
   "spec": {
@@ -26741,7 +26741,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "U35115",
   "barcode": "",
   "spec": {
@@ -26777,7 +26777,7 @@
   "compare": null,
   "available": false,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "4890",
   "barcode": "",
   "spec": {
@@ -26813,7 +26813,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A20562",
   "barcode": "",
   "spec": {
@@ -26850,7 +26850,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD12100",
   "barcode": "",
   "spec": {
@@ -26886,7 +26886,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-12-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AR122",
   "barcode": "",
   "spec": {
@@ -26920,7 +26920,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T40733",
   "barcode": "",
   "spec": {
@@ -26957,7 +26957,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A20107",
   "barcode": "",
   "spec": {
@@ -26994,7 +26994,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A12668",
   "barcode": "",
   "spec": {
@@ -27030,7 +27030,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A12557",
   "barcode": "",
   "spec": {
@@ -27067,7 +27067,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2002W",
   "barcode": "",
   "spec": {
@@ -27103,7 +27103,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "5586",
   "barcode": "",
   "spec": {
@@ -27139,7 +27139,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "507",
   "barcode": "",
   "spec": {
@@ -27176,7 +27176,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T42950",
   "barcode": "",
   "spec": {
@@ -27212,7 +27212,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T42954",
   "barcode": "",
   "spec": {
@@ -27248,7 +27248,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF202",
   "barcode": "",
   "spec": {
@@ -27284,7 +27284,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T42700",
   "barcode": "",
   "spec": {
@@ -27321,7 +27321,7 @@
   "compare": 59.99,
   "available": false,
   "created": "2024-02-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T32200",
   "barcode": "",
   "spec": {
@@ -27357,7 +27357,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2024-02-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "T32202",
   "barcode": "",
   "spec": {
@@ -27394,7 +27394,7 @@
   "compare": 89.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "W09550",
   "barcode": "",
   "spec": {
@@ -27430,7 +27430,7 @@
   "compare": 24.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "101",
   "barcode": "",
   "spec": {
@@ -27466,7 +27466,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A20700",
   "barcode": "",
   "spec": {
@@ -27503,7 +27503,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A20305",
   "barcode": "",
   "spec": {
@@ -27540,7 +27540,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2264QM",
   "barcode": "",
   "spec": {
@@ -27576,7 +27576,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "H20685",
   "barcode": "",
   "spec": {
@@ -27613,7 +27613,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "B20548",
   "barcode": "",
   "spec": {
@@ -27647,7 +27647,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "S18355",
   "barcode": "",
   "spec": {
@@ -27681,7 +27681,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2506",
   "barcode": "",
   "spec": {
@@ -27717,7 +27717,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AW310",
   "barcode": "",
   "spec": {
@@ -27753,7 +27753,7 @@
   "compare": 99.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT24362",
   "barcode": "",
   "spec": {
@@ -27790,7 +27790,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CC23161",
   "barcode": "",
   "spec": {
@@ -27826,7 +27826,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CU12510",
   "barcode": "",
   "spec": {
@@ -27862,7 +27862,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "5775",
   "barcode": "",
   "spec": {
@@ -27898,7 +27898,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD09250",
   "barcode": "",
   "spec": {
@@ -27935,7 +27935,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FH610",
   "barcode": "",
   "spec": {
@@ -27971,7 +27971,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "5165",
   "barcode": "",
   "spec": {
@@ -28007,7 +28007,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2024-03-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CT16670",
   "barcode": "",
   "spec": {
@@ -28044,7 +28044,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CD08200",
   "barcode": "",
   "spec": {
@@ -28081,7 +28081,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "7050",
   "barcode": "",
   "spec": {
@@ -28115,7 +28115,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "4916",
   "barcode": "",
   "spec": {
@@ -28152,7 +28152,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "U12104",
   "barcode": "",
   "spec": {
@@ -28188,7 +28188,7 @@
   "compare": 79.99,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "R12210",
   "barcode": "",
   "spec": {
@@ -28225,7 +28225,7 @@
   "compare": null,
   "available": true,
   "created": "2023-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "2017",
   "barcode": "",
   "spec": {
@@ -28261,7 +28261,7 @@
   "compare": null,
   "available": true,
   "created": "2025-10-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NCD160GA00",
   "barcode": "",
   "spec": {
@@ -28300,7 +28300,7 @@
   "compare": null,
   "available": false,
   "created": "2025-02-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC-08000",
   "barcode": "",
   "spec": {
@@ -28343,7 +28343,7 @@
   "compare": null,
   "available": false,
   "created": "2025-02-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC-10000",
   "barcode": "",
   "spec": {
@@ -28386,7 +28386,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NGH1K6WH00",
   "barcode": "",
   "spec": {
@@ -28420,7 +28420,7 @@
   "compare": null,
   "available": true,
   "created": "2019-07-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "FMF2K5BK00",
   "barcode": "",
   "spec": {
@@ -28454,7 +28454,7 @@
   "compare": null,
   "available": false,
   "created": "2021-03-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NMF8K7BK00",
   "barcode": "",
   "spec": {
@@ -28490,7 +28490,7 @@
   "compare": null,
   "available": false,
   "created": "2021-03-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NMF7K5BK00",
   "barcode": "",
   "spec": {
@@ -28526,7 +28526,7 @@
   "compare": null,
   "available": true,
   "created": "2021-01-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NCH840BK00",
   "barcode": "",
   "spec": {
@@ -28562,7 +28562,7 @@
   "compare": null,
   "available": false,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AH-400",
   "barcode": "",
   "spec": {
@@ -28596,7 +28596,7 @@
   "compare": null,
   "available": false,
   "created": "2020-09-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NGH170GA00",
   "barcode": "",
   "spec": {
@@ -28630,7 +28630,7 @@
   "compare": null,
   "available": true,
   "created": "2020-01-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NIF18CBK00",
   "barcode": "",
   "spec": {
@@ -28666,7 +28666,7 @@
   "compare": null,
   "available": true,
   "created": "2019-09-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NGH160GA00",
   "barcode": "",
   "spec": {
@@ -28702,7 +28702,7 @@
   "compare": null,
   "available": true,
   "created": "2019-09-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "NGH500GA00",
   "barcode": "",
   "spec": {
@@ -28736,7 +28736,7 @@
   "compare": null,
   "available": true,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WindPro18W",
   "barcode": "",
   "spec": {
@@ -28772,7 +28772,7 @@
   "compare": null,
   "available": false,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WindPro18F",
   "barcode": "",
   "spec": {
@@ -28806,7 +28806,7 @@
   "compare": null,
   "available": true,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "G73",
   "barcode": "",
   "spec": {
@@ -28842,7 +28842,7 @@
   "compare": null,
   "available": true,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AF-600",
   "barcode": "",
   "spec": {
@@ -28878,7 +28878,7 @@
   "compare": null,
   "available": true,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "G56",
   "barcode": "",
   "spec": {
@@ -28914,7 +28914,7 @@
   "compare": null,
   "available": false,
   "created": "2018-06-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AC-14100H",
   "barcode": "",
   "spec": {
@@ -28955,7 +28955,7 @@
   "compare": null,
   "available": true,
   "created": "2021-03-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME021005N",
   "barcode": "",
   "spec": {
@@ -28994,7 +28994,7 @@
   "compare": null,
   "available": true,
   "created": "2024-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME031004N",
   "barcode": "",
   "spec": {
@@ -29035,7 +29035,7 @@
   "compare": null,
   "available": false,
   "created": "2019-10-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME021001N",
   "barcode": "",
   "spec": {
@@ -29076,7 +29076,7 @@
   "compare": 249.99,
   "available": false,
   "created": "2024-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME031001N",
   "barcode": "",
   "spec": {
@@ -29118,7 +29118,7 @@
   "compare": null,
   "available": true,
   "created": "2024-05-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME031003N",
   "barcode": "",
   "spec": {
@@ -29160,7 +29160,7 @@
   "compare": null,
   "available": true,
   "created": "2025-03-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME020091N-NA",
   "barcode": "",
   "spec": {
@@ -29201,7 +29201,7 @@
   "compare": null,
   "available": true,
   "created": "2025-04-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME010088N",
   "barcode": "",
   "spec": {
@@ -29243,7 +29243,7 @@
   "compare": null,
   "available": true,
   "created": "2025-03-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "HME010089N",
   "barcode": "",
   "spec": {
@@ -29284,7 +29284,7 @@
   "compare": 236.99,
   "available": true,
   "created": "2026-10-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CTH-80D",
   "barcode": "",
   "spec": {
@@ -29326,7 +29326,7 @@
   "compare": 669.99,
   "available": true,
   "created": "2026-09-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-DPW601B",
   "barcode": "",
   "spec": {
@@ -29367,7 +29367,7 @@
   "compare": 429.99,
   "available": true,
   "created": "2026-09-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AFY1.5D-PM",
   "barcode": "",
   "spec": {
@@ -29409,7 +29409,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD08A-18",
   "barcode": "",
   "spec": {
@@ -29455,7 +29455,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "KN-JD025N-80",
   "barcode": "",
   "spec": {
@@ -29502,7 +29502,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "JD025Q-80",
   "barcode": "",
   "spec": {
@@ -29549,7 +29549,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "KN-YDA-120",
   "barcode": "",
   "spec": {
@@ -29596,7 +29596,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "MP150-CE260DJ-XQD",
   "barcode": "",
   "spec": {
@@ -29643,7 +29643,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A120-HTC-XQD",
   "barcode": "",
   "spec": {
@@ -29690,7 +29690,7 @@
   "compare": null,
   "available": true,
   "created": "2026-08-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A30-XQD-HTC",
   "barcode": "",
   "spec": {
@@ -29737,7 +29737,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-B-160B",
   "barcode": "",
   "spec": {
@@ -29779,7 +29779,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-JD80Q",
   "barcode": "",
   "spec": {
@@ -29820,7 +29820,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "KN-DP602A",
   "barcode": "",
   "spec": {
@@ -29866,7 +29866,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF-CGYY140AY",
   "barcode": "",
   "spec": {
@@ -29912,7 +29912,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF-AYD1.5D",
   "barcode": "",
   "spec": {
@@ -29959,7 +29959,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF-DP901A5B3",
   "barcode": "",
   "spec": {
@@ -30005,7 +30005,7 @@
   "compare": null,
   "available": true,
   "created": "2026-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YF-DP601A5B3",
   "barcode": "",
   "spec": {
@@ -30051,7 +30051,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2026-07-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDZ-32A",
   "barcode": "",
   "spec": {
@@ -30088,7 +30088,7 @@
   "compare": 665.99,
   "available": true,
   "created": "2024-09-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CPG130A",
   "barcode": "",
   "spec": {
@@ -30130,7 +30130,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CA150PB",
   "barcode": "",
   "spec": {
@@ -30172,7 +30172,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CA150B",
   "barcode": "",
   "spec": {
@@ -30214,7 +30214,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-LW35A",
   "barcode": "",
   "spec": {
@@ -30250,7 +30250,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-KW60A",
   "barcode": "",
   "spec": {
@@ -30293,7 +30293,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CH150PD",
   "barcode": "",
   "spec": {
@@ -30335,7 +30335,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CH120D",
   "barcode": "",
   "spec": {
@@ -30378,7 +30378,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CH80D",
   "barcode": "",
   "spec": {
@@ -30420,7 +30420,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CA120B",
   "barcode": "",
   "spec": {
@@ -30462,7 +30462,7 @@
   "compare": null,
   "available": true,
   "created": "2026-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-CA80B",
   "barcode": "",
   "spec": {
@@ -30503,7 +30503,7 @@
   "compare": 199.99,
   "available": true,
   "created": "2026-05-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "782003914576",
   "barcode": "",
   "spec": {
@@ -30545,7 +30545,7 @@
   "compare": 799.99,
   "available": true,
   "created": "2026-05-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFD3.5DPM",
   "barcode": "",
   "spec": {
@@ -30586,7 +30586,7 @@
   "compare": 269.99,
   "available": true,
   "created": "2025-11-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD025CE-80",
   "barcode": "",
   "spec": {
@@ -30628,7 +30628,7 @@
   "compare": 299.99,
   "available": true,
   "created": "2026-05-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "TDW80A",
   "barcode": "",
   "spec": {
@@ -30670,7 +30670,7 @@
   "compare": 469.99,
   "available": true,
   "created": "2026-05-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AFY2.0DPM",
   "barcode": "",
   "spec": {
@@ -30712,7 +30712,7 @@
   "compare": null,
   "available": true,
   "created": "2026-05-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CHWA80B",
   "barcode": "",
   "spec": {
@@ -30754,7 +30754,7 @@
   "compare": 236.99,
   "available": true,
   "created": "2026-05-08",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CTH80D",
   "barcode": "",
   "spec": {
@@ -30796,7 +30796,7 @@
   "compare": 499.99,
   "available": false,
   "created": "2026-05-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "KOW60A",
   "barcode": "",
   "spec": {
@@ -30837,7 +30837,7 @@
   "compare": 899.99,
   "available": true,
   "created": "2023-05-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFD2.5D",
   "barcode": "",
   "spec": {
@@ -30878,7 +30878,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2025-06-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-C30CTH",
   "barcode": "",
   "spec": {
@@ -30920,7 +30920,7 @@
   "compare": 699.99,
   "available": true,
   "created": "2026-03-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFD2.0DPM",
   "barcode": "",
   "spec": {
@@ -30961,7 +30961,7 @@
   "compare": 305.99,
   "available": true,
   "created": "2025-10-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CTH120A",
   "barcode": "",
   "spec": {
@@ -31004,7 +31004,7 @@
   "compare": 309.99,
   "available": true,
   "created": "2026-01-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD025CE-120",
   "barcode": "",
   "spec": {
@@ -31046,7 +31046,7 @@
   "compare": 799.99,
   "available": true,
   "created": "2025-06-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFD2.5DPM",
   "barcode": "",
   "spec": {
@@ -31087,7 +31087,7 @@
   "compare": 269.99,
   "available": true,
   "created": "2023-01-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD025CE-80-US",
   "barcode": "",
   "spec": {
@@ -31129,7 +31129,7 @@
   "compare": 299.99,
   "available": true,
   "created": "2025-12-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-YDZ-120",
   "barcode": "",
   "spec": {
@@ -31171,7 +31171,7 @@
   "compare": 271.99,
   "available": true,
   "created": "2025-12-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-YDZ-80",
   "barcode": "",
   "spec": {
@@ -31213,7 +31213,7 @@
   "compare": 899.99,
   "available": true,
   "created": "2025-11-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW3.5DPM",
   "barcode": "",
   "spec": {
@@ -31254,7 +31254,7 @@
   "compare": 639.99,
   "available": true,
   "created": "2023-12-21",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-DP603B",
   "barcode": "",
   "spec": {
@@ -31295,7 +31295,7 @@
   "compare": 569.99,
   "available": true,
   "created": "2023-02-28",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-DP600B",
   "barcode": "",
   "spec": {
@@ -31336,7 +31336,7 @@
   "compare": 559.99,
   "available": true,
   "created": "2025-08-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW2.0DPM",
   "barcode": "",
   "spec": {
@@ -31377,7 +31377,7 @@
   "compare": 489.99,
   "available": true,
   "created": "2025-03-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW2.0D",
   "barcode": "",
   "spec": {
@@ -31418,7 +31418,7 @@
   "compare": 459.99,
   "available": true,
   "created": "2025-08-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW1.5DPM",
   "barcode": "",
   "spec": {
@@ -31460,7 +31460,7 @@
   "compare": 399.99,
   "available": true,
   "created": "2025-06-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW1.5D",
   "barcode": "",
   "spec": {
@@ -31502,7 +31502,7 @@
   "compare": 659.99,
   "available": true,
   "created": "2025-11-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-AFW2.5D",
   "barcode": "",
   "spec": {
@@ -31543,7 +31543,7 @@
   "compare": 509.99,
   "available": true,
   "created": "2022-09-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD026CE-150PM",
   "barcode": "",
   "spec": {
@@ -31584,7 +31584,7 @@
   "compare": 379.99,
   "available": true,
   "created": "2025-11-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD026CE-150",
   "barcode": "",
   "spec": {
@@ -31625,7 +31625,7 @@
   "compare": 379.99,
   "available": true,
   "created": "2022-09-12",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-JD026E-130",
   "barcode": "",
   "spec": {
@@ -31664,7 +31664,7 @@
   "compare": 449.99,
   "available": true,
   "created": "2025-11-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-YDZ-150PM",
   "barcode": "",
   "spec": {
@@ -31705,7 +31705,7 @@
   "compare": 425.99,
   "available": true,
   "created": "2025-11-03",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-YDZ-150",
   "barcode": "",
   "spec": {
@@ -31746,7 +31746,7 @@
   "compare": 195.99,
   "available": true,
   "created": "2020-10-19",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD09B",
   "barcode": "",
   "spec": {
@@ -31787,7 +31787,7 @@
   "compare": 185.99,
   "available": true,
   "created": "2024-10-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-PD160B-PRO",
   "barcode": "",
   "spec": {
@@ -31829,7 +31829,7 @@
   "compare": 499.99,
   "available": true,
   "created": "2025-11-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CTH150PA",
   "barcode": "",
   "spec": {
@@ -31872,7 +31872,7 @@
   "compare": 409.99,
   "available": true,
   "created": "2025-11-01",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CTH150A",
   "barcode": "",
   "spec": {
@@ -31915,7 +31915,7 @@
   "compare": 175.99,
   "available": true,
   "created": "2019-10-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-PD160B",
   "barcode": "",
   "spec": {
@@ -31957,7 +31957,7 @@
   "compare": 288.98,
   "available": true,
   "created": "2025-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-18-A-PD08",
   "barcode": "",
   "spec": {
@@ -31999,7 +31999,7 @@
   "compare": 849.99,
   "available": true,
   "created": "2025-09-16",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DP901B",
   "barcode": "",
   "spec": {
@@ -32038,7 +32038,7 @@
   "compare": 639.99,
   "available": true,
   "created": "2025-09-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "DP601B",
   "barcode": "",
   "spec": {
@@ -32079,7 +32079,7 @@
   "compare": 179.99,
   "available": true,
   "created": "2025-09-02",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CTH30A",
   "barcode": "",
   "spec": {
@@ -32122,7 +32122,7 @@
   "compare": 249.99,
   "available": true,
   "created": "2025-08-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PD160B-PRO-B",
   "barcode": "",
   "spec": {
@@ -32164,7 +32164,7 @@
   "compare": 359.99,
   "available": true,
   "created": "2025-08-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CHWA150PA",
   "barcode": "",
   "spec": {
@@ -32206,7 +32206,7 @@
   "compare": 329.99,
   "available": true,
   "created": "2025-08-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CHWA150A",
   "barcode": "",
   "spec": {
@@ -32248,7 +32248,7 @@
   "compare": 249.99,
   "available": true,
   "created": "2025-08-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CHWA120A",
   "barcode": "",
   "spec": {
@@ -32290,7 +32290,7 @@
   "compare": 220.99,
   "available": true,
   "created": "2025-08-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CHWA80A",
   "barcode": "",
   "spec": {
@@ -32332,7 +32332,7 @@
   "compare": 539.99,
   "available": true,
   "created": "2025-08-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -32374,7 +32374,7 @@
   "compare": 499.99,
   "available": true,
   "created": "2025-08-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -32416,7 +32416,7 @@
   "compare": 439.99,
   "available": true,
   "created": "2025-08-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -32458,7 +32458,7 @@
   "compare": 379.99,
   "available": true,
   "created": "2025-08-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -32500,7 +32500,7 @@
   "compare": 899.99,
   "available": true,
   "created": "2025-08-06",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AZ-CGWY140AG",
   "barcode": "",
   "spec": {
@@ -32539,7 +32539,7 @@
   "compare": 458.98,
   "available": true,
   "created": "2025-07-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150PA-CTH",
   "barcode": "",
   "spec": {
@@ -32581,7 +32581,7 @@
   "compare": 367.18,
   "available": true,
   "created": "2025-07-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150A-CTH",
   "barcode": "",
   "spec": {
@@ -32623,7 +32623,7 @@
   "compare": 458.98,
   "available": true,
   "created": "2025-07-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-120A-CTH",
   "barcode": "",
   "spec": {
@@ -32665,7 +32665,7 @@
   "compare": 288.98,
   "available": true,
   "created": "2025-07-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-80A-CTH",
   "barcode": "",
   "spec": {
@@ -32707,7 +32707,7 @@
   "compare": 458.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150PB-CTH-2",
   "barcode": "",
   "spec": {
@@ -32749,7 +32749,7 @@
   "compare": 367.18,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150B-CTH-2",
   "barcode": "",
   "spec": {
@@ -32791,7 +32791,7 @@
   "compare": 322.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-120B-CTH-2",
   "barcode": "",
   "spec": {
@@ -32833,7 +32833,7 @@
   "compare": 458.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150PM-JD026L-2",
   "barcode": "",
   "spec": {
@@ -32875,7 +32875,7 @@
   "compare": 441.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-150-JD026L-2",
   "barcode": "",
   "spec": {
@@ -32917,7 +32917,7 @@
   "compare": 373.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-120-JD025L-2",
   "barcode": "",
   "spec": {
@@ -32959,7 +32959,7 @@
   "compare": 271.98,
   "available": true,
   "created": "2025-07-17",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-80-JD025L-2",
   "barcode": "",
   "spec": {
@@ -33001,7 +33001,7 @@
   "compare": 999.99,
   "available": true,
   "created": "2025-07-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "YDA-858E",
   "barcode": "",
   "spec": {
@@ -33042,7 +33042,7 @@
   "compare": 322.98,
   "available": true,
   "created": "2025-06-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-80B-CTH",
   "barcode": "",
   "spec": {
@@ -33084,7 +33084,7 @@
   "compare": 299.99,
   "available": true,
   "created": "2025-05-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CTH80B",
   "barcode": "",
   "spec": {
@@ -33126,7 +33126,7 @@
   "compare": 458.98,
   "available": true,
   "created": "2025-05-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-PRO-160",
   "barcode": "",
   "spec": {
@@ -33168,7 +33168,7 @@
   "compare": 220.61,
   "available": true,
   "created": "2025-05-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "WM-45A-AC",
   "barcode": "",
   "spec": {
@@ -33210,7 +33210,7 @@
   "compare": 599.99,
   "available": true,
   "created": "2023-07-14",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "A019E-8K",
   "barcode": "",
   "spec": {
@@ -33253,7 +33253,7 @@
   "compare": 899.99,
   "available": true,
   "created": "2020-10-15",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "CFD2.5D-US",
   "barcode": "",
   "spec": {
@@ -33292,7 +33292,7 @@
   "compare": 159,
   "available": true,
   "created": "2025-06-05",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF03BASI-FJB1520-0NNMW00",
   "barcode": "",
   "spec": {
@@ -33326,7 +33326,7 @@
   "compare": null,
   "available": true,
   "created": "2024-10-10",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "",
   "barcode": "",
   "spec": {
@@ -33360,7 +33360,7 @@
   "compare": 1599,
   "available": false,
   "created": "2023-10-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-120X-0YAMG00",
   "barcode": "",
   "spec": {
@@ -33399,7 +33399,7 @@
   "compare": 1399,
   "available": true,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-100X-0YAMG00",
   "barcode": "",
   "spec": {
@@ -33440,7 +33440,7 @@
   "compare": 1147.11,
   "available": false,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-90X-0YAMG00",
   "barcode": "",
   "spec": {
@@ -33479,7 +33479,7 @@
   "compare": 730.97,
   "available": true,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-90-0NNMS00",
   "barcode": "",
   "spec": {
@@ -33518,7 +33518,7 @@
   "compare": 755.66,
   "available": true,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-65XS-0YDMR00",
   "barcode": "",
   "spec": {
@@ -33560,7 +33560,7 @@
   "compare": 648.6,
   "available": true,
   "created": "2023-10-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-55-0NNMI00",
   "barcode": "",
   "spec": {
@@ -33599,7 +33599,7 @@
   "compare": 648.66,
   "available": false,
   "created": "2023-10-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-55S-0NNMG00",
   "barcode": "",
   "spec": {
@@ -33638,7 +33638,7 @@
   "compare": 466.11,
   "available": true,
   "created": "2023-10-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "RF02BASS-AirWerx-35P-0YDMG00",
   "barcode": "",
   "spec": {
@@ -33680,7 +33680,7 @@
   "compare": null,
   "available": true,
   "created": "2023-10-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AOIA-2S",
   "barcode": "",
   "spec": {
@@ -33716,7 +33716,7 @@
   "compare": 149,
   "available": false,
   "created": "2023-04-20",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "AOAP094B",
   "barcode": "",
   "spec": {
@@ -33753,7 +33753,7 @@
   "compare": 74.99,
   "available": true,
   "created": "2025-10-24",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PECLDPAK",
   "barcode": "",
   "spec": {
@@ -33789,7 +33789,7 @@
   "compare": null,
   "available": false,
   "created": "2025-09-25",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUTRB2G-W",
   "barcode": "",
   "spec": {
@@ -33825,7 +33825,7 @@
   "compare": null,
   "available": true,
   "created": "2025-03-31",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEAIRCB-W",
   "barcode": "",
   "spec": {
@@ -33862,7 +33862,7 @@
   "compare": null,
   "available": true,
   "created": "2023-08-29",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEPERSAP-CLDG",
   "barcode": "",
   "spec": {
@@ -33900,7 +33900,7 @@
   "compare": null,
   "available": false,
   "created": "2022-10-11",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMGRY-WG",
   "barcode": "",
   "spec": {
@@ -33937,7 +33937,7 @@
   "compare": null,
   "available": false,
   "created": "2022-09-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PESPAXL-WG",
   "barcode": "",
   "spec": {
@@ -33974,7 +33974,7 @@
   "compare": null,
   "available": false,
   "created": "2022-07-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEDEH2L",
   "barcode": "",
   "spec": {
@@ -34010,7 +34010,7 @@
   "compare": null,
   "available": true,
   "created": "2022-04-13",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEAIRCYL",
   "barcode": "",
   "spec": {
@@ -34046,7 +34046,7 @@
   "compare": null,
   "available": true,
   "created": "2022-03-18",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEAIRBER",
   "barcode": "",
   "spec": {
@@ -34082,7 +34082,7 @@
   "compare": null,
   "available": false,
   "created": "2022-01-27",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUTRB-W",
   "barcode": "",
   "spec": {
@@ -34118,7 +34118,7 @@
   "compare": null,
   "available": false,
   "created": "2021-09-09",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEVALHUM-G",
   "barcode": "",
   "spec": {
@@ -34155,7 +34155,7 @@
   "compare": null,
   "available": false,
   "created": "2021-06-23",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHNDFN-W",
   "barcode": "",
   "spec": {
@@ -34191,7 +34191,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2020-06-30",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEPERSAP",
   "barcode": "",
   "spec": {
@@ -34228,7 +34228,7 @@
   "compare": null,
   "available": true,
   "created": "2020-09-04",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEFANDUO",
   "barcode": "",
   "spec": {
@@ -34264,7 +34264,7 @@
   "compare": 59.99,
   "available": true,
   "created": "2020-06-22",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PECOMPAP",
   "barcode": "",
   "spec": {
@@ -34301,7 +34301,7 @@
   "compare": null,
   "available": true,
   "created": "2020-01-07",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMTOP-K",
   "barcode": "",
   "spec": {
@@ -34337,7 +34337,7 @@
   "compare": null,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMINI-2",
   "barcode": "",
   "spec": {
@@ -34374,7 +34374,7 @@
   "compare": 149.99,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEAIRTWR",
   "barcode": "",
   "spec": {
@@ -34411,7 +34411,7 @@
   "compare": 79.99,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEAIRDSK",
   "barcode": "",
   "spec": {
@@ -34448,7 +34448,7 @@
   "compare": null,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEDEHUM",
   "barcode": "",
   "spec": {
@@ -34484,7 +34484,7 @@
   "compare": null,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEDEHLRG",
   "barcode": "",
   "spec": {
@@ -34520,7 +34520,7 @@
   "compare": null,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMSML",
   "barcode": "",
   "spec": {
@@ -34556,7 +34556,7 @@
   "compare": 39.99,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMIDIF-RT",
   "barcode": "",
   "spec": {
@@ -34592,7 +34592,7 @@
   "compare": null,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMLRG",
   "barcode": "",
   "spec": {
@@ -34628,7 +34628,7 @@
   "compare": null,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMGRY",
   "barcode": "",
   "spec": {
@@ -34664,7 +34664,7 @@
   "compare": null,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUME",
   "barcode": "",
   "spec": {
@@ -34700,7 +34700,7 @@
   "compare": null,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMEXL",
   "barcode": "",
   "spec": {
@@ -34736,7 +34736,7 @@
   "compare": 99.99,
   "available": false,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PEHUMPRO",
   "barcode": "",
   "spec": {
@@ -34772,7 +34772,7 @@
   "compare": null,
   "available": true,
   "created": "2019-04-26",
-  "updated": "2026-10-23",
+  "updated": "2026-10-25",
   "sku": "PECLDHUM",
   "barcode": "",
   "spec": {

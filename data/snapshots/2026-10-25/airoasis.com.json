@@ -1,0 +1,73 @@
+[
+ {
+  "handle": "iadaptair-2-0",
+  "title": "iAdaptAir 2.0",
+  "type": "Air Purifiers",
+  "vendor": "Air Oasis",
+  "cat": "air-purifier",
+  "url": "https://airoasis.com/products/iadaptair-2-0",
+  "price": 399,
+  "compare": null,
+  "available": true,
+  "created": "2023-10-25",
+  "updated": "2026-10-25",
+  "sku": "AOIA-2S",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 265,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "iAdaptAir 2.0 Air Purifiers 1095 175 250 265 530 550 600 795 850 air purifier Allergens Bacteria & Actinos bi-polar Carbon Filter Dust HEPA Filter Ionization L large Large Commercial Space Large Living Room Large Master Suite M medium Mold P Pollen & Pet Dander Pro S Silver Ion Screen small Small Kid's Room Smoke UV Light Virus VOCs & Odors || Get more with iAdaptAir 2.0 The best air purifier for mold, allergens, dust, pollen, dander, smoke, odors, bacteria, viruses VOCs and biotoxins Covers 265 sq. ft. with 5 air exchanges per hour The quietest air purifier you'll ever own (25 dB) 177 CADR (CFM) Medical-grade H13 HEPA filter, carbon filter, bi-polar ionization, germicidal UV LEDs and silver",
+   "unitCount": 4,
+   "discount": null
+  }
+ },
+ {
+  "handle": "air-oasis-ap094-hepa",
+  "title": "94 HEPA Purifier",
+  "type": "Air Purifiers",
+  "vendor": "Air Oasis",
+  "cat": "air-purifier",
+  "url": "https://airoasis.com/products/air-oasis-ap094-hepa",
+  "price": 109,
+  "compare": 149,
+  "available": false,
+  "created": "2023-04-20",
+  "updated": "2026-10-25",
+  "sku": "AOAP094B",
+  "barcode": "",
+  "spec": {
+   "btu": null,
+   "btuAshrae": null,
+   "btuSacc": null,
+   "btuAll": [],
+   "pints": null,
+   "liters": null,
+   "pintsEq": null,
+   "sqft": 875,
+   "tankGal": null,
+   "refrigerant": null,
+   "certs": [
+    "UL",
+    "CARB"
+   ],
+   "standard": null,
+   "flags": [],
+   "excerpt": "94 HEPA Purifier Air Purifiers 175 Allergens Carbon Filter Dust HEPA Filter Pollen & Pet Dander S Smoke VOCs & Odors || Effortlessly eliminate allergens, dust, dander, smoke, pollen, and odors using this room HEPA air purifier featuring a durable metal housing. It's perfectly suited for spaces up to 875 sq. ft. and includes a pre-filter, TRUE HEPA filter, and carbon filter preinstalled. Enjoy the flexibility of selecting from four fan speeds, and always stay on top of filter replacements with the helpful filter replacement indicator. You can set the air purifier to turn off automatically with a 1 to 12-hour timer. When you desire a peaceful atmosphere, activate the night mode to turn off lig",
+   "unitCount": 1,
+   "discount": 0.27
+  }
+ }
+]
