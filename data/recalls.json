@@ -1,5 +1,25 @@
 [
  {
+  "number": "27054",
+  "cat": "取暖器",
+  "date": "2026-10-29",
+  "title": "DREO Recalls DR-HSH015 Space Heaters Due to Fire and Burn Hazards",
+  "url": "https://cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards",
+  "units": "About 338,800 (In addition, about 36,300 were sold in Canada)",
+  "hazard": "The recalled space heaters can overheat and ignite, posing fire and burn hazards.",
+  "model": [],
+  "names": [
+   "DREO Space Heaters, model DR-HSH015"
+  ],
+  "upcs": [],
+  "brands": [
+   "Hesung Innovation Corp, dba DREO, of Clifton, New Jerse"
+  ],
+  "desc": "This recall involves DREO space heaters, model number DR-HSH015. The ceramic, electric heaters are black and measure about 11.5 inches wide and 13 inches tall and include a remote control. Only units manufactured from April 2025 through January 2026 are included in this recall. The manufacture date, in YYYY/MM format, and the model number are printed on a label on the heater’s underside and “DREO” on the front of the unit. ",
+  "matchedBrands": [],
+  "matchedSku": null
+ },
+ {
   "number": "26776",
   "cat": "窗式空调",
   "date": "2026-09-17",
